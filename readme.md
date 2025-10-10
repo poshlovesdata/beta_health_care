@@ -1,0 +1,123 @@
+# BetaHealthCare
+
+BetaHealthCare is a Primary Health Care (PHC) data platform that simulates and models PHC operations, including facility allocation, service delivery, and resource management.
+
+## Quick Start
+
+- Install dependencies:
+  ```bash
+  pip install -r requirements.txt
+  ```
+- Prepare population data (required for realistic allocations):
+
+  ```bash
+  # State populations (reads from data/raw/nga_admpop_adm1_2022.csv)
+  python scripts/prepare_state_population.py
+
+  # LGA populations (reads from data/raw/lga_pop_data.csv)
+  python scripts/prepare_lga_population.py
+  ```
+
+  Outputs are written to `data/processed/population/`.
+
+- Generate simulated datasets:
+
+  ```bash
+  python scripts/simulate_phc.py
+  ```
+
+  CSVs are written to `data/outputs/`.
+
+- Start pgAdmin (optional, for managing your cloud Postgres):
+
+  ```bash
+  docker compose up -d
+  ```
+
+- Load CSVs into Postgres:
+
+  ```bash
+  python scripts/db_loader_pg.py
+  ```
+
+- Run the API server:
+  ```bash
+  # Ensure DATABASE_URL is set in your environment or .env
+  uvicorn api.main:app --reload --port 8000
+  ```
+
+## Project Structure
+
+```
+phc_hub/
+├── api/                 # FastAPI app
+│   └── main.py
+├── scripts/             # CLI scripts
+│   ├── simulate_phc.py          # Generate simulated datasets
+│   ├── db_loader_pg.py          # Load datasets into Postgres
+│   ├── prepare_state_population.py
+│   └── prepare_lga_population.py
+├── data/
+│   ├── raw/             # Source population files
+│   ├── processed/
+│   │   └── population/  # Prepared population CSVs
+│   └── outputs/         # Simulator outputs (CSVs)
+├── API_README.md        # API-specific setup and usage
+├── DATA_DICTIONARY.md   # Schema and field descriptions
+├── simulation_logic.md  # Modeling choices and assumptions
+└── docker-compose.yml   # Postgres/pgAdmin services
+```
+
+## Data Outputs
+
+The simulator writes the following CSVs to `data/outputs/`:
+
+- `facilities_master.csv`
+- `facility_infrastructure.csv`
+- `facility_equipment.csv`
+- `medicine_catalog.csv`
+- `facility_medicine_stock.csv`
+- `facility_hours.csv`
+- `facility_services.csv`
+- `facility_live_status.csv`
+- `facility_daily_metrics.csv` (last 30 days)
+- `facility_referrals.csv`
+- `lga_daily_signals.csv` (last 30 days)
+
+## API Overview
+
+- Start the server: `uvicorn api.main:app --reload --port 8000`
+- Base URL: `http://localhost:8000`
+- Key endpoints:
+  - `GET /` — API info and endpoint list
+  - `GET /facilities?state=&lga=&facility_type=&ownership=&limit=&offset=`
+  - `GET /facilities/{facility_id}`
+  - `GET /lga-signals?state=&lga=&date_from=&date_to=&limit=&offset=`
+
+See `API_README.md` for database setup details.
+
+## Configuration
+
+- Copy environment template and adjust as needed:
+  ```bash
+  cp .env.example .env
+  ```
+- Set `DATABASE_URL` in `.env` to your cloud Postgres connection string.
+- pgAdmin is available at `http://localhost:5050` (from Docker Compose) with credentials from `docker-compose.yml`.
+
+## Scripts
+
+- `scripts/prepare_state_population.py` — builds `state_population_2022.csv`
+- `scripts/prepare_lga_population.py` — builds `lga_population_2022.csv`
+- `scripts/simulate_phc.py` — generates all simulated datasets
+- `scripts/db_loader_pg.py` — loads all datasets into Postgres
+
+## Troubleshooting
+
+- If `data/outputs/` is empty, run the simulator: `python scripts/simulate_phc.py`.
+- If Postgres isn’t reachable, verify your cloud DB host/port/firewall and credentials. Use pgAdmin (`docker compose up -d`) to test connectivity.
+- Verify `DATABASE_URL` matches your environment or `.env`.
+
+## About
+
+BetaHealthCare is designed to help teams prototype PHC data workflows quickly, with realistic datasets, clear documentation, and a simple API for queries and dashboards.
