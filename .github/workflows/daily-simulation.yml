@@ -19,23 +19,24 @@ jobs:
           cache: "pip"
           cache-dependency-path: requirements.txt
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      # - name: Install dependencies
+      #   run: pip install -r requirements.txt
 
-      - name: Run simulation
-        run: python scripts/simulate_phc.py
+      # - name: Run simulation
+      #   run: python scripts/simulate_phc.py
 
-      - name: Load CSVs into Postgres
-        env:
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
-        run: python scripts/db_loader_pg.py
+      # - name: Load CSVs into Postgres
+      #   env:
+      #     DATABASE_URL: ${{ secrets.DATABASE_URL }}
+      #   run: python scripts/db_loader_pg.py
 
       - name: Send status email
         if: always()
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
-          server_port: ${{ secrets.SMTP_PORT }}
+          server_port: 587
+          secure: false
           username: ${{ secrets.SMTP_USERNAME }}
           password: ${{ secrets.SMTP_PASSWORD }} fdhf equm zrxz gfaz
           from: ${{ secrets.NOTIFY_EMAIL_FROM }}
