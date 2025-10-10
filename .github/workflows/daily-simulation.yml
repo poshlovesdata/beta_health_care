@@ -29,3 +29,23 @@ jobs:
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
         run: python scripts/db_loader_pg.py
+
+      - name: Send status email
+        if: always()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }} fdhf equm zrxz gfaz
+          from: ${{ secrets.NOTIFY_EMAIL_FROM }}
+          to: ${{ secrets.NOTIFY_EMAIL_TO }}
+          secure: true
+          subject: "BetaHealthCare Daily Simulation: ${{ job.status }}"
+          body: |
+            Workflow: ${{ github.workflow }}
+            Run: ${{ github.run_number }}
+            Status: ${{ job.status }}
+            Commit: ${{ github.sha }}
+            Repo: ${{ github.repository }}
+            Run URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
