@@ -127,13 +127,19 @@ See `API_README.md` for database setup details.
 
 - Location: `/.github/workflows/daily-simulation.yml`
 - Trigger: daily at `0 0 * * *` (UTC) and manual `workflow_dispatch`
-- Steps: checkout repo, set up Python 3.10, install `requirements.txt`, run simulator, load CSVs into Postgres
+- Steps: checkout repo, set up Python 3.10, install `requirements.txt`, load CSVs into Postgres
 - Notifications: sends an email on success or failure
 - Required Secrets (Settings → Secrets and variables → Actions):
   - `DATABASE_URL` — cloud Postgres connection string
   - `SMTP_SERVER`, `SMTP_PORT` — SMTP host and port
   - `SMTP_USERNAME`, `SMTP_PASSWORD` — SMTP credentials (use app password if needed)
   - `NOTIFY_EMAIL_FROM`, `NOTIFY_EMAIL_TO` — sender and recipient email addresses
+
+### Manual simulation runs
+- The daily workflow skips the simulator by default to keep data stable.
+- To run the simulator manually, go to Actions → “BetaHealthCare Daily Simulation” → Run workflow and set:
+  - `run_simulation` to `true` (optional)
+  - `run_loader` to `true` if you also want to reload Postgres
 
 ## Troubleshooting
 

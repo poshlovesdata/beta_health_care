@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+    inputs:
+      run_simulation:
+        description: 'Run simulation before loading'
+        required: false
+        default: 'false'
+      run_loader:
+        description: 'Run loader step'
+        required: false
+        default: 'true'
 
 jobs:
   run-simulation-and-load:
@@ -23,9 +32,11 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run simulation
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.run_simulation == 'true'
         run: python scripts/simulate_phc.py
 
       - name: Load CSVs into Postgres
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.run_loader == 'true')
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
         run: python scripts/db_loader_pg.py
