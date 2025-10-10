@@ -1,0 +1,1951 @@
+date,country,state,lga,fever_cases,diarrhea_cases,resp_cases,rainfall_mm,temperature_c,cholera_alert
+2025-09-11,Nigeria,Abia,Aba South,238,78,124,5.2,26.5,False
+2025-09-11,Nigeria,Abia,Umuahia North,149,52,47,1.6,22.2,False
+2025-09-11,Nigeria,Adamawa,Mubi North,214,46,95,2.3,32.5,False
+2025-09-11,Nigeria,Adamawa,Yola North,269,118,207,3.4,33.1,False
+2025-09-11,Nigeria,Akwa Ibom,Eket,207,47,162,6.8,32.9,False
+2025-09-11,Nigeria,Akwa Ibom,Uyo,341,109,157,1.3,30.0,False
+2025-09-11,Nigeria,Anambra,Awka South,199,89,88,11.4,30.1,True
+2025-09-11,Nigeria,Anambra,Onitsha North,288,114,171,5.6,27.5,False
+2025-09-11,Nigeria,Bauchi,Bauchi,542,141,318,1.7,29.3,False
+2025-09-11,Nigeria,Bauchi,Katagum,306,125,159,6.6,29.6,False
+2025-09-11,Nigeria,Benue,Gboko,324,148,170,0.5,30.2,False
+2025-09-11,Nigeria,Benue,Makurdi,197,70,103,4.0,27.6,False
+2025-09-11,Nigeria,Borno,Jere,125,32,109,0.4,28.0,False
+2025-09-11,Nigeria,Borno,Maiduguri,425,196,321,2.1,30.0,False
+2025-09-11,Nigeria,Cross River,Ikom,297,85,131,3.1,29.7,False
+2025-09-11,Nigeria,Delta,Ughelli North,254,59,133,3.6,29.8,False
+2025-09-11,Nigeria,Delta,Warri South,277,92,200,4.6,26.8,False
+2025-09-11,Nigeria,Edo,Etsako West,209,67,144,4.1,27.6,False
+2025-09-11,Nigeria,Edo,Oredo,233,108,125,5.6,29.4,False
+2025-09-11,Nigeria,Ekiti,Ado Ekiti,288,84,97,0.4,31.1,False
+2025-09-11,Nigeria,Ekiti,Ikole,83,14,61,4.1,26.5,False
+2025-09-11,Nigeria,Enugu,Enugu North,243,104,98,6.2,30.5,False
+2025-09-11,Nigeria,Enugu,Nsukka,175,60,123,0.1,32.4,False
+2025-09-11,Nigeria,FCT,AMAC,198,111,195,2.1,30.9,False
+2025-09-11,Nigeria,FCT,Bwari,235,69,167,2.3,30.7,False
+2025-09-11,Nigeria,Gombe,Gombe,254,89,185,10.0,33.5,False
+2025-09-11,Nigeria,Gombe,Kaltungo,164,54,69,1.9,30.4,False
+2025-09-11,Nigeria,Jigawa,Dutse,533,205,305,6.4,27.4,False
+2025-09-11,Nigeria,Jigawa,Hadejia,247,74,107,15.2,27.1,True
+2025-09-11,Nigeria,Kaduna,Chikun,339,84,324,0.1,26.5,False
+2025-09-11,Nigeria,Kaduna,Zaria,424,182,268,2.1,25.5,False
+2025-09-11,Nigeria,Kano,Gwale,1663,445,623,3.2,24.0,False
+2025-09-11,Nigeria,Katsina,Dutsin-Ma,522,203,300,11.2,26.3,True
+2025-09-11,Nigeria,Katsina,Kafur,643,241,432,1.8,26.5,False
+2025-09-11,Nigeria,Kebbi,Argungu,152,72,88,4.7,22.5,False
+2025-09-11,Nigeria,Kebbi,Birnin Kebbi,267,89,241,13.1,26.0,True
+2025-09-11,Nigeria,Kogi,Idah,69,30,31,1.0,31.2,False
+2025-09-11,Nigeria,Kogi,Lokoja,283,79,196,0.8,27.4,False
+2025-09-11,Nigeria,Kwara,Ilorin West,198,50,140,4.9,24.6,False
+2025-09-11,Nigeria,Kwara,Offa,71,26,53,11.6,29.9,False
+2025-09-11,Nigeria,Lagos,Alimosho,713,138,465,6.5,28.4,False
+2025-09-11,Nigeria,Lagos,Ikorodu,229,95,164,0.8,33.8,False
+2025-09-11,Nigeria,Lagos,Surulere,168,37,107,4.0,27.3,False
+2025-09-11,Nigeria,Niger,Bida,408,132,230,9.5,28.9,False
+2025-09-11,Nigeria,Niger,Chanchaga,280,100,170,4.0,29.1,False
+2025-09-11,Nigeria,Ogun,Abeokuta South,123,55,76,12.7,27.2,True
+2025-09-11,Nigeria,Ogun,Ifo,604,203,262,1.6,29.8,False
+2025-09-11,Nigeria,Ondo,Akure South,356,124,238,5.8,32.6,False
+2025-09-11,Nigeria,Ondo,Owo,187,48,130,3.0,25.1,False
+2025-09-11,Nigeria,Osun,Ife Central,247,100,188,6.6,25.8,False
+2025-09-11,Nigeria,Osun,Osogbo,214,42,125,6.4,27.3,False
+2025-09-11,Nigeria,Oyo,Ibadan North,245,150,126,2.3,28.6,False
+2025-09-11,Nigeria,Oyo,Ogbomosho North,337,126,276,2.7,28.1,False
+2025-09-11,Nigeria,Plateau,Jos North,327,93,291,19.3,30.9,True
+2025-09-11,Nigeria,Plateau,Shendam,152,34,98,3.0,29.4,False
+2025-09-11,Nigeria,Rivers,Obio-Akpor,387,148,175,26.1,28.9,True
+2025-09-11,Nigeria,Rivers,Port Harcourt,277,86,193,5.3,31.2,False
+2025-09-11,Nigeria,Sokoto,Sokoto North,231,134,152,6.0,28.0,False
+2025-09-11,Nigeria,Sokoto,Sokoto South,260,137,138,2.8,31.9,False
+2025-09-11,Nigeria,Taraba,Jalingo,103,42,68,6.0,27.4,False
+2025-09-11,Nigeria,Taraba,Wukari,243,79,163,4.6,28.5,False
+2025-09-11,Nigeria,Yobe,Damaturu,147,29,93,0.4,30.3,False
+2025-09-11,Nigeria,Yobe,Potiskum,244,46,128,12.1,30.5,True
+2025-09-11,Nigeria,Zamfara,Gusau,384,112,160,3.5,30.3,False
+2025-09-11,Nigeria,Zamfara,Talata Mafara,214,54,110,11.2,31.3,True
+2025-09-12,Nigeria,Abia,Aba South,263,81,166,0.9,27.2,False
+2025-09-12,Nigeria,Abia,Umuahia North,147,31,63,0.4,30.4,False
+2025-09-12,Nigeria,Adamawa,Mubi North,129,67,65,14.0,31.7,True
+2025-09-12,Nigeria,Adamawa,Yola North,203,94,116,3.7,31.0,False
+2025-09-12,Nigeria,Akwa Ibom,Eket,218,70,120,3.5,29.3,False
+2025-09-12,Nigeria,Akwa Ibom,Uyo,295,56,142,7.1,34.0,False
+2025-09-12,Nigeria,Anambra,Awka South,248,96,137,1.8,32.8,False
+2025-09-12,Nigeria,Anambra,Onitsha North,251,57,148,4.0,26.5,False
+2025-09-12,Nigeria,Bauchi,Bauchi,577,129,293,3.5,30.1,False
+2025-09-12,Nigeria,Bauchi,Katagum,325,138,193,2.4,30.4,False
+2025-09-12,Nigeria,Benue,Gboko,267,96,139,7.4,30.3,False
+2025-09-12,Nigeria,Benue,Makurdi,194,44,104,1.9,32.4,False
+2025-09-12,Nigeria,Borno,Jere,160,46,123,7.6,31.7,False
+2025-09-12,Nigeria,Borno,Maiduguri,328,119,192,1.8,29.6,False
+2025-09-12,Nigeria,Cross River,Ikom,399,123,204,7.6,24.4,False
+2025-09-12,Nigeria,Delta,Ughelli North,251,39,196,3.8,24.9,False
+2025-09-12,Nigeria,Delta,Warri South,278,114,136,1.5,26.3,False
+2025-09-12,Nigeria,Edo,Etsako West,186,76,88,5.8,25.5,False
+2025-09-12,Nigeria,Edo,Oredo,180,117,180,6.6,30.4,False
+2025-09-12,Nigeria,Ekiti,Ado Ekiti,259,100,127,0.9,28.5,False
+2025-09-12,Nigeria,Ekiti,Ikole,50,32,43,9.0,32.6,False
+2025-09-12,Nigeria,Enugu,Enugu North,212,48,183,3.3,26.2,False
+2025-09-12,Nigeria,Enugu,Nsukka,193,82,91,4.3,29.5,False
+2025-09-12,Nigeria,FCT,AMAC,305,71,178,2.7,30.2,False
+2025-09-12,Nigeria,FCT,Bwari,193,104,164,1.7,27.3,False
+2025-09-12,Nigeria,Gombe,Gombe,218,71,158,3.0,32.1,False
+2025-09-12,Nigeria,Gombe,Kaltungo,155,37,88,0.3,22.9,False
+2025-09-12,Nigeria,Jigawa,Dutse,444,208,338,2.6,32.1,False
+2025-09-12,Nigeria,Jigawa,Hadejia,182,36,71,3.7,31.2,False
+2025-09-12,Nigeria,Kaduna,Chikun,322,175,272,0.3,26.4,False
+2025-09-12,Nigeria,Kaduna,Zaria,549,113,347,4.3,30.9,False
+2025-09-12,Nigeria,Kano,Gwale,1285,366,930,8.1,31.9,False
+2025-09-12,Nigeria,Katsina,Dutsin-Ma,471,88,253,4.0,30.5,False
+2025-09-12,Nigeria,Katsina,Kafur,530,234,303,3.0,24.4,False
+2025-09-12,Nigeria,Kebbi,Argungu,134,66,79,4.2,32.1,False
+2025-09-12,Nigeria,Kebbi,Birnin Kebbi,246,98,226,7.6,26.1,False
+2025-09-12,Nigeria,Kogi,Idah,53,34,38,4.1,26.1,False
+2025-09-12,Nigeria,Kogi,Lokoja,221,94,118,4.6,26.9,False
+2025-09-12,Nigeria,Kwara,Ilorin West,225,59,128,15.8,25.2,True
+2025-09-12,Nigeria,Kwara,Offa,54,24,32,2.6,27.6,False
+2025-09-12,Nigeria,Lagos,Alimosho,711,331,500,1.5,25.1,False
+2025-09-12,Nigeria,Lagos,Ikorodu,235,99,159,3.6,30.7,False
+2025-09-12,Nigeria,Lagos,Surulere,160,56,128,4.2,31.0,False
+2025-09-12,Nigeria,Niger,Bida,290,149,260,3.8,28.8,False
+2025-09-12,Nigeria,Niger,Chanchaga,302,108,166,1.9,30.8,False
+2025-09-12,Nigeria,Ogun,Abeokuta South,72,29,43,5.1,32.5,False
+2025-09-12,Nigeria,Ogun,Ifo,404,138,249,2.6,28.1,False
+2025-09-12,Nigeria,Ondo,Akure South,358,107,252,11.1,29.2,True
+2025-09-12,Nigeria,Ondo,Owo,145,47,82,8.8,29.6,False
+2025-09-12,Nigeria,Osun,Ife Central,228,142,135,15.5,25.9,True
+2025-09-12,Nigeria,Osun,Osogbo,221,68,135,1.5,27.5,False
+2025-09-12,Nigeria,Oyo,Ibadan North,365,152,206,2.6,31.4,False
+2025-09-12,Nigeria,Oyo,Ogbomosho North,322,79,266,2.8,27.7,False
+2025-09-12,Nigeria,Plateau,Jos North,309,102,215,4.1,27.7,False
+2025-09-12,Nigeria,Plateau,Shendam,116,43,82,10.7,23.8,True
+2025-09-12,Nigeria,Rivers,Obio-Akpor,405,155,338,8.7,27.7,False
+2025-09-12,Nigeria,Rivers,Port Harcourt,272,108,177,14.7,25.6,True
+2025-09-12,Nigeria,Sokoto,Sokoto North,268,88,163,5.5,29.1,False
+2025-09-12,Nigeria,Sokoto,Sokoto South,267,45,121,11.6,26.0,True
+2025-09-12,Nigeria,Taraba,Jalingo,97,42,51,2.7,28.1,False
+2025-09-12,Nigeria,Taraba,Wukari,180,55,114,3.1,23.2,False
+2025-09-12,Nigeria,Yobe,Damaturu,152,63,90,0.3,26.6,False
+2025-09-12,Nigeria,Yobe,Potiskum,198,79,102,2.0,25.4,False
+2025-09-12,Nigeria,Zamfara,Gusau,432,126,250,9.3,31.3,False
+2025-09-12,Nigeria,Zamfara,Talata Mafara,233,45,129,8.2,30.9,False
+2025-09-13,Nigeria,Abia,Aba South,110,22,67,3.2,27.0,False
+2025-09-13,Nigeria,Abia,Umuahia North,90,23,78,3.8,27.9,False
+2025-09-13,Nigeria,Adamawa,Mubi North,80,20,38,7.2,28.8,False
+2025-09-13,Nigeria,Adamawa,Yola North,171,76,78,8.5,27.4,False
+2025-09-13,Nigeria,Akwa Ibom,Eket,156,65,99,1.0,33.4,False
+2025-09-13,Nigeria,Akwa Ibom,Uyo,184,71,67,4.0,27.8,False
+2025-09-13,Nigeria,Anambra,Awka South,202,95,113,1.9,24.4,False
+2025-09-13,Nigeria,Anambra,Onitsha North,210,79,116,6.7,27.0,False
+2025-09-13,Nigeria,Bauchi,Bauchi,315,146,252,1.4,29.2,False
+2025-09-13,Nigeria,Bauchi,Katagum,171,60,79,3.8,31.9,False
+2025-09-13,Nigeria,Benue,Gboko,151,32,94,1.6,35.7,False
+2025-09-13,Nigeria,Benue,Makurdi,131,47,68,1.6,32.6,False
+2025-09-13,Nigeria,Borno,Jere,67,54,78,2.7,29.4,False
+2025-09-13,Nigeria,Borno,Maiduguri,267,126,129,3.1,28.0,False
+2025-09-13,Nigeria,Cross River,Ikom,166,57,144,0.4,29.0,False
+2025-09-13,Nigeria,Delta,Ughelli North,160,64,104,9.4,29.3,False
+2025-09-13,Nigeria,Delta,Warri South,134,60,98,2.3,31.0,False
+2025-09-13,Nigeria,Edo,Etsako West,115,44,40,2.1,27.8,False
+2025-09-13,Nigeria,Edo,Oredo,109,44,67,1.9,25.2,False
+2025-09-13,Nigeria,Ekiti,Ado Ekiti,193,44,120,0.3,27.9,False
+2025-09-13,Nigeria,Ekiti,Ikole,49,4,20,5.1,32.9,False
+2025-09-13,Nigeria,Enugu,Enugu North,141,35,98,2.8,28.5,False
+2025-09-13,Nigeria,Enugu,Nsukka,113,49,63,4.7,30.2,False
+2025-09-13,Nigeria,FCT,AMAC,185,54,127,3.6,32.5,False
+2025-09-13,Nigeria,FCT,Bwari,137,36,96,5.1,29.0,False
+2025-09-13,Nigeria,Gombe,Gombe,137,68,138,4.0,28.9,False
+2025-09-13,Nigeria,Gombe,Kaltungo,61,28,30,0.7,30.4,False
+2025-09-13,Nigeria,Jigawa,Dutse,347,99,159,5.7,33.1,False
+2025-09-13,Nigeria,Jigawa,Hadejia,116,48,86,3.4,32.5,False
+2025-09-13,Nigeria,Kaduna,Chikun,224,138,148,15.8,28.6,True
+2025-09-13,Nigeria,Kaduna,Zaria,316,77,160,13.8,29.0,True
+2025-09-13,Nigeria,Kano,Gwale,844,383,459,3.4,28.6,False
+2025-09-13,Nigeria,Katsina,Dutsin-Ma,238,46,108,3.6,28.3,False
+2025-09-13,Nigeria,Katsina,Kafur,351,139,164,10.5,32.4,True
+2025-09-13,Nigeria,Kebbi,Argungu,103,52,67,2.5,28.9,False
+2025-09-13,Nigeria,Kebbi,Birnin Kebbi,220,45,154,7.3,33.5,False
+2025-09-13,Nigeria,Kogi,Idah,31,14,31,24.3,27.4,False
+2025-09-13,Nigeria,Kogi,Lokoja,123,41,94,8.3,31.8,False
+2025-09-13,Nigeria,Kwara,Ilorin West,115,19,88,3.5,30.6,False
+2025-09-13,Nigeria,Kwara,Offa,41,20,29,1.0,29.0,False
+2025-09-13,Nigeria,Lagos,Alimosho,414,187,217,2.6,27.7,False
+2025-09-13,Nigeria,Lagos,Ikorodu,231,87,145,5.3,26.5,False
+2025-09-13,Nigeria,Lagos,Surulere,93,34,78,3.1,30.9,False
+2025-09-13,Nigeria,Niger,Bida,331,129,199,13.6,27.8,True
+2025-09-13,Nigeria,Niger,Chanchaga,127,26,73,3.1,21.2,False
+2025-09-13,Nigeria,Ogun,Abeokuta South,45,14,31,1.2,24.6,False
+2025-09-13,Nigeria,Ogun,Ifo,340,112,132,4.4,35.8,False
+2025-09-13,Nigeria,Ondo,Akure South,172,51,71,5.2,29.6,False
+2025-09-13,Nigeria,Ondo,Owo,90,46,57,4.5,27.0,False
+2025-09-13,Nigeria,Osun,Ife Central,211,62,71,3.1,31.6,False
+2025-09-13,Nigeria,Osun,Osogbo,80,58,54,0.1,31.4,False
+2025-09-13,Nigeria,Oyo,Ibadan North,170,38,122,5.6,31.7,False
+2025-09-13,Nigeria,Oyo,Ogbomosho North,268,76,175,2.6,31.3,False
+2025-09-13,Nigeria,Plateau,Jos North,223,56,118,5.3,31.7,False
+2025-09-13,Nigeria,Plateau,Shendam,99,22,81,6.5,31.4,False
+2025-09-13,Nigeria,Rivers,Obio-Akpor,252,92,102,0.5,27.5,False
+2025-09-13,Nigeria,Rivers,Port Harcourt,161,61,75,6.8,27.9,False
+2025-09-13,Nigeria,Sokoto,Sokoto North,124,39,48,4.9,28.6,False
+2025-09-13,Nigeria,Sokoto,Sokoto South,134,62,95,1.0,30.5,False
+2025-09-13,Nigeria,Taraba,Jalingo,76,12,57,4.5,27.3,False
+2025-09-13,Nigeria,Taraba,Wukari,152,66,65,3.2,27.7,False
+2025-09-13,Nigeria,Yobe,Damaturu,76,27,46,1.2,28.0,False
+2025-09-13,Nigeria,Yobe,Potiskum,168,37,65,5.2,26.0,False
+2025-09-13,Nigeria,Zamfara,Gusau,344,137,190,0.9,32.7,False
+2025-09-13,Nigeria,Zamfara,Talata Mafara,117,37,63,9.7,26.2,False
+2025-09-14,Nigeria,Abia,Aba South,98,18,86,6.3,36.6,False
+2025-09-14,Nigeria,Abia,Umuahia North,75,22,37,10.4,31.2,False
+2025-09-14,Nigeria,Adamawa,Mubi North,81,18,46,4.9,31.3,False
+2025-09-14,Nigeria,Adamawa,Yola North,192,66,156,13.6,32.6,True
+2025-09-14,Nigeria,Akwa Ibom,Eket,119,32,72,5.5,32.7,False
+2025-09-14,Nigeria,Akwa Ibom,Uyo,133,31,85,4.3,28.5,False
+2025-09-14,Nigeria,Anambra,Awka South,127,37,75,0.3,23.6,False
+2025-09-14,Nigeria,Anambra,Onitsha North,171,103,97,14.5,31.6,True
+2025-09-14,Nigeria,Bauchi,Bauchi,225,129,197,3.2,30.0,False
+2025-09-14,Nigeria,Bauchi,Katagum,240,71,97,0.9,28.4,False
+2025-09-14,Nigeria,Benue,Gboko,139,42,67,7.7,24.4,False
+2025-09-14,Nigeria,Benue,Makurdi,133,42,62,3.8,30.8,False
+2025-09-14,Nigeria,Borno,Jere,65,21,50,2.5,30.3,False
+2025-09-14,Nigeria,Borno,Maiduguri,252,133,106,0.9,27.0,False
+2025-09-14,Nigeria,Cross River,Ikom,204,69,146,0.8,32.3,False
+2025-09-14,Nigeria,Delta,Ughelli North,122,26,84,4.4,28.1,False
+2025-09-14,Nigeria,Delta,Warri South,211,82,154,3.0,32.6,False
+2025-09-14,Nigeria,Edo,Etsako West,74,48,39,1.3,26.5,False
+2025-09-14,Nigeria,Edo,Oredo,147,50,79,2.5,23.6,False
+2025-09-14,Nigeria,Ekiti,Ado Ekiti,148,56,108,4.7,30.0,False
+2025-09-14,Nigeria,Ekiti,Ikole,34,13,22,16.9,27.0,False
+2025-09-14,Nigeria,Enugu,Enugu North,118,40,69,7.7,26.6,False
+2025-09-14,Nigeria,Enugu,Nsukka,101,36,64,5.6,28.4,False
+2025-09-14,Nigeria,FCT,AMAC,128,62,104,3.2,22.1,False
+2025-09-14,Nigeria,FCT,Bwari,143,52,79,9.6,31.0,False
+2025-09-14,Nigeria,Gombe,Gombe,116,56,94,4.5,30.6,False
+2025-09-14,Nigeria,Gombe,Kaltungo,86,31,51,5.4,31.6,False
+2025-09-14,Nigeria,Jigawa,Dutse,306,98,167,1.0,28.2,False
+2025-09-14,Nigeria,Jigawa,Hadejia,104,20,51,1.5,27.9,False
+2025-09-14,Nigeria,Kaduna,Chikun,199,129,179,1.3,29.6,False
+2025-09-14,Nigeria,Kaduna,Zaria,219,97,181,6.3,26.6,False
+2025-09-14,Nigeria,Kano,Gwale,930,182,687,4.9,28.9,False
+2025-09-14,Nigeria,Katsina,Dutsin-Ma,249,93,137,5.0,27.1,False
+2025-09-14,Nigeria,Katsina,Kafur,388,131,244,13.9,31.3,True
+2025-09-14,Nigeria,Kebbi,Argungu,81,19,36,14.2,32.8,False
+2025-09-14,Nigeria,Kebbi,Birnin Kebbi,266,60,170,4.7,28.8,False
+2025-09-14,Nigeria,Kogi,Idah,37,10,14,4.0,23.1,False
+2025-09-14,Nigeria,Kogi,Lokoja,200,61,93,6.1,28.3,False
+2025-09-14,Nigeria,Kwara,Ilorin West,115,42,68,4.3,29.4,False
+2025-09-14,Nigeria,Kwara,Offa,41,16,20,2.3,29.2,False
+2025-09-14,Nigeria,Lagos,Alimosho,469,186,332,0.7,26.8,False
+2025-09-14,Nigeria,Lagos,Ikorodu,138,51,67,1.7,31.9,False
+2025-09-14,Nigeria,Lagos,Surulere,93,22,74,9.2,23.8,False
+2025-09-14,Nigeria,Niger,Bida,211,63,124,8.0,24.3,False
+2025-09-14,Nigeria,Niger,Chanchaga,141,75,114,11.8,27.8,True
+2025-09-14,Nigeria,Ogun,Abeokuta South,52,10,39,5.6,27.9,False
+2025-09-14,Nigeria,Ogun,Ifo,260,68,132,5.2,26.2,False
+2025-09-14,Nigeria,Ondo,Akure South,224,42,122,6.7,30.2,False
+2025-09-14,Nigeria,Ondo,Owo,60,29,55,1.9,28.3,False
+2025-09-14,Nigeria,Osun,Ife Central,223,68,96,1.6,29.2,False
+2025-09-14,Nigeria,Osun,Osogbo,84,30,62,3.0,31.3,False
+2025-09-14,Nigeria,Oyo,Ibadan North,205,51,137,2.5,29.2,False
+2025-09-14,Nigeria,Oyo,Ogbomosho North,248,119,175,1.9,26.6,False
+2025-09-14,Nigeria,Plateau,Jos North,179,85,114,0.6,27.3,False
+2025-09-14,Nigeria,Plateau,Shendam,104,41,92,7.2,28.9,False
+2025-09-14,Nigeria,Rivers,Obio-Akpor,236,64,190,0.9,30.8,False
+2025-09-14,Nigeria,Rivers,Port Harcourt,109,39,117,2.5,25.2,False
+2025-09-14,Nigeria,Sokoto,Sokoto North,239,92,92,4.4,27.7,False
+2025-09-14,Nigeria,Sokoto,Sokoto South,93,48,72,10.9,28.8,True
+2025-09-14,Nigeria,Taraba,Jalingo,77,21,40,1.7,24.2,False
+2025-09-14,Nigeria,Taraba,Wukari,121,50,81,2.7,29.7,False
+2025-09-14,Nigeria,Yobe,Damaturu,104,26,62,4.5,31.3,False
+2025-09-14,Nigeria,Yobe,Potiskum,108,40,55,5.3,31.1,False
+2025-09-14,Nigeria,Zamfara,Gusau,249,121,131,3.9,27.6,False
+2025-09-14,Nigeria,Zamfara,Talata Mafara,107,55,81,1.9,31.2,False
+2025-09-15,Nigeria,Abia,Aba South,258,117,172,2.3,29.0,False
+2025-09-15,Nigeria,Abia,Umuahia North,151,44,53,12.3,34.1,True
+2025-09-15,Nigeria,Adamawa,Mubi North,160,39,106,0.7,30.4,False
+2025-09-15,Nigeria,Adamawa,Yola North,203,102,191,3.8,30.8,False
+2025-09-15,Nigeria,Akwa Ibom,Eket,242,64,80,8.0,25.0,False
+2025-09-15,Nigeria,Akwa Ibom,Uyo,291,78,164,0.4,26.3,False
+2025-09-15,Nigeria,Anambra,Awka South,257,50,180,6.6,32.0,False
+2025-09-15,Nigeria,Anambra,Onitsha North,369,179,123,7.6,26.2,False
+2025-09-15,Nigeria,Bauchi,Bauchi,431,235,291,12.9,30.0,True
+2025-09-15,Nigeria,Bauchi,Katagum,371,100,210,4.0,28.6,False
+2025-09-15,Nigeria,Benue,Gboko,277,98,149,7.4,26.0,False
+2025-09-15,Nigeria,Benue,Makurdi,198,48,90,6.8,28.2,False
+2025-09-15,Nigeria,Borno,Jere,129,78,74,1.8,29.2,False
+2025-09-15,Nigeria,Borno,Maiduguri,357,179,235,1.6,30.0,False
+2025-09-15,Nigeria,Cross River,Ikom,348,153,187,2.1,22.2,False
+2025-09-15,Nigeria,Delta,Ughelli North,257,133,213,9.1,28.2,False
+2025-09-15,Nigeria,Delta,Warri South,225,76,170,4.5,30.3,False
+2025-09-15,Nigeria,Edo,Etsako West,192,84,109,13.5,28.1,True
+2025-09-15,Nigeria,Edo,Oredo,292,98,154,2.2,31.2,False
+2025-09-15,Nigeria,Ekiti,Ado Ekiti,249,83,168,6.1,25.0,False
+2025-09-15,Nigeria,Ekiti,Ikole,77,35,54,5.1,28.0,False
+2025-09-15,Nigeria,Enugu,Enugu North,191,73,114,3.8,25.7,False
+2025-09-15,Nigeria,Enugu,Nsukka,272,65,172,16.5,28.8,True
+2025-09-15,Nigeria,FCT,AMAC,333,145,187,0.5,30.1,False
+2025-09-15,Nigeria,FCT,Bwari,225,73,133,2.3,26.0,False
+2025-09-15,Nigeria,Gombe,Gombe,242,102,130,2.0,27.5,False
+2025-09-15,Nigeria,Gombe,Kaltungo,138,57,58,5.4,25.8,False
+2025-09-15,Nigeria,Jigawa,Dutse,449,129,367,4.6,27.6,False
+2025-09-15,Nigeria,Jigawa,Hadejia,196,46,86,9.5,28.1,False
+2025-09-15,Nigeria,Kaduna,Chikun,330,96,243,2.9,30.1,False
+2025-09-15,Nigeria,Kaduna,Zaria,556,294,261,8.3,25.1,False
+2025-09-15,Nigeria,Kano,Gwale,1380,581,576,11.1,29.7,True
+2025-09-15,Nigeria,Katsina,Dutsin-Ma,458,126,183,16.9,28.3,True
+2025-09-15,Nigeria,Katsina,Kafur,615,221,306,5.7,33.0,False
+2025-09-15,Nigeria,Kebbi,Argungu,149,41,111,4.5,26.3,False
+2025-09-15,Nigeria,Kebbi,Birnin Kebbi,300,108,139,2.2,30.7,False
+2025-09-15,Nigeria,Kogi,Idah,63,21,43,7.9,31.4,False
+2025-09-15,Nigeria,Kogi,Lokoja,266,76,162,0.6,27.7,False
+2025-09-15,Nigeria,Kwara,Ilorin West,223,97,133,5.7,31.6,False
+2025-09-15,Nigeria,Kwara,Offa,37,10,33,6.1,31.0,False
+2025-09-15,Nigeria,Lagos,Alimosho,722,284,420,1.3,29.3,False
+2025-09-15,Nigeria,Lagos,Ikorodu,287,83,140,7.8,26.8,False
+2025-09-15,Nigeria,Lagos,Surulere,171,77,82,1.4,31.1,False
+2025-09-15,Nigeria,Niger,Bida,367,186,186,6.3,26.8,False
+2025-09-15,Nigeria,Niger,Chanchaga,264,66,152,8.2,25.3,False
+2025-09-15,Nigeria,Ogun,Abeokuta South,77,22,50,10.1,28.2,False
+2025-09-15,Nigeria,Ogun,Ifo,477,116,215,20.2,31.2,True
+2025-09-15,Nigeria,Ondo,Akure South,341,105,176,2.5,29.5,False
+2025-09-15,Nigeria,Ondo,Owo,157,64,113,0.5,32.4,False
+2025-09-15,Nigeria,Osun,Ife Central,289,69,206,1.3,30.8,False
+2025-09-15,Nigeria,Osun,Osogbo,225,62,92,3.3,29.1,False
+2025-09-15,Nigeria,Oyo,Ibadan North,300,80,206,2.2,26.5,False
+2025-09-15,Nigeria,Oyo,Ogbomosho North,361,95,268,0.9,30.0,False
+2025-09-15,Nigeria,Plateau,Jos North,326,75,150,2.2,26.8,False
+2025-09-15,Nigeria,Plateau,Shendam,200,54,126,0.6,32.9,False
+2025-09-15,Nigeria,Rivers,Obio-Akpor,411,186,260,2.3,30.8,False
+2025-09-15,Nigeria,Rivers,Port Harcourt,171,75,123,13.0,27.6,True
+2025-09-15,Nigeria,Sokoto,Sokoto North,312,89,161,7.0,31.1,False
+2025-09-15,Nigeria,Sokoto,Sokoto South,263,136,117,2.3,28.8,False
+2025-09-15,Nigeria,Taraba,Jalingo,128,30,51,3.2,29.5,False
+2025-09-15,Nigeria,Taraba,Wukari,147,56,106,4.2,29.4,False
+2025-09-15,Nigeria,Yobe,Damaturu,200,69,85,3.6,28.3,False
+2025-09-15,Nigeria,Yobe,Potiskum,159,70,98,3.6,23.8,False
+2025-09-15,Nigeria,Zamfara,Gusau,386,108,261,0.5,31.1,False
+2025-09-15,Nigeria,Zamfara,Talata Mafara,198,113,112,9.5,30.3,False
+2025-09-16,Nigeria,Abia,Aba South,186,56,177,0.3,30.3,False
+2025-09-16,Nigeria,Abia,Umuahia North,160,50,88,9.9,30.5,False
+2025-09-16,Nigeria,Adamawa,Mubi North,112,29,68,3.7,25.9,False
+2025-09-16,Nigeria,Adamawa,Yola North,273,106,140,5.1,28.8,False
+2025-09-16,Nigeria,Akwa Ibom,Eket,263,99,192,1.6,29.5,False
+2025-09-16,Nigeria,Akwa Ibom,Uyo,262,65,180,4.2,28.0,False
+2025-09-16,Nigeria,Anambra,Awka South,262,76,124,3.5,30.5,False
+2025-09-16,Nigeria,Anambra,Onitsha North,312,142,199,12.5,25.6,True
+2025-09-16,Nigeria,Bauchi,Bauchi,646,266,300,3.7,30.0,False
+2025-09-16,Nigeria,Bauchi,Katagum,319,78,195,9.0,23.3,False
+2025-09-16,Nigeria,Benue,Gboko,264,115,194,8.5,26.5,False
+2025-09-16,Nigeria,Benue,Makurdi,210,98,121,2.9,28.1,False
+2025-09-16,Nigeria,Borno,Jere,103,55,63,4.7,29.0,False
+2025-09-16,Nigeria,Borno,Maiduguri,392,189,316,2.9,25.3,False
+2025-09-16,Nigeria,Cross River,Ikom,333,134,233,11.1,23.9,True
+2025-09-16,Nigeria,Delta,Ughelli North,268,115,215,1.5,24.5,False
+2025-09-16,Nigeria,Delta,Warri South,270,84,138,4.4,28.6,False
+2025-09-16,Nigeria,Edo,Etsako West,139,81,87,3.8,33.3,False
+2025-09-16,Nigeria,Edo,Oredo,198,78,90,1.5,32.1,False
+2025-09-16,Nigeria,Ekiti,Ado Ekiti,233,81,126,1.5,30.3,False
+2025-09-16,Nigeria,Ekiti,Ikole,91,34,58,8.8,28.8,False
+2025-09-16,Nigeria,Enugu,Enugu North,218,81,193,7.8,29.9,False
+2025-09-16,Nigeria,Enugu,Nsukka,184,57,141,1.4,27.9,False
+2025-09-16,Nigeria,FCT,AMAC,239,95,200,9.6,28.0,False
+2025-09-16,Nigeria,FCT,Bwari,260,43,117,0.8,31.7,False
+2025-09-16,Nigeria,Gombe,Gombe,215,63,93,5.7,28.2,False
+2025-09-16,Nigeria,Gombe,Kaltungo,98,38,43,2.0,24.6,False
+2025-09-16,Nigeria,Jigawa,Dutse,631,155,221,2.0,28.3,False
+2025-09-16,Nigeria,Jigawa,Hadejia,196,67,130,1.7,30.4,False
+2025-09-16,Nigeria,Kaduna,Chikun,414,103,230,6.2,27.9,False
+2025-09-16,Nigeria,Kaduna,Zaria,545,120,367,0.4,25.4,False
+2025-09-16,Nigeria,Kano,Gwale,1120,440,675,4.0,29.7,False
+2025-09-16,Nigeria,Katsina,Dutsin-Ma,362,187,253,3.9,30.1,False
+2025-09-16,Nigeria,Katsina,Kafur,562,202,419,3.5,30.2,False
+2025-09-16,Nigeria,Kebbi,Argungu,163,59,71,8.7,32.5,False
+2025-09-16,Nigeria,Kebbi,Birnin Kebbi,256,129,213,2.4,27.7,False
+2025-09-16,Nigeria,Kogi,Idah,61,10,31,4.6,25.5,False
+2025-09-16,Nigeria,Kogi,Lokoja,249,116,177,0.3,26.2,False
+2025-09-16,Nigeria,Kwara,Ilorin West,201,52,81,10.3,27.7,True
+2025-09-16,Nigeria,Kwara,Offa,41,13,23,5.5,27.3,False
+2025-09-16,Nigeria,Lagos,Alimosho,701,232,399,3.4,28.4,False
+2025-09-16,Nigeria,Lagos,Ikorodu,310,122,120,17.2,25.4,True
+2025-09-16,Nigeria,Lagos,Surulere,138,84,97,2.1,32.2,False
+2025-09-16,Nigeria,Niger,Bida,437,137,201,1.9,27.5,False
+2025-09-16,Nigeria,Niger,Chanchaga,222,85,119,9.0,26.6,False
+2025-09-16,Nigeria,Ogun,Abeokuta South,93,27,44,1.2,32.0,False
+2025-09-16,Nigeria,Ogun,Ifo,574,176,236,0.2,29.7,False
+2025-09-16,Nigeria,Ondo,Akure South,329,129,189,6.0,32.1,False
+2025-09-16,Nigeria,Ondo,Owo,134,45,97,13.8,24.1,True
+2025-09-16,Nigeria,Osun,Ife Central,296,76,156,7.1,28.8,False
+2025-09-16,Nigeria,Osun,Osogbo,235,60,106,15.7,27.1,True
+2025-09-16,Nigeria,Oyo,Ibadan North,273,87,215,4.2,28.7,False
+2025-09-16,Nigeria,Oyo,Ogbomosho North,493,108,297,0.5,29.4,False
+2025-09-16,Nigeria,Plateau,Jos North,431,154,266,14.4,23.4,True
+2025-09-16,Nigeria,Plateau,Shendam,169,48,81,2.9,24.7,False
+2025-09-16,Nigeria,Rivers,Obio-Akpor,395,103,230,5.8,27.1,False
+2025-09-16,Nigeria,Rivers,Port Harcourt,246,73,131,4.5,29.4,False
+2025-09-16,Nigeria,Sokoto,Sokoto North,253,104,139,1.3,33.5,False
+2025-09-16,Nigeria,Sokoto,Sokoto South,250,83,184,2.9,26.6,False
+2025-09-16,Nigeria,Taraba,Jalingo,92,29,63,5.7,31.5,False
+2025-09-16,Nigeria,Taraba,Wukari,174,63,129,5.5,32.6,False
+2025-09-16,Nigeria,Yobe,Damaturu,125,53,121,2.8,32.6,False
+2025-09-16,Nigeria,Yobe,Potiskum,253,122,110,1.1,29.7,False
+2025-09-16,Nigeria,Zamfara,Gusau,334,167,242,2.8,26.3,False
+2025-09-16,Nigeria,Zamfara,Talata Mafara,216,93,92,7.9,32.1,False
+2025-09-17,Nigeria,Abia,Aba South,192,77,122,0.6,29.1,False
+2025-09-17,Nigeria,Abia,Umuahia North,174,59,118,2.5,31.1,False
+2025-09-17,Nigeria,Adamawa,Mubi North,198,49,89,8.3,29.6,False
+2025-09-17,Nigeria,Adamawa,Yola North,255,134,182,4.4,25.9,False
+2025-09-17,Nigeria,Akwa Ibom,Eket,240,36,143,6.7,27.5,False
+2025-09-17,Nigeria,Akwa Ibom,Uyo,256,122,189,7.6,29.9,False
+2025-09-17,Nigeria,Anambra,Awka South,279,160,178,5.1,30.6,False
+2025-09-17,Nigeria,Anambra,Onitsha North,249,106,166,9.9,28.3,False
+2025-09-17,Nigeria,Bauchi,Bauchi,551,257,245,0.9,32.7,False
+2025-09-17,Nigeria,Bauchi,Katagum,279,151,156,1.5,34.1,False
+2025-09-17,Nigeria,Benue,Gboko,307,82,129,4.0,29.1,False
+2025-09-17,Nigeria,Benue,Makurdi,184,96,96,1.3,28.3,False
+2025-09-17,Nigeria,Borno,Jere,174,69,73,0.8,33.0,False
+2025-09-17,Nigeria,Borno,Maiduguri,404,122,289,0.2,31.8,False
+2025-09-17,Nigeria,Cross River,Ikom,310,112,167,2.1,28.0,False
+2025-09-17,Nigeria,Delta,Ughelli North,216,117,98,0.4,25.8,False
+2025-09-17,Nigeria,Delta,Warri South,281,109,143,0.6,26.9,False
+2025-09-17,Nigeria,Edo,Etsako West,171,52,121,8.6,25.7,False
+2025-09-17,Nigeria,Edo,Oredo,180,78,156,1.2,29.0,False
+2025-09-17,Nigeria,Ekiti,Ado Ekiti,202,98,156,12.0,26.1,True
+2025-09-17,Nigeria,Ekiti,Ikole,72,30,29,3.4,31.0,False
+2025-09-17,Nigeria,Enugu,Enugu North,169,33,83,5.6,27.7,False
+2025-09-17,Nigeria,Enugu,Nsukka,229,53,177,2.4,28.5,False
+2025-09-17,Nigeria,FCT,AMAC,334,122,221,5.8,27.5,False
+2025-09-17,Nigeria,FCT,Bwari,232,50,146,1.7,36.3,False
+2025-09-17,Nigeria,Gombe,Gombe,254,66,147,4.2,26.6,False
+2025-09-17,Nigeria,Gombe,Kaltungo,144,56,60,26.1,30.4,True
+2025-09-17,Nigeria,Jigawa,Dutse,356,118,198,2.8,30.9,False
+2025-09-17,Nigeria,Jigawa,Hadejia,194,55,153,22.0,27.4,True
+2025-09-17,Nigeria,Kaduna,Chikun,391,196,297,3.6,26.5,False
+2025-09-17,Nigeria,Kaduna,Zaria,556,209,316,9.6,29.5,False
+2025-09-17,Nigeria,Kano,Gwale,1166,400,692,1.5,29.0,False
+2025-09-17,Nigeria,Katsina,Dutsin-Ma,407,108,178,6.7,26.0,False
+2025-09-17,Nigeria,Katsina,Kafur,675,267,244,4.1,24.2,False
+2025-09-17,Nigeria,Kebbi,Argungu,139,60,75,10.6,28.5,True
+2025-09-17,Nigeria,Kebbi,Birnin Kebbi,362,135,150,1.2,27.8,False
+2025-09-17,Nigeria,Kogi,Idah,56,21,40,2.2,32.4,False
+2025-09-17,Nigeria,Kogi,Lokoja,341,69,197,5.6,27.2,False
+2025-09-17,Nigeria,Kwara,Ilorin West,226,56,170,7.4,26.8,False
+2025-09-17,Nigeria,Kwara,Offa,59,23,38,9.9,30.7,False
+2025-09-17,Nigeria,Lagos,Alimosho,755,220,419,2.5,29.3,False
+2025-09-17,Nigeria,Lagos,Ikorodu,266,91,109,3.6,31.7,False
+2025-09-17,Nigeria,Lagos,Surulere,172,76,95,5.6,30.9,False
+2025-09-17,Nigeria,Niger,Bida,465,162,314,16.1,25.8,True
+2025-09-17,Nigeria,Niger,Chanchaga,227,84,189,15.7,25.5,True
+2025-09-17,Nigeria,Ogun,Abeokuta South,62,33,39,9.2,25.9,False
+2025-09-17,Nigeria,Ogun,Ifo,402,199,241,3.0,31.6,False
+2025-09-17,Nigeria,Ondo,Akure South,213,53,160,1.1,29.1,False
+2025-09-17,Nigeria,Ondo,Owo,120,45,58,4.2,26.8,False
+2025-09-17,Nigeria,Osun,Ife Central,333,150,221,0.3,24.3,False
+2025-09-17,Nigeria,Osun,Osogbo,203,61,72,0.8,29.6,False
+2025-09-17,Nigeria,Oyo,Ibadan North,353,84,232,3.8,27.7,False
+2025-09-17,Nigeria,Oyo,Ogbomosho North,335,206,231,1.7,29.6,False
+2025-09-17,Nigeria,Plateau,Jos North,391,114,245,8.7,29.8,False
+2025-09-17,Nigeria,Plateau,Shendam,146,68,101,5.4,29.1,False
+2025-09-17,Nigeria,Rivers,Obio-Akpor,373,222,184,0.3,30.6,False
+2025-09-17,Nigeria,Rivers,Port Harcourt,278,104,147,3.6,31.8,False
+2025-09-17,Nigeria,Sokoto,Sokoto North,300,139,248,7.5,31.6,False
+2025-09-17,Nigeria,Sokoto,Sokoto South,280,79,105,3.4,32.3,False
+2025-09-17,Nigeria,Taraba,Jalingo,129,45,54,0.8,33.2,False
+2025-09-17,Nigeria,Taraba,Wukari,174,45,66,1.2,26.3,False
+2025-09-17,Nigeria,Yobe,Damaturu,233,44,167,3.9,26.7,False
+2025-09-17,Nigeria,Yobe,Potiskum,199,89,80,9.4,30.0,False
+2025-09-17,Nigeria,Zamfara,Gusau,510,249,225,5.5,30.5,False
+2025-09-17,Nigeria,Zamfara,Talata Mafara,212,98,136,4.9,29.0,False
+2025-09-18,Nigeria,Abia,Aba South,206,85,81,4.2,27.0,False
+2025-09-18,Nigeria,Abia,Umuahia North,76,54,63,0.2,30.6,False
+2025-09-18,Nigeria,Adamawa,Mubi North,109,68,77,2.3,27.2,False
+2025-09-18,Nigeria,Adamawa,Yola North,285,138,176,0.9,24.7,False
+2025-09-18,Nigeria,Akwa Ibom,Eket,288,55,180,15.5,29.5,True
+2025-09-18,Nigeria,Akwa Ibom,Uyo,285,127,197,5.1,27.4,False
+2025-09-18,Nigeria,Anambra,Awka South,290,75,230,2.0,30.2,False
+2025-09-18,Nigeria,Anambra,Onitsha North,347,134,165,4.3,27.5,False
+2025-09-18,Nigeria,Bauchi,Bauchi,597,169,341,2.5,29.6,False
+2025-09-18,Nigeria,Bauchi,Katagum,340,93,215,8.3,28.6,False
+2025-09-18,Nigeria,Benue,Gboko,268,114,119,4.6,29.1,False
+2025-09-18,Nigeria,Benue,Makurdi,156,66,98,1.6,29.4,False
+2025-09-18,Nigeria,Borno,Jere,194,40,94,14.1,26.8,False
+2025-09-18,Nigeria,Borno,Maiduguri,473,114,194,2.5,24.4,False
+2025-09-18,Nigeria,Cross River,Ikom,335,139,275,1.7,29.5,False
+2025-09-18,Nigeria,Delta,Ughelli North,241,98,195,3.1,28.4,False
+2025-09-18,Nigeria,Delta,Warri South,239,82,197,2.0,25.6,False
+2025-09-18,Nigeria,Edo,Etsako West,129,67,100,2.6,30.9,False
+2025-09-18,Nigeria,Edo,Oredo,155,68,117,7.9,30.4,False
+2025-09-18,Nigeria,Ekiti,Ado Ekiti,276,86,155,9.0,29.4,False
+2025-09-18,Nigeria,Ekiti,Ikole,92,30,41,4.0,33.1,False
+2025-09-18,Nigeria,Enugu,Enugu North,223,58,130,2.0,31.8,False
+2025-09-18,Nigeria,Enugu,Nsukka,243,50,114,8.7,27.1,False
+2025-09-18,Nigeria,FCT,AMAC,238,78,134,6.1,27.2,False
+2025-09-18,Nigeria,FCT,Bwari,281,141,141,9.5,27.6,False
+2025-09-18,Nigeria,Gombe,Gombe,200,75,132,0.4,31.7,False
+2025-09-18,Nigeria,Gombe,Kaltungo,153,47,99,5.5,31.5,False
+2025-09-18,Nigeria,Jigawa,Dutse,627,173,308,6.5,30.5,False
+2025-09-18,Nigeria,Jigawa,Hadejia,217,73,127,0.9,30.8,False
+2025-09-18,Nigeria,Kaduna,Chikun,432,125,276,3.4,26.9,False
+2025-09-18,Nigeria,Kaduna,Zaria,455,162,380,4.6,29.5,False
+2025-09-18,Nigeria,Kano,Gwale,1494,292,1042,5.9,27.0,False
+2025-09-18,Nigeria,Katsina,Dutsin-Ma,355,96,247,4.8,31.8,False
+2025-09-18,Nigeria,Katsina,Kafur,526,140,440,8.2,24.9,False
+2025-09-18,Nigeria,Kebbi,Argungu,169,34,105,11.9,28.1,False
+2025-09-18,Nigeria,Kebbi,Birnin Kebbi,293,85,203,3.5,29.5,False
+2025-09-18,Nigeria,Kogi,Idah,66,22,30,1.9,30.8,False
+2025-09-18,Nigeria,Kogi,Lokoja,270,50,117,6.4,26.8,False
+2025-09-18,Nigeria,Kwara,Ilorin West,175,47,146,2.1,31.8,False
+2025-09-18,Nigeria,Kwara,Offa,59,31,40,7.1,28.3,False
+2025-09-18,Nigeria,Lagos,Alimosho,815,197,484,2.4,33.2,False
+2025-09-18,Nigeria,Lagos,Ikorodu,227,106,164,7.2,29.4,False
+2025-09-18,Nigeria,Lagos,Surulere,121,51,96,7.2,24.3,False
+2025-09-18,Nigeria,Niger,Bida,418,183,178,6.8,30.8,False
+2025-09-18,Nigeria,Niger,Chanchaga,341,73,227,3.0,30.3,False
+2025-09-18,Nigeria,Ogun,Abeokuta South,76,27,54,11.4,32.1,False
+2025-09-18,Nigeria,Ogun,Ifo,455,194,338,3.9,30.8,False
+2025-09-18,Nigeria,Ondo,Akure South,346,115,202,0.0,30.7,False
+2025-09-18,Nigeria,Ondo,Owo,161,42,54,1.7,31.4,False
+2025-09-18,Nigeria,Osun,Ife Central,354,157,178,6.8,29.6,False
+2025-09-18,Nigeria,Osun,Osogbo,171,89,95,5.0,30.7,False
+2025-09-18,Nigeria,Oyo,Ibadan North,254,152,161,2.9,22.9,False
+2025-09-18,Nigeria,Oyo,Ogbomosho North,457,132,252,4.2,28.5,False
+2025-09-18,Nigeria,Plateau,Jos North,413,155,242,4.8,29.0,False
+2025-09-18,Nigeria,Plateau,Shendam,228,44,96,1.1,29.9,False
+2025-09-18,Nigeria,Rivers,Obio-Akpor,335,207,180,2.2,28.2,False
+2025-09-18,Nigeria,Rivers,Port Harcourt,233,136,145,1.4,28.9,False
+2025-09-18,Nigeria,Sokoto,Sokoto North,293,88,199,3.8,26.1,False
+2025-09-18,Nigeria,Sokoto,Sokoto South,274,65,120,6.3,32.8,False
+2025-09-18,Nigeria,Taraba,Jalingo,110,29,61,4.6,26.9,False
+2025-09-18,Nigeria,Taraba,Wukari,179,77,71,1.7,32.3,False
+2025-09-18,Nigeria,Yobe,Damaturu,108,37,59,5.5,28.8,False
+2025-09-18,Nigeria,Yobe,Potiskum,237,100,170,11.0,32.0,True
+2025-09-18,Nigeria,Zamfara,Gusau,430,235,316,0.5,25.3,False
+2025-09-18,Nigeria,Zamfara,Talata Mafara,178,101,127,1.8,25.0,False
+2025-09-19,Nigeria,Abia,Aba South,194,71,160,2.3,24.9,False
+2025-09-19,Nigeria,Abia,Umuahia North,146,68,61,4.0,29.3,False
+2025-09-19,Nigeria,Adamawa,Mubi North,153,71,108,11.0,29.6,True
+2025-09-19,Nigeria,Adamawa,Yola North,243,76,135,1.9,22.9,False
+2025-09-19,Nigeria,Akwa Ibom,Eket,197,59,155,10.3,29.5,True
+2025-09-19,Nigeria,Akwa Ibom,Uyo,249,110,164,3.5,31.4,False
+2025-09-19,Nigeria,Anambra,Awka South,198,118,137,2.9,26.1,False
+2025-09-19,Nigeria,Anambra,Onitsha North,380,155,137,0.3,28.2,False
+2025-09-19,Nigeria,Bauchi,Bauchi,633,185,313,10.4,29.1,True
+2025-09-19,Nigeria,Bauchi,Katagum,393,153,150,0.9,28.3,False
+2025-09-19,Nigeria,Benue,Gboko,284,94,175,5.1,30.5,False
+2025-09-19,Nigeria,Benue,Makurdi,135,37,134,3.4,27.0,False
+2025-09-19,Nigeria,Borno,Jere,166,88,118,25.4,26.5,True
+2025-09-19,Nigeria,Borno,Maiduguri,361,182,293,0.7,32.3,False
+2025-09-19,Nigeria,Cross River,Ikom,302,110,142,2.2,27.9,False
+2025-09-19,Nigeria,Delta,Ughelli North,317,89,119,1.5,28.9,False
+2025-09-19,Nigeria,Delta,Warri South,253,91,99,2.3,29.3,False
+2025-09-19,Nigeria,Edo,Etsako West,129,42,67,4.5,28.0,False
+2025-09-19,Nigeria,Edo,Oredo,171,65,136,0.3,27.1,False
+2025-09-19,Nigeria,Ekiti,Ado Ekiti,269,63,204,2.1,29.1,False
+2025-09-19,Nigeria,Ekiti,Ikole,64,32,36,8.3,30.0,False
+2025-09-19,Nigeria,Enugu,Enugu North,229,114,170,0.3,25.4,False
+2025-09-19,Nigeria,Enugu,Nsukka,190,56,84,9.5,30.1,False
+2025-09-19,Nigeria,FCT,AMAC,283,81,146,7.7,30.3,False
+2025-09-19,Nigeria,FCT,Bwari,232,76,119,8.5,27.4,False
+2025-09-19,Nigeria,Gombe,Gombe,201,55,90,1.8,27.9,False
+2025-09-19,Nigeria,Gombe,Kaltungo,118,30,48,10.5,27.0,False
+2025-09-19,Nigeria,Jigawa,Dutse,454,144,251,0.2,29.9,False
+2025-09-19,Nigeria,Jigawa,Hadejia,216,57,152,3.1,28.0,False
+2025-09-19,Nigeria,Kaduna,Chikun,329,85,194,14.0,28.7,True
+2025-09-19,Nigeria,Kaduna,Zaria,492,207,324,0.4,29.7,False
+2025-09-19,Nigeria,Kano,Gwale,1160,306,983,4.6,26.4,False
+2025-09-19,Nigeria,Katsina,Dutsin-Ma,408,192,164,11.1,27.2,True
+2025-09-19,Nigeria,Katsina,Kafur,509,207,430,2.1,29.3,False
+2025-09-19,Nigeria,Kebbi,Argungu,157,62,62,5.3,29.3,False
+2025-09-19,Nigeria,Kebbi,Birnin Kebbi,306,78,222,3.7,27.9,False
+2025-09-19,Nigeria,Kogi,Idah,32,9,20,2.3,28.6,False
+2025-09-19,Nigeria,Kogi,Lokoja,329,129,218,4.1,25.6,False
+2025-09-19,Nigeria,Kwara,Ilorin West,159,52,152,5.4,30.2,False
+2025-09-19,Nigeria,Kwara,Offa,48,17,26,3.7,31.0,False
+2025-09-19,Nigeria,Lagos,Alimosho,668,141,457,5.6,32.1,False
+2025-09-19,Nigeria,Lagos,Ikorodu,220,90,106,2.5,26.1,False
+2025-09-19,Nigeria,Lagos,Surulere,183,49,97,2.0,30.5,False
+2025-09-19,Nigeria,Niger,Bida,370,139,276,2.1,26.4,False
+2025-09-19,Nigeria,Niger,Chanchaga,294,159,142,2.9,31.4,False
+2025-09-19,Nigeria,Ogun,Abeokuta South,57,27,44,2.1,32.8,False
+2025-09-19,Nigeria,Ogun,Ifo,444,176,276,7.7,27.4,False
+2025-09-19,Nigeria,Ondo,Akure South,326,133,199,4.1,31.6,False
+2025-09-19,Nigeria,Ondo,Owo,164,74,114,0.7,27.7,False
+2025-09-19,Nigeria,Osun,Ife Central,231,147,217,0.5,32.3,False
+2025-09-19,Nigeria,Osun,Osogbo,189,46,129,1.3,28.9,False
+2025-09-19,Nigeria,Oyo,Ibadan North,360,106,145,4.0,28.9,False
+2025-09-19,Nigeria,Oyo,Ogbomosho North,498,147,259,4.0,29.2,False
+2025-09-19,Nigeria,Plateau,Jos North,360,72,228,3.2,29.9,False
+2025-09-19,Nigeria,Plateau,Shendam,189,66,73,3.3,31.7,False
+2025-09-19,Nigeria,Rivers,Obio-Akpor,443,126,193,3.1,27.1,False
+2025-09-19,Nigeria,Rivers,Port Harcourt,285,111,207,7.4,30.5,False
+2025-09-19,Nigeria,Sokoto,Sokoto North,241,64,143,8.0,30.0,False
+2025-09-19,Nigeria,Sokoto,Sokoto South,180,93,125,5.5,29.6,False
+2025-09-19,Nigeria,Taraba,Jalingo,106,27,66,2.4,26.3,False
+2025-09-19,Nigeria,Taraba,Wukari,218,67,157,7.6,26.3,False
+2025-09-19,Nigeria,Yobe,Damaturu,163,53,108,3.6,24.8,False
+2025-09-19,Nigeria,Yobe,Potiskum,239,36,95,3.9,31.9,False
+2025-09-19,Nigeria,Zamfara,Gusau,372,154,251,14.2,27.1,True
+2025-09-19,Nigeria,Zamfara,Talata Mafara,186,56,153,2.0,35.2,False
+2025-09-20,Nigeria,Abia,Aba South,92,52,55,0.5,24.8,False
+2025-09-20,Nigeria,Abia,Umuahia North,97,35,61,1.5,28.8,False
+2025-09-20,Nigeria,Adamawa,Mubi North,115,25,58,4.3,32.9,False
+2025-09-20,Nigeria,Adamawa,Yola North,121,74,129,5.8,30.5,False
+2025-09-20,Nigeria,Akwa Ibom,Eket,84,22,68,11.0,28.4,False
+2025-09-20,Nigeria,Akwa Ibom,Uyo,180,56,123,0.4,25.6,False
+2025-09-20,Nigeria,Anambra,Awka South,123,39,90,2.4,26.7,False
+2025-09-20,Nigeria,Anambra,Onitsha North,224,54,120,3.8,27.3,False
+2025-09-20,Nigeria,Bauchi,Bauchi,325,73,120,2.9,29.4,False
+2025-09-20,Nigeria,Bauchi,Katagum,185,92,97,3.7,31.6,False
+2025-09-20,Nigeria,Benue,Gboko,111,42,84,5.3,28.6,False
+2025-09-20,Nigeria,Benue,Makurdi,114,54,72,1.1,32.1,False
+2025-09-20,Nigeria,Borno,Jere,111,46,41,2.5,28.9,False
+2025-09-20,Nigeria,Borno,Maiduguri,244,62,142,10.2,29.1,True
+2025-09-20,Nigeria,Cross River,Ikom,190,57,139,11.0,28.3,True
+2025-09-20,Nigeria,Delta,Ughelli North,181,35,82,3.5,28.5,False
+2025-09-20,Nigeria,Delta,Warri South,148,40,113,1.3,30.0,False
+2025-09-20,Nigeria,Edo,Etsako West,91,24,56,2.0,28.9,False
+2025-09-20,Nigeria,Edo,Oredo,119,59,76,5.3,28.3,False
+2025-09-20,Nigeria,Ekiti,Ado Ekiti,116,38,96,0.1,29.9,False
+2025-09-20,Nigeria,Ekiti,Ikole,32,16,28,5.6,25.6,False
+2025-09-20,Nigeria,Enugu,Enugu North,122,48,91,3.6,30.5,False
+2025-09-20,Nigeria,Enugu,Nsukka,117,53,77,2.4,22.7,False
+2025-09-20,Nigeria,FCT,AMAC,138,67,72,10.9,32.1,True
+2025-09-20,Nigeria,FCT,Bwari,128,31,99,4.7,36.8,False
+2025-09-20,Nigeria,Gombe,Gombe,95,74,89,5.2,27.3,False
+2025-09-20,Nigeria,Gombe,Kaltungo,66,28,27,6.4,25.8,False
+2025-09-20,Nigeria,Jigawa,Dutse,306,121,171,5.5,33.0,False
+2025-09-20,Nigeria,Jigawa,Hadejia,129,31,77,0.2,33.2,False
+2025-09-20,Nigeria,Kaduna,Chikun,269,105,144,3.7,31.0,False
+2025-09-20,Nigeria,Kaduna,Zaria,314,82,198,12.0,27.0,True
+2025-09-20,Nigeria,Kano,Gwale,940,247,425,0.5,28.4,False
+2025-09-20,Nigeria,Katsina,Dutsin-Ma,229,57,117,8.1,28.7,False
+2025-09-20,Nigeria,Katsina,Kafur,264,135,192,2.0,30.6,False
+2025-09-20,Nigeria,Kebbi,Argungu,67,49,77,7.8,23.9,False
+2025-09-20,Nigeria,Kebbi,Birnin Kebbi,233,69,121,1.4,32.7,False
+2025-09-20,Nigeria,Kogi,Idah,20,14,18,0.1,25.4,False
+2025-09-20,Nigeria,Kogi,Lokoja,176,81,121,3.8,27.2,False
+2025-09-20,Nigeria,Kwara,Ilorin West,155,49,121,2.9,27.4,False
+2025-09-20,Nigeria,Kwara,Offa,23,15,16,9.8,25.1,False
+2025-09-20,Nigeria,Lagos,Alimosho,414,120,194,1.4,29.4,False
+2025-09-20,Nigeria,Lagos,Ikorodu,230,49,121,4.0,31.9,False
+2025-09-20,Nigeria,Lagos,Surulere,75,20,50,3.6,26.8,False
+2025-09-20,Nigeria,Niger,Bida,297,129,115,0.9,28.1,False
+2025-09-20,Nigeria,Niger,Chanchaga,184,74,94,5.9,25.0,False
+2025-09-20,Nigeria,Ogun,Abeokuta South,46,20,22,3.7,29.4,False
+2025-09-20,Nigeria,Ogun,Ifo,290,124,119,1.4,29.0,False
+2025-09-20,Nigeria,Ondo,Akure South,185,33,105,1.5,31.4,False
+2025-09-20,Nigeria,Ondo,Owo,82,32,54,1.2,29.4,False
+2025-09-20,Nigeria,Osun,Ife Central,155,67,109,0.5,28.0,False
+2025-09-20,Nigeria,Osun,Osogbo,136,50,74,1.5,26.3,False
+2025-09-20,Nigeria,Oyo,Ibadan North,248,60,161,5.1,32.7,False
+2025-09-20,Nigeria,Oyo,Ogbomosho North,247,103,102,6.6,26.9,False
+2025-09-20,Nigeria,Plateau,Jos North,251,37,134,0.6,26.5,False
+2025-09-20,Nigeria,Plateau,Shendam,120,43,50,2.4,30.6,False
+2025-09-20,Nigeria,Rivers,Obio-Akpor,189,78,163,6.9,27.0,False
+2025-09-20,Nigeria,Rivers,Port Harcourt,188,59,132,1.9,26.3,False
+2025-09-20,Nigeria,Sokoto,Sokoto North,160,57,107,5.2,29.5,False
+2025-09-20,Nigeria,Sokoto,Sokoto South,146,71,127,15.7,25.9,True
+2025-09-20,Nigeria,Taraba,Jalingo,44,10,28,6.9,27.8,False
+2025-09-20,Nigeria,Taraba,Wukari,128,32,69,4.0,26.9,False
+2025-09-20,Nigeria,Yobe,Damaturu,112,51,90,1.5,29.2,False
+2025-09-20,Nigeria,Yobe,Potiskum,124,30,65,7.5,31.2,False
+2025-09-20,Nigeria,Zamfara,Gusau,247,83,153,8.1,32.8,False
+2025-09-20,Nigeria,Zamfara,Talata Mafara,119,57,79,7.3,28.6,False
+2025-09-21,Nigeria,Abia,Aba South,100,44,63,1.7,25.4,False
+2025-09-21,Nigeria,Abia,Umuahia North,58,32,70,9.8,30.7,False
+2025-09-21,Nigeria,Adamawa,Mubi North,109,40,57,3.0,29.6,False
+2025-09-21,Nigeria,Adamawa,Yola North,180,75,107,2.7,33.2,False
+2025-09-21,Nigeria,Akwa Ibom,Eket,128,34,95,1.9,28.3,False
+2025-09-21,Nigeria,Akwa Ibom,Uyo,174,49,74,9.4,30.7,False
+2025-09-21,Nigeria,Anambra,Awka South,149,69,89,3.4,30.1,False
+2025-09-21,Nigeria,Anambra,Onitsha North,197,80,119,4.4,35.6,False
+2025-09-21,Nigeria,Bauchi,Bauchi,336,104,256,6.4,29.2,False
+2025-09-21,Nigeria,Bauchi,Katagum,166,54,104,1.2,33.8,False
+2025-09-21,Nigeria,Benue,Gboko,139,42,73,13.1,30.4,True
+2025-09-21,Nigeria,Benue,Makurdi,106,53,86,2.7,30.5,False
+2025-09-21,Nigeria,Borno,Jere,99,24,52,4.4,28.4,False
+2025-09-21,Nigeria,Borno,Maiduguri,269,115,162,5.5,30.2,False
+2025-09-21,Nigeria,Cross River,Ikom,243,73,166,8.3,26.1,False
+2025-09-21,Nigeria,Delta,Ughelli North,174,69,125,5.1,30.2,False
+2025-09-21,Nigeria,Delta,Warri South,140,65,81,3.3,26.1,False
+2025-09-21,Nigeria,Edo,Etsako West,116,49,66,3.8,30.9,False
+2025-09-21,Nigeria,Edo,Oredo,122,55,81,4.2,32.2,False
+2025-09-21,Nigeria,Ekiti,Ado Ekiti,131,64,99,2.7,30.8,False
+2025-09-21,Nigeria,Ekiti,Ikole,45,20,25,6.6,30.1,False
+2025-09-21,Nigeria,Enugu,Enugu North,114,65,104,2.2,27.9,False
+2025-09-21,Nigeria,Enugu,Nsukka,132,38,83,2.3,29.0,False
+2025-09-21,Nigeria,FCT,AMAC,213,53,131,9.6,31.1,False
+2025-09-21,Nigeria,FCT,Bwari,154,56,82,11.3,30.1,True
+2025-09-21,Nigeria,Gombe,Gombe,137,55,81,11.5,29.9,True
+2025-09-21,Nigeria,Gombe,Kaltungo,75,37,30,8.8,28.5,False
+2025-09-21,Nigeria,Jigawa,Dutse,371,146,195,3.5,27.5,False
+2025-09-21,Nigeria,Jigawa,Hadejia,132,63,82,5.0,29.0,False
+2025-09-21,Nigeria,Kaduna,Chikun,201,68,165,0.5,29.9,False
+2025-09-21,Nigeria,Kaduna,Zaria,273,103,153,3.5,28.3,False
+2025-09-21,Nigeria,Kano,Gwale,966,425,529,1.2,26.1,False
+2025-09-21,Nigeria,Katsina,Dutsin-Ma,303,137,124,4.8,22.2,False
+2025-09-21,Nigeria,Katsina,Kafur,350,73,231,5.4,28.5,False
+2025-09-21,Nigeria,Kebbi,Argungu,84,27,29,6.9,27.5,False
+2025-09-21,Nigeria,Kebbi,Birnin Kebbi,216,54,85,0.0,26.6,False
+2025-09-21,Nigeria,Kogi,Idah,45,21,21,7.5,31.6,False
+2025-09-21,Nigeria,Kogi,Lokoja,211,76,124,0.4,29.1,False
+2025-09-21,Nigeria,Kwara,Ilorin West,141,41,63,0.8,29.2,False
+2025-09-21,Nigeria,Kwara,Offa,36,17,23,1.7,35.1,False
+2025-09-21,Nigeria,Lagos,Alimosho,411,183,315,9.6,28.9,False
+2025-09-21,Nigeria,Lagos,Ikorodu,198,102,145,14.5,31.1,True
+2025-09-21,Nigeria,Lagos,Surulere,95,28,43,7.4,27.9,False
+2025-09-21,Nigeria,Niger,Bida,259,104,133,2.7,31.3,False
+2025-09-21,Nigeria,Niger,Chanchaga,199,83,87,6.3,29.4,False
+2025-09-21,Nigeria,Ogun,Abeokuta South,47,31,26,8.5,28.1,False
+2025-09-21,Nigeria,Ogun,Ifo,318,150,144,3.6,31.8,False
+2025-09-21,Nigeria,Ondo,Akure South,168,40,110,10.4,28.0,False
+2025-09-21,Nigeria,Ondo,Owo,102,37,36,0.9,33.2,False
+2025-09-21,Nigeria,Osun,Ife Central,156,33,125,19.4,29.8,False
+2025-09-21,Nigeria,Osun,Osogbo,111,43,73,4.3,29.7,False
+2025-09-21,Nigeria,Oyo,Ibadan North,149,43,118,2.9,31.0,False
+2025-09-21,Nigeria,Oyo,Ogbomosho North,234,60,97,1.1,28.4,False
+2025-09-21,Nigeria,Plateau,Jos North,220,96,138,5.8,24.8,False
+2025-09-21,Nigeria,Plateau,Shendam,121,45,59,3.7,29.2,False
+2025-09-21,Nigeria,Rivers,Obio-Akpor,229,121,144,2.5,28.6,False
+2025-09-21,Nigeria,Rivers,Port Harcourt,165,76,88,14.0,28.5,True
+2025-09-21,Nigeria,Sokoto,Sokoto North,207,61,125,1.8,29.6,False
+2025-09-21,Nigeria,Sokoto,Sokoto South,171,60,80,4.5,30.2,False
+2025-09-21,Nigeria,Taraba,Jalingo,57,15,22,4.7,29.3,False
+2025-09-21,Nigeria,Taraba,Wukari,134,46,70,0.3,28.3,False
+2025-09-21,Nigeria,Yobe,Damaturu,74,33,57,9.8,32.0,False
+2025-09-21,Nigeria,Yobe,Potiskum,112,37,51,6.9,29.0,False
+2025-09-21,Nigeria,Zamfara,Gusau,221,103,102,4.8,31.0,False
+2025-09-21,Nigeria,Zamfara,Talata Mafara,136,62,102,9.3,20.9,False
+2025-09-22,Nigeria,Abia,Aba South,204,85,100,5.9,29.8,False
+2025-09-22,Nigeria,Abia,Umuahia North,104,40,92,10.6,28.8,False
+2025-09-22,Nigeria,Adamawa,Mubi North,156,59,78,10.0,33.0,True
+2025-09-22,Nigeria,Adamawa,Yola North,271,137,203,4.1,32.5,False
+2025-09-22,Nigeria,Akwa Ibom,Eket,222,62,153,11.8,29.5,True
+2025-09-22,Nigeria,Akwa Ibom,Uyo,266,118,104,6.7,28.8,False
+2025-09-22,Nigeria,Anambra,Awka South,217,60,115,2.0,30.6,False
+2025-09-22,Nigeria,Anambra,Onitsha North,250,113,137,0.6,30.7,False
+2025-09-22,Nigeria,Bauchi,Bauchi,569,206,444,7.9,26.8,False
+2025-09-22,Nigeria,Bauchi,Katagum,298,121,92,8.1,28.6,False
+2025-09-22,Nigeria,Benue,Gboko,318,70,122,12.8,29.4,True
+2025-09-22,Nigeria,Benue,Makurdi,238,79,89,6.4,30.1,False
+2025-09-22,Nigeria,Borno,Jere,129,69,104,2.2,26.4,False
+2025-09-22,Nigeria,Borno,Maiduguri,402,143,326,0.4,30.2,False
+2025-09-22,Nigeria,Cross River,Ikom,300,112,162,1.0,29.2,False
+2025-09-22,Nigeria,Delta,Ughelli North,231,77,156,5.8,30.7,False
+2025-09-22,Nigeria,Delta,Warri South,213,113,106,1.1,23.1,False
+2025-09-22,Nigeria,Edo,Etsako West,204,75,120,1.3,28.4,False
+2025-09-22,Nigeria,Edo,Oredo,303,106,127,1.6,28.3,False
+2025-09-22,Nigeria,Ekiti,Ado Ekiti,217,68,183,0.5,30.7,False
+2025-09-22,Nigeria,Ekiti,Ikole,63,22,27,6.0,28.6,False
+2025-09-22,Nigeria,Enugu,Enugu North,195,54,186,4.8,24.9,False
+2025-09-22,Nigeria,Enugu,Nsukka,234,73,98,2.7,32.3,False
+2025-09-22,Nigeria,FCT,AMAC,231,115,164,3.8,28.3,False
+2025-09-22,Nigeria,FCT,Bwari,243,123,213,1.4,23.6,False
+2025-09-22,Nigeria,Gombe,Gombe,261,42,100,2.9,28.6,False
+2025-09-22,Nigeria,Gombe,Kaltungo,179,56,90,10.0,28.8,False
+2025-09-22,Nigeria,Jigawa,Dutse,538,181,394,1.9,26.1,False
+2025-09-22,Nigeria,Jigawa,Hadejia,164,58,90,7.7,25.5,False
+2025-09-22,Nigeria,Kaduna,Chikun,416,161,257,7.2,29.9,False
+2025-09-22,Nigeria,Kaduna,Zaria,621,246,232,3.8,28.7,False
+2025-09-22,Nigeria,Kano,Gwale,1311,585,833,13.1,29.2,True
+2025-09-22,Nigeria,Katsina,Dutsin-Ma,483,102,240,1.2,33.3,False
+2025-09-22,Nigeria,Katsina,Kafur,498,193,266,8.1,30.9,False
+2025-09-22,Nigeria,Kebbi,Argungu,169,35,59,1.9,34.3,False
+2025-09-22,Nigeria,Kebbi,Birnin Kebbi,296,120,151,5.7,32.0,False
+2025-09-22,Nigeria,Kogi,Idah,50,23,24,3.7,31.4,False
+2025-09-22,Nigeria,Kogi,Lokoja,248,105,167,2.2,34.6,False
+2025-09-22,Nigeria,Kwara,Ilorin West,249,88,123,3.8,26.3,False
+2025-09-22,Nigeria,Kwara,Offa,57,13,25,0.1,28.7,False
+2025-09-22,Nigeria,Lagos,Alimosho,646,194,463,10.3,32.2,True
+2025-09-22,Nigeria,Lagos,Ikorodu,226,71,153,8.9,26.2,False
+2025-09-22,Nigeria,Lagos,Surulere,195,107,117,2.2,26.6,False
+2025-09-22,Nigeria,Niger,Bida,472,132,188,21.8,32.6,True
+2025-09-22,Nigeria,Niger,Chanchaga,320,139,235,5.4,26.7,False
+2025-09-22,Nigeria,Ogun,Abeokuta South,84,33,44,7.6,27.2,False
+2025-09-22,Nigeria,Ogun,Ifo,428,237,242,12.7,31.4,True
+2025-09-22,Nigeria,Ondo,Akure South,261,125,204,3.4,28.3,False
+2025-09-22,Nigeria,Ondo,Owo,152,68,97,3.5,32.3,False
+2025-09-22,Nigeria,Osun,Ife Central,322,111,158,1.7,29.6,False
+2025-09-22,Nigeria,Osun,Osogbo,202,30,123,4.0,27.9,False
+2025-09-22,Nigeria,Oyo,Ibadan North,316,130,153,2.5,26.6,False
+2025-09-22,Nigeria,Oyo,Ogbomosho North,521,185,279,2.6,28.8,False
+2025-09-22,Nigeria,Plateau,Jos North,429,87,159,4.1,33.6,False
+2025-09-22,Nigeria,Plateau,Shendam,174,50,128,1.4,27.8,False
+2025-09-22,Nigeria,Rivers,Obio-Akpor,424,161,210,5.4,31.3,False
+2025-09-22,Nigeria,Rivers,Port Harcourt,285,119,163,6.8,27.4,False
+2025-09-22,Nigeria,Sokoto,Sokoto North,304,116,219,5.5,32.2,False
+2025-09-22,Nigeria,Sokoto,Sokoto South,252,95,107,2.4,31.7,False
+2025-09-22,Nigeria,Taraba,Jalingo,107,28,62,5.7,31.9,False
+2025-09-22,Nigeria,Taraba,Wukari,192,54,117,1.9,27.6,False
+2025-09-22,Nigeria,Yobe,Damaturu,115,46,95,5.2,29.8,False
+2025-09-22,Nigeria,Yobe,Potiskum,197,77,164,0.6,28.1,False
+2025-09-22,Nigeria,Zamfara,Gusau,428,173,263,9.1,30.7,False
+2025-09-22,Nigeria,Zamfara,Talata Mafara,225,93,124,8.2,31.0,False
+2025-09-23,Nigeria,Abia,Aba South,192,59,75,5.3,29.3,False
+2025-09-23,Nigeria,Abia,Umuahia North,139,64,102,3.6,32.1,False
+2025-09-23,Nigeria,Adamawa,Mubi North,154,56,57,1.3,27.8,False
+2025-09-23,Nigeria,Adamawa,Yola North,303,136,109,5.1,26.9,False
+2025-09-23,Nigeria,Akwa Ibom,Eket,221,87,97,0.9,30.1,False
+2025-09-23,Nigeria,Akwa Ibom,Uyo,332,114,204,1.7,27.3,False
+2025-09-23,Nigeria,Anambra,Awka South,243,117,110,0.6,30.7,False
+2025-09-23,Nigeria,Anambra,Onitsha North,453,145,259,0.7,27.5,False
+2025-09-23,Nigeria,Bauchi,Bauchi,520,170,283,3.4,25.4,False
+2025-09-23,Nigeria,Bauchi,Katagum,350,132,229,1.2,31.9,False
+2025-09-23,Nigeria,Benue,Gboko,239,108,163,1.9,27.4,False
+2025-09-23,Nigeria,Benue,Makurdi,187,75,72,10.6,30.5,True
+2025-09-23,Nigeria,Borno,Jere,178,24,107,0.6,29.7,False
+2025-09-23,Nigeria,Borno,Maiduguri,408,172,274,5.1,25.2,False
+2025-09-23,Nigeria,Cross River,Ikom,397,140,274,6.6,32.2,False
+2025-09-23,Nigeria,Delta,Ughelli North,285,120,157,4.4,32.5,False
+2025-09-23,Nigeria,Delta,Warri South,233,111,158,1.9,28.3,False
+2025-09-23,Nigeria,Edo,Etsako West,193,59,111,11.4,30.4,True
+2025-09-23,Nigeria,Edo,Oredo,234,96,154,3.3,27.9,False
+2025-09-23,Nigeria,Ekiti,Ado Ekiti,208,118,119,13.1,26.1,True
+2025-09-23,Nigeria,Ekiti,Ikole,49,28,21,6.8,29.8,False
+2025-09-23,Nigeria,Enugu,Enugu North,190,104,165,7.0,33.1,False
+2025-09-23,Nigeria,Enugu,Nsukka,231,109,150,4.8,25.5,False
+2025-09-23,Nigeria,FCT,AMAC,317,62,224,1.4,27.9,False
+2025-09-23,Nigeria,FCT,Bwari,216,88,126,3.4,29.7,False
+2025-09-23,Nigeria,Gombe,Gombe,162,44,101,4.8,31.2,False
+2025-09-23,Nigeria,Gombe,Kaltungo,104,28,80,2.8,33.6,False
+2025-09-23,Nigeria,Jigawa,Dutse,581,145,242,3.7,30.3,False
+2025-09-23,Nigeria,Jigawa,Hadejia,217,36,112,6.3,24.6,False
+2025-09-23,Nigeria,Kaduna,Chikun,389,177,316,4.4,29.0,False
+2025-09-23,Nigeria,Kaduna,Zaria,541,224,340,1.3,28.4,False
+2025-09-23,Nigeria,Kano,Gwale,1394,288,974,5.3,26.8,False
+2025-09-23,Nigeria,Katsina,Dutsin-Ma,412,102,145,6.6,30.0,False
+2025-09-23,Nigeria,Katsina,Kafur,682,190,281,5.2,28.3,False
+2025-09-23,Nigeria,Kebbi,Argungu,168,61,97,0.7,30.1,False
+2025-09-23,Nigeria,Kebbi,Birnin Kebbi,332,152,147,6.2,29.7,False
+2025-09-23,Nigeria,Kogi,Idah,52,24,24,7.1,27.8,False
+2025-09-23,Nigeria,Kogi,Lokoja,270,80,186,2.6,26.8,False
+2025-09-23,Nigeria,Kwara,Ilorin West,214,84,118,10.9,29.3,True
+2025-09-23,Nigeria,Kwara,Offa,57,33,29,1.1,32.4,False
+2025-09-23,Nigeria,Lagos,Alimosho,742,271,325,10.0,30.3,False
+2025-09-23,Nigeria,Lagos,Ikorodu,370,74,197,2.7,30.5,False
+2025-09-23,Nigeria,Lagos,Surulere,147,69,141,6.5,29.2,False
+2025-09-23,Nigeria,Niger,Bida,428,115,193,3.0,27.3,False
+2025-09-23,Nigeria,Niger,Chanchaga,249,84,129,4.8,29.0,False
+2025-09-23,Nigeria,Ogun,Abeokuta South,68,12,29,0.9,27.2,False
+2025-09-23,Nigeria,Ogun,Ifo,542,100,343,12.6,31.0,True
+2025-09-23,Nigeria,Ondo,Akure South,245,103,187,0.5,30.5,False
+2025-09-23,Nigeria,Ondo,Owo,138,69,99,4.7,28.2,False
+2025-09-23,Nigeria,Osun,Ife Central,354,113,176,9.0,29.8,False
+2025-09-23,Nigeria,Osun,Osogbo,183,63,105,6.6,29.7,False
+2025-09-23,Nigeria,Oyo,Ibadan North,320,116,127,2.8,30.5,False
+2025-09-23,Nigeria,Oyo,Ogbomosho North,423,96,334,3.7,27.4,False
+2025-09-23,Nigeria,Plateau,Jos North,306,117,198,6.4,24.7,False
+2025-09-23,Nigeria,Plateau,Shendam,140,82,63,4.9,29.7,False
+2025-09-23,Nigeria,Rivers,Obio-Akpor,389,176,340,2.4,28.6,False
+2025-09-23,Nigeria,Rivers,Port Harcourt,280,100,160,3.8,28.1,False
+2025-09-23,Nigeria,Sokoto,Sokoto North,417,84,222,4.0,29.1,False
+2025-09-23,Nigeria,Sokoto,Sokoto South,205,83,147,8.4,32.1,False
+2025-09-23,Nigeria,Taraba,Jalingo,108,36,50,8.5,29.6,False
+2025-09-23,Nigeria,Taraba,Wukari,240,105,91,1.2,29.2,False
+2025-09-23,Nigeria,Yobe,Damaturu,203,65,101,5.7,29.4,False
+2025-09-23,Nigeria,Yobe,Potiskum,177,77,74,3.6,27.2,False
+2025-09-23,Nigeria,Zamfara,Gusau,304,80,238,8.2,27.7,False
+2025-09-23,Nigeria,Zamfara,Talata Mafara,187,83,157,2.4,29.4,False
+2025-09-24,Nigeria,Abia,Aba South,178,50,151,9.3,34.9,False
+2025-09-24,Nigeria,Abia,Umuahia North,144,59,60,1.6,25.6,False
+2025-09-24,Nigeria,Adamawa,Mubi North,133,57,102,1.7,26.1,False
+2025-09-24,Nigeria,Adamawa,Yola North,259,98,146,2.8,32.1,False
+2025-09-24,Nigeria,Akwa Ibom,Eket,206,73,123,7.8,28.7,False
+2025-09-24,Nigeria,Akwa Ibom,Uyo,315,106,97,3.5,24.0,False
+2025-09-24,Nigeria,Anambra,Awka South,243,128,214,5.3,27.3,False
+2025-09-24,Nigeria,Anambra,Onitsha North,380,104,211,13.4,30.3,True
+2025-09-24,Nigeria,Bauchi,Bauchi,577,148,253,1.3,27.8,False
+2025-09-24,Nigeria,Bauchi,Katagum,363,109,189,1.1,27.6,False
+2025-09-24,Nigeria,Benue,Gboko,332,72,206,11.0,32.4,True
+2025-09-24,Nigeria,Benue,Makurdi,167,64,89,0.1,30.4,False
+2025-09-24,Nigeria,Borno,Jere,168,79,97,4.2,25.0,False
+2025-09-24,Nigeria,Borno,Maiduguri,427,195,236,5.1,31.8,False
+2025-09-24,Nigeria,Cross River,Ikom,441,84,179,1.1,29.0,False
+2025-09-24,Nigeria,Delta,Ughelli North,353,146,154,4.8,33.8,False
+2025-09-24,Nigeria,Delta,Warri South,230,99,139,14.9,31.8,True
+2025-09-24,Nigeria,Edo,Etsako West,164,65,90,4.2,29.2,False
+2025-09-24,Nigeria,Edo,Oredo,245,82,176,3.6,29.3,False
+2025-09-24,Nigeria,Ekiti,Ado Ekiti,232,55,93,4.4,33.0,False
+2025-09-24,Nigeria,Ekiti,Ikole,71,26,40,7.6,34.0,False
+2025-09-24,Nigeria,Enugu,Enugu North,184,69,201,1.3,27.4,False
+2025-09-24,Nigeria,Enugu,Nsukka,246,90,165,5.3,26.1,False
+2025-09-24,Nigeria,FCT,AMAC,267,96,101,7.3,31.2,False
+2025-09-24,Nigeria,FCT,Bwari,314,74,169,5.2,27.8,False
+2025-09-24,Nigeria,Gombe,Gombe,295,127,153,7.3,28.5,False
+2025-09-24,Nigeria,Gombe,Kaltungo,149,21,85,3.4,29.6,False
+2025-09-24,Nigeria,Jigawa,Dutse,443,257,316,1.9,27.7,False
+2025-09-24,Nigeria,Jigawa,Hadejia,170,46,93,1.1,30.5,False
+2025-09-24,Nigeria,Kaduna,Chikun,352,87,213,4.2,23.1,False
+2025-09-24,Nigeria,Kaduna,Zaria,516,112,257,8.3,31.6,False
+2025-09-24,Nigeria,Kano,Gwale,1167,567,1079,2.5,29.6,False
+2025-09-24,Nigeria,Katsina,Dutsin-Ma,562,223,313,4.4,25.4,False
+2025-09-24,Nigeria,Katsina,Kafur,566,138,415,7.6,32.4,False
+2025-09-24,Nigeria,Kebbi,Argungu,162,50,103,2.6,27.0,False
+2025-09-24,Nigeria,Kebbi,Birnin Kebbi,359,114,203,0.8,29.9,False
+2025-09-24,Nigeria,Kogi,Idah,39,17,19,1.6,32.2,False
+2025-09-24,Nigeria,Kogi,Lokoja,261,146,145,7.4,31.8,False
+2025-09-24,Nigeria,Kwara,Ilorin West,190,67,129,0.1,25.1,False
+2025-09-24,Nigeria,Kwara,Offa,59,35,40,5.4,27.3,False
+2025-09-24,Nigeria,Lagos,Alimosho,798,316,527,1.4,27.3,False
+2025-09-24,Nigeria,Lagos,Ikorodu,327,104,174,2.1,31.0,False
+2025-09-24,Nigeria,Lagos,Surulere,181,47,83,0.0,26.8,False
+2025-09-24,Nigeria,Niger,Bida,494,94,315,8.1,28.3,False
+2025-09-24,Nigeria,Niger,Chanchaga,279,52,122,8.3,26.2,False
+2025-09-24,Nigeria,Ogun,Abeokuta South,74,27,40,5.7,29.3,False
+2025-09-24,Nigeria,Ogun,Ifo,470,173,391,10.2,28.0,True
+2025-09-24,Nigeria,Ondo,Akure South,313,118,209,2.9,28.4,False
+2025-09-24,Nigeria,Ondo,Owo,160,51,128,2.3,26.8,False
+2025-09-24,Nigeria,Osun,Ife Central,258,126,121,5.0,31.2,False
+2025-09-24,Nigeria,Osun,Osogbo,170,66,107,4.1,32.2,False
+2025-09-24,Nigeria,Oyo,Ibadan North,325,131,157,1.2,33.0,False
+2025-09-24,Nigeria,Oyo,Ogbomosho North,520,115,296,7.0,33.1,False
+2025-09-24,Nigeria,Plateau,Jos North,381,83,260,4.4,23.9,False
+2025-09-24,Nigeria,Plateau,Shendam,197,48,77,3.9,32.7,False
+2025-09-24,Nigeria,Rivers,Obio-Akpor,366,98,311,2.2,28.8,False
+2025-09-24,Nigeria,Rivers,Port Harcourt,225,106,135,0.7,26.9,False
+2025-09-24,Nigeria,Sokoto,Sokoto North,270,120,191,1.7,29.0,False
+2025-09-24,Nigeria,Sokoto,Sokoto South,213,82,115,3.6,28.6,False
+2025-09-24,Nigeria,Taraba,Jalingo,93,51,50,12.9,26.9,True
+2025-09-24,Nigeria,Taraba,Wukari,190,92,92,5.8,30.1,False
+2025-09-24,Nigeria,Yobe,Damaturu,195,68,89,8.6,28.0,False
+2025-09-24,Nigeria,Yobe,Potiskum,259,59,103,4.0,25.5,False
+2025-09-24,Nigeria,Zamfara,Gusau,464,165,312,4.1,28.9,False
+2025-09-24,Nigeria,Zamfara,Talata Mafara,218,60,133,3.0,25.6,False
+2025-09-25,Nigeria,Abia,Aba South,146,65,116,1.4,31.0,False
+2025-09-25,Nigeria,Abia,Umuahia North,132,27,71,1.2,28.1,False
+2025-09-25,Nigeria,Adamawa,Mubi North,187,37,105,2.8,27.3,False
+2025-09-25,Nigeria,Adamawa,Yola North,284,91,173,1.8,28.9,False
+2025-09-25,Nigeria,Akwa Ibom,Eket,243,97,107,6.7,23.8,False
+2025-09-25,Nigeria,Akwa Ibom,Uyo,282,74,157,0.3,26.3,False
+2025-09-25,Nigeria,Anambra,Awka South,266,110,152,18.5,28.9,True
+2025-09-25,Nigeria,Anambra,Onitsha North,342,79,248,12.2,28.7,True
+2025-09-25,Nigeria,Bauchi,Bauchi,553,165,263,3.0,24.5,False
+2025-09-25,Nigeria,Bauchi,Katagum,447,105,203,3.7,25.3,False
+2025-09-25,Nigeria,Benue,Gboko,206,61,136,2.7,29.7,False
+2025-09-25,Nigeria,Benue,Makurdi,184,42,150,8.8,28.5,False
+2025-09-25,Nigeria,Borno,Jere,149,53,143,3.1,29.2,False
+2025-09-25,Nigeria,Borno,Maiduguri,524,78,171,4.5,33.2,False
+2025-09-25,Nigeria,Cross River,Ikom,358,147,225,0.3,29.0,False
+2025-09-25,Nigeria,Delta,Ughelli North,214,69,108,8.0,31.9,False
+2025-09-25,Nigeria,Delta,Warri South,237,52,181,15.9,26.6,True
+2025-09-25,Nigeria,Edo,Etsako West,180,72,95,4.3,28.6,False
+2025-09-25,Nigeria,Edo,Oredo,240,81,157,0.6,32.8,False
+2025-09-25,Nigeria,Ekiti,Ado Ekiti,225,102,132,2.6,31.5,False
+2025-09-25,Nigeria,Ekiti,Ikole,74,19,64,4.0,24.7,False
+2025-09-25,Nigeria,Enugu,Enugu North,211,59,112,5.3,26.3,False
+2025-09-25,Nigeria,Enugu,Nsukka,307,75,170,0.4,31.1,False
+2025-09-25,Nigeria,FCT,AMAC,216,62,108,4.1,28.2,False
+2025-09-25,Nigeria,FCT,Bwari,251,108,162,7.0,31.2,False
+2025-09-25,Nigeria,Gombe,Gombe,193,43,111,4.3,28.0,False
+2025-09-25,Nigeria,Gombe,Kaltungo,139,31,51,1.8,27.3,False
+2025-09-25,Nigeria,Jigawa,Dutse,426,138,178,0.5,28.3,False
+2025-09-25,Nigeria,Jigawa,Hadejia,176,70,125,0.1,26.7,False
+2025-09-25,Nigeria,Kaduna,Chikun,413,144,311,9.4,27.2,False
+2025-09-25,Nigeria,Kaduna,Zaria,496,266,245,10.5,31.3,True
+2025-09-25,Nigeria,Kano,Gwale,1475,257,1009,1.9,28.5,False
+2025-09-25,Nigeria,Katsina,Dutsin-Ma,426,169,216,2.5,26.7,False
+2025-09-25,Nigeria,Katsina,Kafur,468,207,382,1.2,29.7,False
+2025-09-25,Nigeria,Kebbi,Argungu,166,38,95,2.0,32.2,False
+2025-09-25,Nigeria,Kebbi,Birnin Kebbi,346,75,167,2.2,26.0,False
+2025-09-25,Nigeria,Kogi,Idah,46,24,28,4.1,32.4,False
+2025-09-25,Nigeria,Kogi,Lokoja,267,105,161,0.6,25.7,False
+2025-09-25,Nigeria,Kwara,Ilorin West,240,39,124,1.0,30.0,False
+2025-09-25,Nigeria,Kwara,Offa,61,16,30,0.4,24.6,False
+2025-09-25,Nigeria,Lagos,Alimosho,687,177,408,1.4,27.0,False
+2025-09-25,Nigeria,Lagos,Ikorodu,343,87,228,5.5,28.5,False
+2025-09-25,Nigeria,Lagos,Surulere,188,87,101,2.0,26.0,False
+2025-09-25,Nigeria,Niger,Bida,337,169,239,8.9,31.9,False
+2025-09-25,Nigeria,Niger,Chanchaga,262,84,118,1.7,27.0,False
+2025-09-25,Nigeria,Ogun,Abeokuta South,82,27,55,1.6,28.8,False
+2025-09-25,Nigeria,Ogun,Ifo,528,194,209,4.5,30.9,False
+2025-09-25,Nigeria,Ondo,Akure South,317,150,201,10.1,23.8,True
+2025-09-25,Nigeria,Ondo,Owo,177,58,112,1.8,30.8,False
+2025-09-25,Nigeria,Osun,Ife Central,290,70,188,3.1,32.4,False
+2025-09-25,Nigeria,Osun,Osogbo,195,63,125,1.8,27.9,False
+2025-09-25,Nigeria,Oyo,Ibadan North,336,146,248,8.0,27.6,False
+2025-09-25,Nigeria,Oyo,Ogbomosho North,315,107,166,8.2,25.6,False
+2025-09-25,Nigeria,Plateau,Jos North,356,94,165,1.7,27.5,False
+2025-09-25,Nigeria,Plateau,Shendam,164,70,77,1.0,27.8,False
+2025-09-25,Nigeria,Rivers,Obio-Akpor,357,130,301,1.3,26.8,False
+2025-09-25,Nigeria,Rivers,Port Harcourt,193,84,92,6.5,24.9,False
+2025-09-25,Nigeria,Sokoto,Sokoto North,248,62,132,10.7,27.2,True
+2025-09-25,Nigeria,Sokoto,Sokoto South,184,100,137,0.9,30.4,False
+2025-09-25,Nigeria,Taraba,Jalingo,121,45,52,4.8,27.0,False
+2025-09-25,Nigeria,Taraba,Wukari,218,51,73,5.9,28.0,False
+2025-09-25,Nigeria,Yobe,Damaturu,166,70,80,2.4,29.6,False
+2025-09-25,Nigeria,Yobe,Potiskum,202,69,140,3.4,26.7,False
+2025-09-25,Nigeria,Zamfara,Gusau,475,155,329,1.6,29.3,False
+2025-09-25,Nigeria,Zamfara,Talata Mafara,244,75,84,1.6,32.7,False
+2025-09-26,Nigeria,Abia,Aba South,231,93,71,3.9,27.3,False
+2025-09-26,Nigeria,Abia,Umuahia North,124,41,112,5.8,29.9,False
+2025-09-26,Nigeria,Adamawa,Mubi North,137,57,78,1.6,27.7,False
+2025-09-26,Nigeria,Adamawa,Yola North,250,87,106,0.4,24.8,False
+2025-09-26,Nigeria,Akwa Ibom,Eket,216,76,159,10.5,28.0,True
+2025-09-26,Nigeria,Akwa Ibom,Uyo,261,115,209,0.9,31.4,False
+2025-09-26,Nigeria,Anambra,Awka South,212,96,156,1.6,29.8,False
+2025-09-26,Nigeria,Anambra,Onitsha North,359,154,206,5.0,31.4,False
+2025-09-26,Nigeria,Bauchi,Bauchi,536,132,325,2.4,28.0,False
+2025-09-26,Nigeria,Bauchi,Katagum,276,163,234,6.4,22.2,False
+2025-09-26,Nigeria,Benue,Gboko,262,63,110,5.6,28.3,False
+2025-09-26,Nigeria,Benue,Makurdi,228,73,120,7.6,26.7,False
+2025-09-26,Nigeria,Borno,Jere,148,79,113,2.9,30.2,False
+2025-09-26,Nigeria,Borno,Maiduguri,524,127,245,5.0,31.1,False
+2025-09-26,Nigeria,Cross River,Ikom,325,156,275,7.6,33.9,False
+2025-09-26,Nigeria,Delta,Ughelli North,309,126,168,0.6,26.5,False
+2025-09-26,Nigeria,Delta,Warri South,269,67,173,0.9,29.1,False
+2025-09-26,Nigeria,Edo,Etsako West,200,68,77,7.5,26.3,False
+2025-09-26,Nigeria,Edo,Oredo,272,62,115,4.7,27.2,False
+2025-09-26,Nigeria,Ekiti,Ado Ekiti,259,129,137,2.0,32.0,False
+2025-09-26,Nigeria,Ekiti,Ikole,64,22,35,7.7,26.6,False
+2025-09-26,Nigeria,Enugu,Enugu North,210,100,115,1.6,31.3,False
+2025-09-26,Nigeria,Enugu,Nsukka,188,125,119,0.3,30.9,False
+2025-09-26,Nigeria,FCT,AMAC,311,139,193,8.5,26.9,False
+2025-09-26,Nigeria,FCT,Bwari,215,95,103,10.2,28.3,True
+2025-09-26,Nigeria,Gombe,Gombe,186,77,167,1.6,29.6,False
+2025-09-26,Nigeria,Gombe,Kaltungo,100,52,85,5.1,28.8,False
+2025-09-26,Nigeria,Jigawa,Dutse,649,267,258,5.0,29.0,False
+2025-09-26,Nigeria,Jigawa,Hadejia,189,73,125,5.2,23.5,False
+2025-09-26,Nigeria,Kaduna,Chikun,454,146,223,6.3,33.1,False
+2025-09-26,Nigeria,Kaduna,Zaria,545,217,429,5.1,32.4,False
+2025-09-26,Nigeria,Kano,Gwale,1392,507,574,9.6,23.7,False
+2025-09-26,Nigeria,Katsina,Dutsin-Ma,341,89,189,5.1,26.9,False
+2025-09-26,Nigeria,Katsina,Kafur,595,167,277,8.0,28.3,False
+2025-09-26,Nigeria,Kebbi,Argungu,179,61,82,6.2,35.0,False
+2025-09-26,Nigeria,Kebbi,Birnin Kebbi,286,156,168,0.5,32.3,False
+2025-09-26,Nigeria,Kogi,Idah,58,22,34,1.7,31.9,False
+2025-09-26,Nigeria,Kogi,Lokoja,307,89,163,4.8,31.4,False
+2025-09-26,Nigeria,Kwara,Ilorin West,309,145,140,4.1,26.8,False
+2025-09-26,Nigeria,Kwara,Offa,29,6,7,0.7,27.0,False
+2025-09-26,Nigeria,Lagos,Alimosho,664,331,417,3.9,27.7,False
+2025-09-26,Nigeria,Lagos,Ikorodu,284,79,174,1.0,26.5,False
+2025-09-26,Nigeria,Lagos,Surulere,225,96,112,1.9,30.3,False
+2025-09-26,Nigeria,Niger,Bida,333,147,292,0.8,30.2,False
+2025-09-26,Nigeria,Niger,Chanchaga,212,94,143,5.2,28.2,False
+2025-09-26,Nigeria,Ogun,Abeokuta South,98,32,63,10.0,26.3,False
+2025-09-26,Nigeria,Ogun,Ifo,391,115,262,3.4,28.1,False
+2025-09-26,Nigeria,Ondo,Akure South,370,167,218,5.8,30.5,False
+2025-09-26,Nigeria,Ondo,Owo,155,41,72,6.5,27.6,False
+2025-09-26,Nigeria,Osun,Ife Central,307,118,159,3.0,31.4,False
+2025-09-26,Nigeria,Osun,Osogbo,222,64,90,1.9,30.2,False
+2025-09-26,Nigeria,Oyo,Ibadan North,302,144,173,1.1,29.7,False
+2025-09-26,Nigeria,Oyo,Ogbomosho North,421,173,232,2.0,28.9,False
+2025-09-26,Nigeria,Plateau,Jos North,294,89,167,7.3,24.1,False
+2025-09-26,Nigeria,Plateau,Shendam,112,42,60,2.2,31.8,False
+2025-09-26,Nigeria,Rivers,Obio-Akpor,353,145,260,2.3,31.4,False
+2025-09-26,Nigeria,Rivers,Port Harcourt,202,96,138,9.7,27.5,False
+2025-09-26,Nigeria,Sokoto,Sokoto North,324,118,168,0.4,29.3,False
+2025-09-26,Nigeria,Sokoto,Sokoto South,201,62,122,6.7,27.4,False
+2025-09-26,Nigeria,Taraba,Jalingo,78,47,68,3.5,28.9,False
+2025-09-26,Nigeria,Taraba,Wukari,173,40,86,6.6,28.8,False
+2025-09-26,Nigeria,Yobe,Damaturu,231,53,111,1.8,28.3,False
+2025-09-26,Nigeria,Yobe,Potiskum,241,67,102,4.4,28.1,False
+2025-09-26,Nigeria,Zamfara,Gusau,400,86,320,6.3,30.0,False
+2025-09-26,Nigeria,Zamfara,Talata Mafara,244,95,138,6.5,28.1,False
+2025-09-27,Nigeria,Abia,Aba South,89,53,57,1.0,30.3,False
+2025-09-27,Nigeria,Abia,Umuahia North,77,36,50,2.7,28.3,False
+2025-09-27,Nigeria,Adamawa,Mubi North,82,29,57,1.4,25.3,False
+2025-09-27,Nigeria,Adamawa,Yola North,127,60,72,7.2,28.7,False
+2025-09-27,Nigeria,Akwa Ibom,Eket,121,33,84,2.6,29.9,False
+2025-09-27,Nigeria,Akwa Ibom,Uyo,136,32,71,7.9,26.6,False
+2025-09-27,Nigeria,Anambra,Awka South,142,26,89,3.8,25.4,False
+2025-09-27,Nigeria,Anambra,Onitsha North,251,82,94,3.5,27.8,False
+2025-09-27,Nigeria,Bauchi,Bauchi,334,145,181,4.6,27.5,False
+2025-09-27,Nigeria,Bauchi,Katagum,271,46,126,3.6,27.1,False
+2025-09-27,Nigeria,Benue,Gboko,111,33,70,3.3,26.2,False
+2025-09-27,Nigeria,Benue,Makurdi,89,39,53,14.3,27.1,False
+2025-09-27,Nigeria,Borno,Jere,105,39,34,8.1,31.0,False
+2025-09-27,Nigeria,Borno,Maiduguri,234,63,101,4.9,25.4,False
+2025-09-27,Nigeria,Cross River,Ikom,204,73,108,1.2,27.3,False
+2025-09-27,Nigeria,Delta,Ughelli North,187,56,115,0.8,26.2,False
+2025-09-27,Nigeria,Delta,Warri South,139,57,56,4.2,29.1,False
+2025-09-27,Nigeria,Edo,Etsako West,92,32,54,0.9,31.8,False
+2025-09-27,Nigeria,Edo,Oredo,107,22,90,6.9,31.5,False
+2025-09-27,Nigeria,Ekiti,Ado Ekiti,141,43,71,0.5,27.6,False
+2025-09-27,Nigeria,Ekiti,Ikole,46,16,27,0.8,31.6,False
+2025-09-27,Nigeria,Enugu,Enugu North,158,46,69,3.1,26.9,False
+2025-09-27,Nigeria,Enugu,Nsukka,115,30,109,4.2,31.2,False
+2025-09-27,Nigeria,FCT,AMAC,197,78,133,2.8,29.7,False
+2025-09-27,Nigeria,FCT,Bwari,172,40,111,3.3,28.3,False
+2025-09-27,Nigeria,Gombe,Gombe,157,29,88,6.8,29.0,False
+2025-09-27,Nigeria,Gombe,Kaltungo,59,34,32,7.0,30.9,False
+2025-09-27,Nigeria,Jigawa,Dutse,325,82,104,9.6,29.1,False
+2025-09-27,Nigeria,Jigawa,Hadejia,145,37,89,12.0,33.4,False
+2025-09-27,Nigeria,Kaduna,Chikun,228,103,116,3.9,28.9,False
+2025-09-27,Nigeria,Kaduna,Zaria,313,97,189,3.8,30.2,False
+2025-09-27,Nigeria,Kano,Gwale,777,229,425,5.7,30.6,False
+2025-09-27,Nigeria,Katsina,Dutsin-Ma,335,157,113,3.2,31.8,False
+2025-09-27,Nigeria,Katsina,Kafur,342,86,193,1.4,30.8,False
+2025-09-27,Nigeria,Kebbi,Argungu,113,35,64,8.5,26.0,False
+2025-09-27,Nigeria,Kebbi,Birnin Kebbi,234,66,157,5.7,30.5,False
+2025-09-27,Nigeria,Kogi,Idah,36,8,27,0.5,28.1,False
+2025-09-27,Nigeria,Kogi,Lokoja,166,66,69,2.9,28.8,False
+2025-09-27,Nigeria,Kwara,Ilorin West,174,34,71,3.0,31.6,False
+2025-09-27,Nigeria,Kwara,Offa,24,17,23,8.8,26.1,False
+2025-09-27,Nigeria,Lagos,Alimosho,418,115,217,1.0,24.1,False
+2025-09-27,Nigeria,Lagos,Ikorodu,203,57,93,2.2,32.5,False
+2025-09-27,Nigeria,Lagos,Surulere,80,35,72,2.3,27.7,False
+2025-09-27,Nigeria,Niger,Bida,293,74,202,6.8,29.2,False
+2025-09-27,Nigeria,Niger,Chanchaga,111,53,72,1.1,30.6,False
+2025-09-27,Nigeria,Ogun,Abeokuta South,65,14,18,5.0,28.3,False
+2025-09-27,Nigeria,Ogun,Ifo,237,74,120,1.4,30.3,False
+2025-09-27,Nigeria,Ondo,Akure South,210,43,127,13.6,31.4,True
+2025-09-27,Nigeria,Ondo,Owo,90,42,47,4.2,34.1,False
+2025-09-27,Nigeria,Osun,Ife Central,192,75,136,5.8,30.1,False
+2025-09-27,Nigeria,Osun,Osogbo,80,25,81,2.4,27.3,False
+2025-09-27,Nigeria,Oyo,Ibadan North,135,38,118,9.6,31.7,False
+2025-09-27,Nigeria,Oyo,Ogbomosho North,211,82,111,0.6,29.3,False
+2025-09-27,Nigeria,Plateau,Jos North,232,93,107,7.1,30.1,False
+2025-09-27,Nigeria,Plateau,Shendam,139,53,71,7.4,26.7,False
+2025-09-27,Nigeria,Rivers,Obio-Akpor,249,57,184,9.6,30.3,False
+2025-09-27,Nigeria,Rivers,Port Harcourt,100,53,76,9.7,30.3,False
+2025-09-27,Nigeria,Sokoto,Sokoto North,170,54,134,0.9,25.4,False
+2025-09-27,Nigeria,Sokoto,Sokoto South,110,24,51,0.6,26.3,False
+2025-09-27,Nigeria,Taraba,Jalingo,62,28,37,2.5,26.1,False
+2025-09-27,Nigeria,Taraba,Wukari,128,25,77,16.5,28.6,False
+2025-09-27,Nigeria,Yobe,Damaturu,105,29,41,22.6,33.3,False
+2025-09-27,Nigeria,Yobe,Potiskum,114,33,79,9.8,34.5,False
+2025-09-27,Nigeria,Zamfara,Gusau,218,98,161,11.8,32.6,True
+2025-09-27,Nigeria,Zamfara,Talata Mafara,123,30,71,6.4,28.3,False
+2025-09-28,Nigeria,Abia,Aba South,133,28,91,1.8,24.5,False
+2025-09-28,Nigeria,Abia,Umuahia North,93,29,53,8.4,27.6,False
+2025-09-28,Nigeria,Adamawa,Mubi North,79,27,60,14.1,28.5,False
+2025-09-28,Nigeria,Adamawa,Yola North,201,73,118,4.7,31.2,False
+2025-09-28,Nigeria,Akwa Ibom,Eket,101,41,66,5.3,27.8,False
+2025-09-28,Nigeria,Akwa Ibom,Uyo,157,72,93,10.2,25.2,True
+2025-09-28,Nigeria,Anambra,Awka South,126,59,90,9.2,32.2,False
+2025-09-28,Nigeria,Anambra,Onitsha North,160,72,78,0.7,27.6,False
+2025-09-28,Nigeria,Bauchi,Bauchi,291,129,215,6.3,30.4,False
+2025-09-28,Nigeria,Bauchi,Katagum,199,44,80,6.4,29.6,False
+2025-09-28,Nigeria,Benue,Gboko,190,60,71,1.1,27.3,False
+2025-09-28,Nigeria,Benue,Makurdi,130,44,61,5.3,30.7,False
+2025-09-28,Nigeria,Borno,Jere,134,44,73,6.6,28.8,False
+2025-09-28,Nigeria,Borno,Maiduguri,223,82,199,7.7,29.4,False
+2025-09-28,Nigeria,Cross River,Ikom,224,90,94,2.2,29.6,False
+2025-09-28,Nigeria,Delta,Ughelli North,137,42,104,5.7,28.2,False
+2025-09-28,Nigeria,Delta,Warri South,146,59,65,7.5,30.4,False
+2025-09-28,Nigeria,Edo,Etsako West,102,35,61,4.7,31.6,False
+2025-09-28,Nigeria,Edo,Oredo,121,26,57,1.1,22.1,False
+2025-09-28,Nigeria,Ekiti,Ado Ekiti,147,65,90,0.0,31.8,False
+2025-09-28,Nigeria,Ekiti,Ikole,50,19,20,5.5,29.4,False
+2025-09-28,Nigeria,Enugu,Enugu North,145,24,74,4.1,29.0,False
+2025-09-28,Nigeria,Enugu,Nsukka,107,38,89,2.2,28.0,False
+2025-09-28,Nigeria,FCT,AMAC,151,54,119,7.3,25.9,False
+2025-09-28,Nigeria,FCT,Bwari,164,44,103,2.5,31.4,False
+2025-09-28,Nigeria,Gombe,Gombe,98,62,86,0.6,30.0,False
+2025-09-28,Nigeria,Gombe,Kaltungo,62,40,38,4.2,26.2,False
+2025-09-28,Nigeria,Jigawa,Dutse,326,65,156,1.6,31.4,False
+2025-09-28,Nigeria,Jigawa,Hadejia,144,36,54,15.4,25.1,False
+2025-09-28,Nigeria,Kaduna,Chikun,209,76,150,5.6,25.5,False
+2025-09-28,Nigeria,Kaduna,Zaria,325,107,197,2.9,32.3,False
+2025-09-28,Nigeria,Kano,Gwale,645,199,471,0.2,32.5,False
+2025-09-28,Nigeria,Katsina,Dutsin-Ma,263,110,179,4.9,29.7,False
+2025-09-28,Nigeria,Katsina,Kafur,321,74,201,2.2,27.8,False
+2025-09-28,Nigeria,Kebbi,Argungu,95,32,51,0.2,26.7,False
+2025-09-28,Nigeria,Kebbi,Birnin Kebbi,249,97,137,5.2,29.6,False
+2025-09-28,Nigeria,Kogi,Idah,32,23,21,4.7,30.2,False
+2025-09-28,Nigeria,Kogi,Lokoja,192,77,116,5.8,30.0,False
+2025-09-28,Nigeria,Kwara,Ilorin West,124,67,68,8.2,29.2,False
+2025-09-28,Nigeria,Kwara,Offa,33,11,15,0.6,31.6,False
+2025-09-28,Nigeria,Lagos,Alimosho,489,132,272,2.7,23.5,False
+2025-09-28,Nigeria,Lagos,Ikorodu,134,52,116,4.5,31.1,False
+2025-09-28,Nigeria,Lagos,Surulere,91,23,60,8.5,32.9,False
+2025-09-28,Nigeria,Niger,Bida,214,96,77,7.8,27.0,False
+2025-09-28,Nigeria,Niger,Chanchaga,145,33,109,1.8,33.4,False
+2025-09-28,Nigeria,Ogun,Abeokuta South,39,16,35,1.3,31.4,False
+2025-09-28,Nigeria,Ogun,Ifo,297,78,136,11.5,30.5,True
+2025-09-28,Nigeria,Ondo,Akure South,151,70,145,10.3,32.8,True
+2025-09-28,Nigeria,Ondo,Owo,85,20,51,0.5,25.5,False
+2025-09-28,Nigeria,Osun,Ife Central,199,37,130,0.6,27.8,False
+2025-09-28,Nigeria,Osun,Osogbo,110,39,40,3.0,32.1,False
+2025-09-28,Nigeria,Oyo,Ibadan North,208,68,143,1.1,30.2,False
+2025-09-28,Nigeria,Oyo,Ogbomosho North,303,120,169,4.7,30.4,False
+2025-09-28,Nigeria,Plateau,Jos North,190,78,90,8.8,29.3,False
+2025-09-28,Nigeria,Plateau,Shendam,132,35,75,9.2,31.3,False
+2025-09-28,Nigeria,Rivers,Obio-Akpor,276,85,176,13.1,27.1,True
+2025-09-28,Nigeria,Rivers,Port Harcourt,138,68,54,4.8,28.1,False
+2025-09-28,Nigeria,Sokoto,Sokoto North,229,68,145,2.3,28.3,False
+2025-09-28,Nigeria,Sokoto,Sokoto South,105,35,91,2.1,28.5,False
+2025-09-28,Nigeria,Taraba,Jalingo,59,21,38,1.3,32.1,False
+2025-09-28,Nigeria,Taraba,Wukari,116,48,86,2.0,31.1,False
+2025-09-28,Nigeria,Yobe,Damaturu,116,45,59,4.7,28.4,False
+2025-09-28,Nigeria,Yobe,Potiskum,100,36,54,2.3,25.5,False
+2025-09-28,Nigeria,Zamfara,Gusau,287,72,155,0.6,26.2,False
+2025-09-28,Nigeria,Zamfara,Talata Mafara,153,51,81,1.4,26.9,False
+2025-09-29,Nigeria,Abia,Aba South,244,112,139,4.1,30.3,False
+2025-09-29,Nigeria,Abia,Umuahia North,120,49,54,5.8,27.4,False
+2025-09-29,Nigeria,Adamawa,Mubi North,118,50,67,10.9,32.1,True
+2025-09-29,Nigeria,Adamawa,Yola North,281,109,179,7.5,28.7,False
+2025-09-29,Nigeria,Akwa Ibom,Eket,189,79,164,0.4,31.0,False
+2025-09-29,Nigeria,Akwa Ibom,Uyo,309,150,224,1.2,33.3,False
+2025-09-29,Nigeria,Anambra,Awka South,244,74,148,1.4,24.1,False
+2025-09-29,Nigeria,Anambra,Onitsha North,312,79,138,1.5,28.5,False
+2025-09-29,Nigeria,Bauchi,Bauchi,488,197,360,1.5,30.6,False
+2025-09-29,Nigeria,Bauchi,Katagum,382,103,215,2.4,30.3,False
+2025-09-29,Nigeria,Benue,Gboko,275,74,134,0.7,30.7,False
+2025-09-29,Nigeria,Benue,Makurdi,219,81,67,6.2,30.0,False
+2025-09-29,Nigeria,Borno,Jere,213,102,110,2.3,28.8,False
+2025-09-29,Nigeria,Borno,Maiduguri,451,97,300,3.9,35.1,False
+2025-09-29,Nigeria,Cross River,Ikom,251,158,211,2.4,25.9,False
+2025-09-29,Nigeria,Delta,Ughelli North,267,111,114,15.4,30.0,True
+2025-09-29,Nigeria,Delta,Warri South,272,109,165,2.6,30.0,False
+2025-09-29,Nigeria,Edo,Etsako West,167,43,100,6.5,29.5,False
+2025-09-29,Nigeria,Edo,Oredo,272,102,232,1.0,29.4,False
+2025-09-29,Nigeria,Ekiti,Ado Ekiti,245,120,156,9.3,31.7,False
+2025-09-29,Nigeria,Ekiti,Ikole,65,17,43,0.8,30.8,False
+2025-09-29,Nigeria,Enugu,Enugu North,274,62,122,0.4,32.4,False
+2025-09-29,Nigeria,Enugu,Nsukka,237,77,113,5.2,27.8,False
+2025-09-29,Nigeria,FCT,AMAC,368,146,144,5.0,21.5,False
+2025-09-29,Nigeria,FCT,Bwari,262,103,97,10.4,32.3,True
+2025-09-29,Nigeria,Gombe,Gombe,210,96,92,12.5,28.2,True
+2025-09-29,Nigeria,Gombe,Kaltungo,88,35,82,1.6,27.7,False
+2025-09-29,Nigeria,Jigawa,Dutse,466,125,241,1.1,29.8,False
+2025-09-29,Nigeria,Jigawa,Hadejia,173,73,127,11.5,25.5,True
+2025-09-29,Nigeria,Kaduna,Chikun,331,93,280,1.6,23.4,False
+2025-09-29,Nigeria,Kaduna,Zaria,682,259,365,5.0,28.3,False
+2025-09-29,Nigeria,Kano,Gwale,1407,486,679,6.6,28.3,False
+2025-09-29,Nigeria,Katsina,Dutsin-Ma,372,144,201,5.0,30.3,False
+2025-09-29,Nigeria,Katsina,Kafur,610,229,311,3.7,30.1,False
+2025-09-29,Nigeria,Kebbi,Argungu,126,42,71,6.8,26.6,False
+2025-09-29,Nigeria,Kebbi,Birnin Kebbi,289,130,211,4.6,29.6,False
+2025-09-29,Nigeria,Kogi,Idah,92,23,49,6.7,27.7,False
+2025-09-29,Nigeria,Kogi,Lokoja,287,83,198,0.4,30.3,False
+2025-09-29,Nigeria,Kwara,Ilorin West,201,63,88,10.7,28.1,True
+2025-09-29,Nigeria,Kwara,Offa,54,20,38,2.2,30.1,False
+2025-09-29,Nigeria,Lagos,Alimosho,764,176,364,5.5,30.1,False
+2025-09-29,Nigeria,Lagos,Ikorodu,325,75,150,7.8,23.6,False
+2025-09-29,Nigeria,Lagos,Surulere,148,50,83,5.2,26.9,False
+2025-09-29,Nigeria,Niger,Bida,391,166,179,2.3,29.7,False
+2025-09-29,Nigeria,Niger,Chanchaga,327,82,158,2.0,31.6,False
+2025-09-29,Nigeria,Ogun,Abeokuta South,59,38,40,10.9,28.2,False
+2025-09-29,Nigeria,Ogun,Ifo,571,105,393,10.7,31.4,True
+2025-09-29,Nigeria,Ondo,Akure South,235,93,183,2.7,28.7,False
+2025-09-29,Nigeria,Ondo,Owo,112,70,115,1.5,27.4,False
+2025-09-29,Nigeria,Osun,Ife Central,205,117,152,5.9,34.0,False
+2025-09-29,Nigeria,Osun,Osogbo,192,29,84,1.8,23.5,False
+2025-09-29,Nigeria,Oyo,Ibadan North,312,147,150,1.6,27.4,False
+2025-09-29,Nigeria,Oyo,Ogbomosho North,478,123,302,2.3,31.0,False
+2025-09-29,Nigeria,Plateau,Jos North,369,153,193,8.1,25.5,False
+2025-09-29,Nigeria,Plateau,Shendam,203,63,101,1.1,30.5,False
+2025-09-29,Nigeria,Rivers,Obio-Akpor,317,143,241,6.4,29.1,False
+2025-09-29,Nigeria,Rivers,Port Harcourt,248,60,110,2.0,27.0,False
+2025-09-29,Nigeria,Sokoto,Sokoto North,229,101,165,6.7,27.0,False
+2025-09-29,Nigeria,Sokoto,Sokoto South,222,83,104,7.6,27.9,False
+2025-09-29,Nigeria,Taraba,Jalingo,110,28,55,4.7,31.7,False
+2025-09-29,Nigeria,Taraba,Wukari,183,86,93,8.4,32.4,False
+2025-09-29,Nigeria,Yobe,Damaturu,169,65,114,8.4,28.2,False
+2025-09-29,Nigeria,Yobe,Potiskum,292,116,158,5.4,29.1,False
+2025-09-29,Nigeria,Zamfara,Gusau,344,164,342,6.9,30.0,False
+2025-09-29,Nigeria,Zamfara,Talata Mafara,242,64,163,7.4,25.9,False
+2025-09-30,Nigeria,Abia,Aba South,169,52,197,6.7,26.8,False
+2025-09-30,Nigeria,Abia,Umuahia North,112,20,58,3.7,29.9,False
+2025-09-30,Nigeria,Adamawa,Mubi North,128,66,83,0.6,26.6,False
+2025-09-30,Nigeria,Adamawa,Yola North,184,96,116,3.8,28.9,False
+2025-09-30,Nigeria,Akwa Ibom,Eket,191,47,124,1.7,24.3,False
+2025-09-30,Nigeria,Akwa Ibom,Uyo,243,80,134,5.9,26.8,False
+2025-09-30,Nigeria,Anambra,Awka South,265,65,118,8.8,29.5,False
+2025-09-30,Nigeria,Anambra,Onitsha North,252,90,140,9.4,31.6,False
+2025-09-30,Nigeria,Bauchi,Bauchi,523,227,276,4.6,32.9,False
+2025-09-30,Nigeria,Bauchi,Katagum,332,70,120,5.3,30.5,False
+2025-09-30,Nigeria,Benue,Gboko,204,75,143,14.3,30.4,True
+2025-09-30,Nigeria,Benue,Makurdi,196,85,122,7.9,34.5,False
+2025-09-30,Nigeria,Borno,Jere,157,66,138,6.0,28.5,False
+2025-09-30,Nigeria,Borno,Maiduguri,418,170,250,0.7,29.6,False
+2025-09-30,Nigeria,Cross River,Ikom,376,101,165,7.8,30.1,False
+2025-09-30,Nigeria,Delta,Ughelli North,218,108,115,3.4,24.5,False
+2025-09-30,Nigeria,Delta,Warri South,255,94,169,11.0,26.4,True
+2025-09-30,Nigeria,Edo,Etsako West,171,82,78,0.1,28.9,False
+2025-09-30,Nigeria,Edo,Oredo,181,84,151,0.9,29.5,False
+2025-09-30,Nigeria,Ekiti,Ado Ekiti,216,96,132,2.3,28.7,False
+2025-09-30,Nigeria,Ekiti,Ikole,55,22,47,3.8,29.2,False
+2025-09-30,Nigeria,Enugu,Enugu North,210,85,99,15.5,27.5,True
+2025-09-30,Nigeria,Enugu,Nsukka,163,59,62,4.1,28.9,False
+2025-09-30,Nigeria,FCT,AMAC,274,68,194,13.1,30.0,True
+2025-09-30,Nigeria,FCT,Bwari,288,110,216,4.3,30.8,False
+2025-09-30,Nigeria,Gombe,Gombe,201,70,186,11.9,26.2,True
+2025-09-30,Nigeria,Gombe,Kaltungo,183,33,93,7.4,26.0,False
+2025-09-30,Nigeria,Jigawa,Dutse,575,185,236,2.5,27.9,False
+2025-09-30,Nigeria,Jigawa,Hadejia,213,47,132,5.2,27.1,False
+2025-09-30,Nigeria,Kaduna,Chikun,439,81,233,5.1,29.3,False
+2025-09-30,Nigeria,Kaduna,Zaria,500,162,388,0.3,26.2,False
+2025-09-30,Nigeria,Kano,Gwale,1708,367,957,0.3,25.1,False
+2025-09-30,Nigeria,Katsina,Dutsin-Ma,420,231,207,22.4,29.0,True
+2025-09-30,Nigeria,Katsina,Kafur,625,156,375,0.4,26.4,False
+2025-09-30,Nigeria,Kebbi,Argungu,154,62,111,3.4,31.1,False
+2025-09-30,Nigeria,Kebbi,Birnin Kebbi,316,144,201,2.0,31.2,False
+2025-09-30,Nigeria,Kogi,Idah,66,28,45,4.4,31.7,False
+2025-09-30,Nigeria,Kogi,Lokoja,327,74,134,3.4,26.5,False
+2025-09-30,Nigeria,Kwara,Ilorin West,173,101,137,1.5,32.0,False
+2025-09-30,Nigeria,Kwara,Offa,68,14,29,3.8,28.5,False
+2025-09-30,Nigeria,Lagos,Alimosho,809,340,478,6.2,30.3,False
+2025-09-30,Nigeria,Lagos,Ikorodu,311,83,201,6.5,30.7,False
+2025-09-30,Nigeria,Lagos,Surulere,177,32,74,0.7,27.1,False
+2025-09-30,Nigeria,Niger,Bida,471,125,354,9.8,30.2,False
+2025-09-30,Nigeria,Niger,Chanchaga,292,52,166,5.6,31.7,False
+2025-09-30,Nigeria,Ogun,Abeokuta South,88,33,62,15.8,32.1,False
+2025-09-30,Nigeria,Ogun,Ifo,428,85,289,7.1,33.3,False
+2025-09-30,Nigeria,Ondo,Akure South,347,133,177,1.7,29.5,False
+2025-09-30,Nigeria,Ondo,Owo,172,30,133,4.0,30.2,False
+2025-09-30,Nigeria,Osun,Ife Central,236,148,163,2.7,28.9,False
+2025-09-30,Nigeria,Osun,Osogbo,157,64,99,8.2,27.4,False
+2025-09-30,Nigeria,Oyo,Ibadan North,268,103,203,0.5,28.6,False
+2025-09-30,Nigeria,Oyo,Ogbomosho North,433,168,209,1.9,26.7,False
+2025-09-30,Nigeria,Plateau,Jos North,375,70,143,7.4,31.0,False
+2025-09-30,Nigeria,Plateau,Shendam,154,58,126,7.0,25.4,False
+2025-09-30,Nigeria,Rivers,Obio-Akpor,341,104,163,2.0,26.1,False
+2025-09-30,Nigeria,Rivers,Port Harcourt,205,37,177,6.5,29.0,False
+2025-09-30,Nigeria,Sokoto,Sokoto North,291,111,200,3.2,28.5,False
+2025-09-30,Nigeria,Sokoto,Sokoto South,224,122,194,0.4,27.5,False
+2025-09-30,Nigeria,Taraba,Jalingo,125,19,54,5.8,29.2,False
+2025-09-30,Nigeria,Taraba,Wukari,158,50,159,5.3,29.2,False
+2025-09-30,Nigeria,Yobe,Damaturu,137,67,96,2.9,31.4,False
+2025-09-30,Nigeria,Yobe,Potiskum,258,71,177,2.3,30.8,False
+2025-09-30,Nigeria,Zamfara,Gusau,420,136,372,3.5,27.2,False
+2025-09-30,Nigeria,Zamfara,Talata Mafara,258,110,129,1.1,26.3,False
+2025-10-01,Nigeria,Abia,Aba South,157,69,120,3.5,24.7,False
+2025-10-01,Nigeria,Abia,Umuahia North,112,29,79,8.3,23.9,False
+2025-10-01,Nigeria,Adamawa,Mubi North,233,76,80,7.6,28.2,False
+2025-10-01,Nigeria,Adamawa,Yola North,348,124,167,2.8,31.8,False
+2025-10-01,Nigeria,Akwa Ibom,Eket,249,83,94,2.3,29.7,False
+2025-10-01,Nigeria,Akwa Ibom,Uyo,221,112,148,1.7,32.7,False
+2025-10-01,Nigeria,Anambra,Awka South,291,135,178,9.2,32.3,False
+2025-10-01,Nigeria,Anambra,Onitsha North,364,173,169,6.5,33.4,False
+2025-10-01,Nigeria,Bauchi,Bauchi,623,189,290,8.7,29.3,False
+2025-10-01,Nigeria,Bauchi,Katagum,292,113,164,7.7,26.7,False
+2025-10-01,Nigeria,Benue,Gboko,282,74,172,3.0,29.0,False
+2025-10-01,Nigeria,Benue,Makurdi,141,61,120,8.4,26.2,False
+2025-10-01,Nigeria,Borno,Jere,204,38,91,2.6,28.1,False
+2025-10-01,Nigeria,Borno,Maiduguri,367,89,196,3.0,29.2,False
+2025-10-01,Nigeria,Cross River,Ikom,364,111,246,0.0,29.7,False
+2025-10-01,Nigeria,Delta,Ughelli North,291,81,188,1.9,30.5,False
+2025-10-01,Nigeria,Delta,Warri South,213,73,149,2.5,28.4,False
+2025-10-01,Nigeria,Edo,Etsako West,148,42,77,0.8,29.5,False
+2025-10-01,Nigeria,Edo,Oredo,248,66,119,2.9,32.0,False
+2025-10-01,Nigeria,Ekiti,Ado Ekiti,298,92,134,14.8,29.1,True
+2025-10-01,Nigeria,Ekiti,Ikole,61,31,41,0.7,31.2,False
+2025-10-01,Nigeria,Enugu,Enugu North,205,54,130,2.6,31.9,False
+2025-10-01,Nigeria,Enugu,Nsukka,225,96,127,3.8,31.2,False
+2025-10-01,Nigeria,FCT,AMAC,279,61,147,5.5,25.9,False
+2025-10-01,Nigeria,FCT,Bwari,330,59,221,6.7,30.0,False
+2025-10-01,Nigeria,Gombe,Gombe,241,55,151,1.4,28.3,False
+2025-10-01,Nigeria,Gombe,Kaltungo,120,39,91,0.5,29.8,False
+2025-10-01,Nigeria,Jigawa,Dutse,434,167,378,6.1,32.1,False
+2025-10-01,Nigeria,Jigawa,Hadejia,161,77,94,6.3,25.7,False
+2025-10-01,Nigeria,Kaduna,Chikun,377,175,210,5.3,31.1,False
+2025-10-01,Nigeria,Kaduna,Zaria,468,131,319,17.8,31.5,True
+2025-10-01,Nigeria,Kano,Gwale,1328,384,716,1.3,26.7,False
+2025-10-01,Nigeria,Katsina,Dutsin-Ma,351,143,159,8.1,27.2,False
+2025-10-01,Nigeria,Katsina,Kafur,597,160,329,3.5,27.9,False
+2025-10-01,Nigeria,Kebbi,Argungu,128,58,74,7.6,27.5,False
+2025-10-01,Nigeria,Kebbi,Birnin Kebbi,302,132,231,3.3,31.0,False
+2025-10-01,Nigeria,Kogi,Idah,56,24,32,7.6,29.1,False
+2025-10-01,Nigeria,Kogi,Lokoja,273,67,168,1.2,30.1,False
+2025-10-01,Nigeria,Kwara,Ilorin West,252,79,76,8.2,28.2,False
+2025-10-01,Nigeria,Kwara,Offa,47,10,28,6.1,27.4,False
+2025-10-01,Nigeria,Lagos,Alimosho,905,284,453,2.7,32.6,False
+2025-10-01,Nigeria,Lagos,Ikorodu,265,82,115,1.8,30.5,False
+2025-10-01,Nigeria,Lagos,Surulere,166,54,96,3.3,33.3,False
+2025-10-01,Nigeria,Niger,Bida,420,143,189,1.0,25.1,False
+2025-10-01,Nigeria,Niger,Chanchaga,355,137,175,1.6,24.6,False
+2025-10-01,Nigeria,Ogun,Abeokuta South,108,22,55,0.6,31.3,False
+2025-10-01,Nigeria,Ogun,Ifo,633,200,440,10.0,30.7,True
+2025-10-01,Nigeria,Ondo,Akure South,320,76,134,2.2,26.1,False
+2025-10-01,Nigeria,Ondo,Owo,142,52,72,5.5,29.4,False
+2025-10-01,Nigeria,Osun,Ife Central,261,76,157,3.3,28.4,False
+2025-10-01,Nigeria,Osun,Osogbo,194,97,151,0.9,27.3,False
+2025-10-01,Nigeria,Oyo,Ibadan North,296,86,149,2.8,31.9,False
+2025-10-01,Nigeria,Oyo,Ogbomosho North,427,187,304,15.7,28.8,True
+2025-10-01,Nigeria,Plateau,Jos North,394,71,260,1.2,28.8,False
+2025-10-01,Nigeria,Plateau,Shendam,128,46,105,10.2,28.4,True
+2025-10-01,Nigeria,Rivers,Obio-Akpor,365,199,215,4.1,33.3,False
+2025-10-01,Nigeria,Rivers,Port Harcourt,201,110,147,18.2,29.4,True
+2025-10-01,Nigeria,Sokoto,Sokoto North,325,131,227,1.5,28.2,False
+2025-10-01,Nigeria,Sokoto,Sokoto South,268,93,174,2.1,31.2,False
+2025-10-01,Nigeria,Taraba,Jalingo,138,33,62,2.7,29.8,False
+2025-10-01,Nigeria,Taraba,Wukari,169,76,99,2.4,29.5,False
+2025-10-01,Nigeria,Yobe,Damaturu,127,62,71,2.4,30.0,False
+2025-10-01,Nigeria,Yobe,Potiskum,183,80,125,3.2,30.5,False
+2025-10-01,Nigeria,Zamfara,Gusau,467,132,323,2.9,32.1,False
+2025-10-01,Nigeria,Zamfara,Talata Mafara,238,113,170,8.9,25.9,False
+2025-10-02,Nigeria,Abia,Aba South,213,95,154,6.0,28.5,False
+2025-10-02,Nigeria,Abia,Umuahia North,127,27,96,7.0,31.9,False
+2025-10-02,Nigeria,Adamawa,Mubi North,161,50,78,5.8,26.6,False
+2025-10-02,Nigeria,Adamawa,Yola North,352,115,236,9.9,27.3,False
+2025-10-02,Nigeria,Akwa Ibom,Eket,221,72,123,7.2,27.6,False
+2025-10-02,Nigeria,Akwa Ibom,Uyo,287,157,150,1.2,29.7,False
+2025-10-02,Nigeria,Anambra,Awka South,214,115,122,7.6,31.4,False
+2025-10-02,Nigeria,Anambra,Onitsha North,365,53,118,1.5,29.3,False
+2025-10-02,Nigeria,Bauchi,Bauchi,567,135,343,4.8,29.5,False
+2025-10-02,Nigeria,Bauchi,Katagum,293,98,174,3.6,28.2,False
+2025-10-02,Nigeria,Benue,Gboko,205,72,191,2.7,28.6,False
+2025-10-02,Nigeria,Benue,Makurdi,222,87,149,3.9,31.0,False
+2025-10-02,Nigeria,Borno,Jere,177,56,132,8.3,29.2,False
+2025-10-02,Nigeria,Borno,Maiduguri,461,167,276,4.4,30.7,False
+2025-10-02,Nigeria,Cross River,Ikom,291,117,233,8.4,31.5,False
+2025-10-02,Nigeria,Delta,Ughelli North,232,58,125,0.8,29.2,False
+2025-10-02,Nigeria,Delta,Warri South,305,124,186,2.7,25.3,False
+2025-10-02,Nigeria,Edo,Etsako West,111,39,68,6.1,30.1,False
+2025-10-02,Nigeria,Edo,Oredo,235,116,181,0.1,29.3,False
+2025-10-02,Nigeria,Ekiti,Ado Ekiti,194,78,118,9.3,29.6,False
+2025-10-02,Nigeria,Ekiti,Ikole,84,17,42,2.5,26.5,False
+2025-10-02,Nigeria,Enugu,Enugu North,237,68,92,0.4,25.3,False
+2025-10-02,Nigeria,Enugu,Nsukka,258,100,132,3.6,28.1,False
+2025-10-02,Nigeria,FCT,AMAC,255,84,131,1.9,25.6,False
+2025-10-02,Nigeria,FCT,Bwari,267,102,192,0.1,27.9,False
+2025-10-02,Nigeria,Gombe,Gombe,235,54,93,7.0,31.2,False
+2025-10-02,Nigeria,Gombe,Kaltungo,188,39,93,1.0,25.4,False
+2025-10-02,Nigeria,Jigawa,Dutse,400,93,299,0.9,30.9,False
+2025-10-02,Nigeria,Jigawa,Hadejia,162,79,108,5.2,26.9,False
+2025-10-02,Nigeria,Kaduna,Chikun,421,174,251,2.2,29.0,False
+2025-10-02,Nigeria,Kaduna,Zaria,503,197,291,5.7,30.6,False
+2025-10-02,Nigeria,Kano,Gwale,1647,401,558,0.8,27.0,False
+2025-10-02,Nigeria,Katsina,Dutsin-Ma,446,180,210,0.8,29.5,False
+2025-10-02,Nigeria,Katsina,Kafur,595,252,279,6.8,28.6,False
+2025-10-02,Nigeria,Kebbi,Argungu,147,32,101,2.9,27.4,False
+2025-10-02,Nigeria,Kebbi,Birnin Kebbi,420,151,206,1.2,32.1,False
+2025-10-02,Nigeria,Kogi,Idah,58,30,25,3.1,30.5,False
+2025-10-02,Nigeria,Kogi,Lokoja,223,100,174,3.2,27.6,False
+2025-10-02,Nigeria,Kwara,Ilorin West,179,80,131,5.3,28.5,False
+2025-10-02,Nigeria,Kwara,Offa,88,33,37,7.8,27.5,False
+2025-10-02,Nigeria,Lagos,Alimosho,826,196,605,0.8,28.9,False
+2025-10-02,Nigeria,Lagos,Ikorodu,299,62,160,7.5,30.8,False
+2025-10-02,Nigeria,Lagos,Surulere,128,61,99,7.3,27.6,False
+2025-10-02,Nigeria,Niger,Bida,476,126,319,2.7,24.6,False
+2025-10-02,Nigeria,Niger,Chanchaga,265,90,126,3.5,29.4,False
+2025-10-02,Nigeria,Ogun,Abeokuta South,74,45,64,4.7,32.5,False
+2025-10-02,Nigeria,Ogun,Ifo,529,109,274,3.1,32.1,False
+2025-10-02,Nigeria,Ondo,Akure South,324,162,188,4.2,31.5,False
+2025-10-02,Nigeria,Ondo,Owo,150,66,127,0.9,26.3,False
+2025-10-02,Nigeria,Osun,Ife Central,208,62,220,3.5,27.7,False
+2025-10-02,Nigeria,Osun,Osogbo,201,46,166,0.7,28.8,False
+2025-10-02,Nigeria,Oyo,Ibadan North,239,133,151,6.7,33.7,False
+2025-10-02,Nigeria,Oyo,Ogbomosho North,410,113,205,4.9,26.9,False
+2025-10-02,Nigeria,Plateau,Jos North,291,97,167,7.1,26.1,False
+2025-10-02,Nigeria,Plateau,Shendam,155,51,63,1.9,27.3,False
+2025-10-02,Nigeria,Rivers,Obio-Akpor,374,134,304,8.2,27.6,False
+2025-10-02,Nigeria,Rivers,Port Harcourt,227,110,200,3.8,26.0,False
+2025-10-02,Nigeria,Sokoto,Sokoto North,222,92,161,4.3,26.7,False
+2025-10-02,Nigeria,Sokoto,Sokoto South,262,70,194,4.8,33.7,False
+2025-10-02,Nigeria,Taraba,Jalingo,105,39,43,0.4,30.7,False
+2025-10-02,Nigeria,Taraba,Wukari,190,60,93,2.5,30.1,False
+2025-10-02,Nigeria,Yobe,Damaturu,134,38,93,0.8,27.5,False
+2025-10-02,Nigeria,Yobe,Potiskum,221,73,134,2.3,27.8,False
+2025-10-02,Nigeria,Zamfara,Gusau,396,165,232,4.2,32.3,False
+2025-10-02,Nigeria,Zamfara,Talata Mafara,203,45,81,9.5,31.8,False
+2025-10-03,Nigeria,Abia,Aba South,196,67,142,6.8,25.7,False
+2025-10-03,Nigeria,Abia,Umuahia North,168,62,107,5.9,29.6,False
+2025-10-03,Nigeria,Adamawa,Mubi North,126,61,95,2.2,26.0,False
+2025-10-03,Nigeria,Adamawa,Yola North,337,58,195,6.4,30.0,False
+2025-10-03,Nigeria,Akwa Ibom,Eket,237,91,162,7.2,29.9,False
+2025-10-03,Nigeria,Akwa Ibom,Uyo,253,46,183,4.0,26.6,False
+2025-10-03,Nigeria,Anambra,Awka South,267,125,112,3.8,28.3,False
+2025-10-03,Nigeria,Anambra,Onitsha North,250,72,167,0.4,29.1,False
+2025-10-03,Nigeria,Bauchi,Bauchi,562,237,453,5.7,31.2,False
+2025-10-03,Nigeria,Bauchi,Katagum,314,161,182,5.0,27.4,False
+2025-10-03,Nigeria,Benue,Gboko,303,74,122,3.9,27.0,False
+2025-10-03,Nigeria,Benue,Makurdi,206,72,85,8.5,29.2,False
+2025-10-03,Nigeria,Borno,Jere,198,42,104,13.1,28.9,True
+2025-10-03,Nigeria,Borno,Maiduguri,503,173,235,6.5,32.9,False
+2025-10-03,Nigeria,Cross River,Ikom,285,91,186,4.0,25.9,False
+2025-10-03,Nigeria,Delta,Ughelli North,288,64,126,3.8,32.4,False
+2025-10-03,Nigeria,Delta,Warri South,217,74,140,1.3,25.0,False
+2025-10-03,Nigeria,Edo,Etsako West,194,77,107,4.5,25.6,False
+2025-10-03,Nigeria,Edo,Oredo,212,60,150,1.0,33.5,False
+2025-10-03,Nigeria,Ekiti,Ado Ekiti,300,119,193,0.5,30.0,False
+2025-10-03,Nigeria,Ekiti,Ikole,44,9,37,1.8,31.1,False
+2025-10-03,Nigeria,Enugu,Enugu North,222,104,178,2.2,33.1,False
+2025-10-03,Nigeria,Enugu,Nsukka,227,80,135,7.2,28.0,False
+2025-10-03,Nigeria,FCT,AMAC,206,106,136,12.9,28.0,True
+2025-10-03,Nigeria,FCT,Bwari,247,108,175,2.2,29.1,False
+2025-10-03,Nigeria,Gombe,Gombe,254,56,117,7.6,30.8,False
+2025-10-03,Nigeria,Gombe,Kaltungo,126,33,84,2.7,26.1,False
+2025-10-03,Nigeria,Jigawa,Dutse,564,183,192,9.7,31.5,False
+2025-10-03,Nigeria,Jigawa,Hadejia,153,49,100,7.0,28.3,False
+2025-10-03,Nigeria,Kaduna,Chikun,396,118,205,12.0,31.5,True
+2025-10-03,Nigeria,Kaduna,Zaria,502,190,241,8.8,28.4,False
+2025-10-03,Nigeria,Kano,Gwale,1302,585,884,1.6,29.6,False
+2025-10-03,Nigeria,Katsina,Dutsin-Ma,414,187,293,3.4,31.5,False
+2025-10-03,Nigeria,Katsina,Kafur,627,174,463,9.3,31.4,False
+2025-10-03,Nigeria,Kebbi,Argungu,178,52,102,5.1,29.1,False
+2025-10-03,Nigeria,Kebbi,Birnin Kebbi,304,106,255,7.2,29.4,False
+2025-10-03,Nigeria,Kogi,Idah,64,44,76,6.5,29.8,False
+2025-10-03,Nigeria,Kogi,Lokoja,244,138,214,1.9,32.3,False
+2025-10-03,Nigeria,Kwara,Ilorin West,206,43,96,6.2,26.9,False
+2025-10-03,Nigeria,Kwara,Offa,61,26,34,11.8,26.4,False
+2025-10-03,Nigeria,Lagos,Alimosho,689,358,376,3.0,25.7,False
+2025-10-03,Nigeria,Lagos,Ikorodu,298,155,194,5.9,28.7,False
+2025-10-03,Nigeria,Lagos,Surulere,129,44,107,2.3,28.4,False
+2025-10-03,Nigeria,Niger,Bida,384,172,324,5.6,30.5,False
+2025-10-03,Nigeria,Niger,Chanchaga,292,79,139,10.9,34.6,True
+2025-10-03,Nigeria,Ogun,Abeokuta South,96,43,44,2.9,27.7,False
+2025-10-03,Nigeria,Ogun,Ifo,426,98,364,4.7,29.0,False
+2025-10-03,Nigeria,Ondo,Akure South,362,83,225,2.1,33.7,False
+2025-10-03,Nigeria,Ondo,Owo,171,58,67,5.0,33.2,False
+2025-10-03,Nigeria,Osun,Ife Central,285,81,125,5.6,30.5,False
+2025-10-03,Nigeria,Osun,Osogbo,154,86,144,2.7,28.4,False
+2025-10-03,Nigeria,Oyo,Ibadan North,375,129,145,2.1,26.6,False
+2025-10-03,Nigeria,Oyo,Ogbomosho North,447,108,167,0.9,25.5,False
+2025-10-03,Nigeria,Plateau,Jos North,267,145,240,11.3,29.5,True
+2025-10-03,Nigeria,Plateau,Shendam,141,60,133,10.2,28.6,True
+2025-10-03,Nigeria,Rivers,Obio-Akpor,519,138,206,3.0,26.9,False
+2025-10-03,Nigeria,Rivers,Port Harcourt,291,88,147,3.3,25.6,False
+2025-10-03,Nigeria,Sokoto,Sokoto North,297,91,205,2.5,30.5,False
+2025-10-03,Nigeria,Sokoto,Sokoto South,305,62,189,7.9,29.8,False
+2025-10-03,Nigeria,Taraba,Jalingo,85,25,83,2.0,29.5,False
+2025-10-03,Nigeria,Taraba,Wukari,201,78,121,5.0,28.6,False
+2025-10-03,Nigeria,Yobe,Damaturu,195,76,88,3.2,28.4,False
+2025-10-03,Nigeria,Yobe,Potiskum,214,88,136,1.8,28.0,False
+2025-10-03,Nigeria,Zamfara,Gusau,492,136,196,8.2,26.8,False
+2025-10-03,Nigeria,Zamfara,Talata Mafara,225,79,120,7.1,25.6,False
+2025-10-04,Nigeria,Abia,Aba South,103,58,93,2.7,31.0,False
+2025-10-04,Nigeria,Abia,Umuahia North,81,22,33,4.0,29.5,False
+2025-10-04,Nigeria,Adamawa,Mubi North,82,37,38,2.9,30.9,False
+2025-10-04,Nigeria,Adamawa,Yola North,173,52,152,6.3,27.9,False
+2025-10-04,Nigeria,Akwa Ibom,Eket,93,61,60,2.1,31.2,False
+2025-10-04,Nigeria,Akwa Ibom,Uyo,162,79,82,4.2,28.2,False
+2025-10-04,Nigeria,Anambra,Awka South,150,28,111,3.9,30.0,False
+2025-10-04,Nigeria,Anambra,Onitsha North,173,87,122,8.4,25.1,False
+2025-10-04,Nigeria,Bauchi,Bauchi,301,82,227,0.7,27.3,False
+2025-10-04,Nigeria,Bauchi,Katagum,199,79,133,2.1,24.0,False
+2025-10-04,Nigeria,Benue,Gboko,139,23,98,0.4,27.4,False
+2025-10-04,Nigeria,Benue,Makurdi,113,24,47,6.3,26.7,False
+2025-10-04,Nigeria,Borno,Jere,74,29,62,2.6,30.0,False
+2025-10-04,Nigeria,Borno,Maiduguri,259,104,143,3.9,28.4,False
+2025-10-04,Nigeria,Cross River,Ikom,254,80,107,1.9,27.3,False
+2025-10-04,Nigeria,Delta,Ughelli North,152,56,100,5.6,26.2,False
+2025-10-04,Nigeria,Delta,Warri South,143,50,83,4.7,30.2,False
+2025-10-04,Nigeria,Edo,Etsako West,94,34,85,7.7,29.6,False
+2025-10-04,Nigeria,Edo,Oredo,140,65,47,6.3,30.1,False
+2025-10-04,Nigeria,Ekiti,Ado Ekiti,160,73,103,9.1,31.6,False
+2025-10-04,Nigeria,Ekiti,Ikole,51,21,36,5.5,28.2,False
+2025-10-04,Nigeria,Enugu,Enugu North,131,53,62,0.7,30.2,False
+2025-10-04,Nigeria,Enugu,Nsukka,147,25,67,3.6,33.2,False
+2025-10-04,Nigeria,FCT,AMAC,148,37,68,1.7,26.5,False
+2025-10-04,Nigeria,FCT,Bwari,214,93,106,6.9,29.3,False
+2025-10-04,Nigeria,Gombe,Gombe,135,47,54,3.9,27.0,False
+2025-10-04,Nigeria,Gombe,Kaltungo,66,22,30,6.4,31.0,False
+2025-10-04,Nigeria,Jigawa,Dutse,292,112,125,9.3,30.4,False
+2025-10-04,Nigeria,Jigawa,Hadejia,107,55,82,2.3,29.0,False
+2025-10-04,Nigeria,Kaduna,Chikun,152,74,109,5.8,30.7,False
+2025-10-04,Nigeria,Kaduna,Zaria,344,94,193,5.7,32.1,False
+2025-10-04,Nigeria,Kano,Gwale,807,411,568,6.9,30.1,False
+2025-10-04,Nigeria,Katsina,Dutsin-Ma,204,101,186,0.6,30.2,False
+2025-10-04,Nigeria,Katsina,Kafur,304,160,256,2.2,31.2,False
+2025-10-04,Nigeria,Kebbi,Argungu,81,30,43,2.5,26.9,False
+2025-10-04,Nigeria,Kebbi,Birnin Kebbi,199,83,70,8.1,29.8,False
+2025-10-04,Nigeria,Kogi,Idah,39,21,16,1.2,28.3,False
+2025-10-04,Nigeria,Kogi,Lokoja,127,42,78,2.8,30.5,False
+2025-10-04,Nigeria,Kwara,Ilorin West,131,51,54,1.8,33.1,False
+2025-10-04,Nigeria,Kwara,Offa,27,10,14,3.8,33.3,False
+2025-10-04,Nigeria,Lagos,Alimosho,391,125,193,10.2,33.7,True
+2025-10-04,Nigeria,Lagos,Ikorodu,202,93,125,3.5,23.4,False
+2025-10-04,Nigeria,Lagos,Surulere,114,37,87,2.2,30.4,False
+2025-10-04,Nigeria,Niger,Bida,194,48,146,1.4,26.1,False
+2025-10-04,Nigeria,Niger,Chanchaga,203,84,81,4.1,25.0,False
+2025-10-04,Nigeria,Ogun,Abeokuta South,46,14,19,4.2,28.3,False
+2025-10-04,Nigeria,Ogun,Ifo,293,68,143,0.9,28.6,False
+2025-10-04,Nigeria,Ondo,Akure South,199,48,124,5.6,28.3,False
+2025-10-04,Nigeria,Ondo,Owo,89,24,36,4.2,31.3,False
+2025-10-04,Nigeria,Osun,Ife Central,168,46,68,3.5,26.9,False
+2025-10-04,Nigeria,Osun,Osogbo,120,56,76,8.1,27.3,False
+2025-10-04,Nigeria,Oyo,Ibadan North,200,52,85,5.6,30.7,False
+2025-10-04,Nigeria,Oyo,Ogbomosho North,274,75,157,7.6,29.4,False
+2025-10-04,Nigeria,Plateau,Jos North,199,89,155,6.2,25.9,False
+2025-10-04,Nigeria,Plateau,Shendam,115,16,86,5.0,24.4,False
+2025-10-04,Nigeria,Rivers,Obio-Akpor,202,74,172,8.0,28.4,False
+2025-10-04,Nigeria,Rivers,Port Harcourt,157,67,86,8.6,33.1,False
+2025-10-04,Nigeria,Sokoto,Sokoto North,221,42,138,3.0,34.5,False
+2025-10-04,Nigeria,Sokoto,Sokoto South,154,76,102,3.9,33.1,False
+2025-10-04,Nigeria,Taraba,Jalingo,65,20,60,4.8,24.9,False
+2025-10-04,Nigeria,Taraba,Wukari,106,22,105,1.3,22.7,False
+2025-10-04,Nigeria,Yobe,Damaturu,90,34,81,1.0,29.3,False
+2025-10-04,Nigeria,Yobe,Potiskum,105,50,84,1.1,27.9,False
+2025-10-04,Nigeria,Zamfara,Gusau,207,105,106,2.2,29.2,False
+2025-10-04,Nigeria,Zamfara,Talata Mafara,144,68,90,2.9,30.0,False
+2025-10-05,Nigeria,Abia,Aba South,126,32,56,7.2,31.8,False
+2025-10-05,Nigeria,Abia,Umuahia North,99,41,44,1.6,30.9,False
+2025-10-05,Nigeria,Adamawa,Mubi North,132,22,44,9.5,29.0,False
+2025-10-05,Nigeria,Adamawa,Yola North,165,70,83,6.0,28.3,False
+2025-10-05,Nigeria,Akwa Ibom,Eket,127,49,47,5.4,34.3,False
+2025-10-05,Nigeria,Akwa Ibom,Uyo,203,37,81,0.2,29.0,False
+2025-10-05,Nigeria,Anambra,Awka South,187,90,138,15.2,31.5,True
+2025-10-05,Nigeria,Anambra,Onitsha North,165,35,109,8.1,28.6,False
+2025-10-05,Nigeria,Bauchi,Bauchi,345,152,160,4.2,30.6,False
+2025-10-05,Nigeria,Bauchi,Katagum,165,73,128,7.6,29.8,False
+2025-10-05,Nigeria,Benue,Gboko,164,86,103,0.6,26.9,False
+2025-10-05,Nigeria,Benue,Makurdi,124,43,74,6.3,25.9,False
+2025-10-05,Nigeria,Borno,Jere,145,40,72,1.3,29.9,False
+2025-10-05,Nigeria,Borno,Maiduguri,245,52,175,3.1,27.8,False
+2025-10-05,Nigeria,Cross River,Ikom,180,50,109,6.5,24.4,False
+2025-10-05,Nigeria,Delta,Ughelli North,158,44,92,2.0,30.1,False
+2025-10-05,Nigeria,Delta,Warri South,152,49,75,5.0,30.8,False
+2025-10-05,Nigeria,Edo,Etsako West,95,26,78,0.8,30.2,False
+2025-10-05,Nigeria,Edo,Oredo,108,56,55,6.2,28.1,False
+2025-10-05,Nigeria,Ekiti,Ado Ekiti,158,32,89,1.2,30.9,False
+2025-10-05,Nigeria,Ekiti,Ikole,46,21,20,2.2,27.9,False
+2025-10-05,Nigeria,Enugu,Enugu North,103,55,52,7.5,30.2,False
+2025-10-05,Nigeria,Enugu,Nsukka,114,31,58,4.7,29.7,False
+2025-10-05,Nigeria,FCT,AMAC,182,40,85,4.4,30.7,False
+2025-10-05,Nigeria,FCT,Bwari,137,28,103,6.3,27.1,False
+2025-10-05,Nigeria,Gombe,Gombe,140,52,73,1.7,36.0,False
+2025-10-05,Nigeria,Gombe,Kaltungo,63,13,47,7.8,29.6,False
+2025-10-05,Nigeria,Jigawa,Dutse,261,120,154,2.4,27.4,False
+2025-10-05,Nigeria,Jigawa,Hadejia,152,34,94,5.4,30.7,False
+2025-10-05,Nigeria,Kaduna,Chikun,295,72,125,4.5,32.1,False
+2025-10-05,Nigeria,Kaduna,Zaria,316,116,261,3.2,31.3,False
+2025-10-05,Nigeria,Kano,Gwale,729,363,666,8.6,27.3,False
+2025-10-05,Nigeria,Katsina,Dutsin-Ma,281,116,210,2.0,30.9,False
+2025-10-05,Nigeria,Katsina,Kafur,342,114,234,7.0,29.0,False
+2025-10-05,Nigeria,Kebbi,Argungu,107,45,73,2.6,29.6,False
+2025-10-05,Nigeria,Kebbi,Birnin Kebbi,231,78,96,5.5,29.4,False
+2025-10-05,Nigeria,Kogi,Idah,37,11,17,4.3,29.6,False
+2025-10-05,Nigeria,Kogi,Lokoja,156,47,97,2.0,33.1,False
+2025-10-05,Nigeria,Kwara,Ilorin West,149,28,65,5.0,29.8,False
+2025-10-05,Nigeria,Kwara,Offa,37,6,16,0.1,32.9,False
+2025-10-05,Nigeria,Lagos,Alimosho,371,99,288,8.3,30.0,False
+2025-10-05,Nigeria,Lagos,Ikorodu,219,70,139,15.2,27.4,True
+2025-10-05,Nigeria,Lagos,Surulere,81,17,46,0.5,29.3,False
+2025-10-05,Nigeria,Niger,Bida,226,88,158,6.2,28.5,False
+2025-10-05,Nigeria,Niger,Chanchaga,149,47,115,1.6,27.8,False
+2025-10-05,Nigeria,Ogun,Abeokuta South,40,19,35,5.0,28.8,False
+2025-10-05,Nigeria,Ogun,Ifo,328,153,172,2.8,28.1,False
+2025-10-05,Nigeria,Ondo,Akure South,165,84,113,13.5,29.3,True
+2025-10-05,Nigeria,Ondo,Owo,97,30,59,2.3,25.8,False
+2025-10-05,Nigeria,Osun,Ife Central,149,87,89,8.5,28.9,False
+2025-10-05,Nigeria,Osun,Osogbo,112,21,80,4.5,30.9,False
+2025-10-05,Nigeria,Oyo,Ibadan North,146,57,122,1.6,29.7,False
+2025-10-05,Nigeria,Oyo,Ogbomosho North,268,62,95,6.2,24.6,False
+2025-10-05,Nigeria,Plateau,Jos North,207,77,99,1.5,29.5,False
+2025-10-05,Nigeria,Plateau,Shendam,102,29,50,17.6,28.7,False
+2025-10-05,Nigeria,Rivers,Obio-Akpor,213,56,187,1.3,28.8,False
+2025-10-05,Nigeria,Rivers,Port Harcourt,160,77,117,4.6,30.3,False
+2025-10-05,Nigeria,Sokoto,Sokoto North,152,59,123,5.7,32.8,False
+2025-10-05,Nigeria,Sokoto,Sokoto South,136,35,122,4.4,31.9,False
+2025-10-05,Nigeria,Taraba,Jalingo,78,14,23,0.7,22.2,False
+2025-10-05,Nigeria,Taraba,Wukari,120,51,78,0.4,30.8,False
+2025-10-05,Nigeria,Yobe,Damaturu,117,19,56,3.6,28.8,False
+2025-10-05,Nigeria,Yobe,Potiskum,94,65,93,5.4,30.4,False
+2025-10-05,Nigeria,Zamfara,Gusau,249,117,215,1.7,27.7,False
+2025-10-05,Nigeria,Zamfara,Talata Mafara,114,25,64,14.7,33.5,False
+2025-10-06,Nigeria,Abia,Aba South,274,49,177,1.2,28.7,False
+2025-10-06,Nigeria,Abia,Umuahia North,143,53,75,4.2,28.5,False
+2025-10-06,Nigeria,Adamawa,Mubi North,136,45,110,4.0,29.6,False
+2025-10-06,Nigeria,Adamawa,Yola North,272,82,175,6.9,27.8,False
+2025-10-06,Nigeria,Akwa Ibom,Eket,226,36,145,4.3,28.8,False
+2025-10-06,Nigeria,Akwa Ibom,Uyo,259,112,127,3.4,31.5,False
+2025-10-06,Nigeria,Anambra,Awka South,316,148,94,3.1,28.8,False
+2025-10-06,Nigeria,Anambra,Onitsha North,342,143,196,0.9,27.1,False
+2025-10-06,Nigeria,Bauchi,Bauchi,525,158,244,1.1,29.7,False
+2025-10-06,Nigeria,Bauchi,Katagum,301,83,138,1.3,27.6,False
+2025-10-06,Nigeria,Benue,Gboko,231,109,164,0.9,28.5,False
+2025-10-06,Nigeria,Benue,Makurdi,180,52,137,3.9,27.5,False
+2025-10-06,Nigeria,Borno,Jere,148,78,84,7.0,27.6,False
+2025-10-06,Nigeria,Borno,Maiduguri,419,205,282,13.4,29.5,True
+2025-10-06,Nigeria,Cross River,Ikom,314,131,179,2.2,26.1,False
+2025-10-06,Nigeria,Delta,Ughelli North,269,97,144,4.1,31.5,False
+2025-10-06,Nigeria,Delta,Warri South,265,54,192,7.2,28.4,False
+2025-10-06,Nigeria,Edo,Etsako West,173,64,78,4.9,26.5,False
+2025-10-06,Nigeria,Edo,Oredo,220,102,121,1.9,29.4,False
+2025-10-06,Nigeria,Ekiti,Ado Ekiti,231,81,182,5.7,30.9,False
+2025-10-06,Nigeria,Ekiti,Ikole,58,22,50,1.3,29.7,False
+2025-10-06,Nigeria,Enugu,Enugu North,236,102,115,7.6,29.6,False
+2025-10-06,Nigeria,Enugu,Nsukka,148,65,73,1.0,30.0,False
+2025-10-06,Nigeria,FCT,AMAC,322,87,168,0.7,34.4,False
+2025-10-06,Nigeria,FCT,Bwari,246,132,159,4.7,26.6,False
+2025-10-06,Nigeria,Gombe,Gombe,226,43,76,1.4,30.4,False
+2025-10-06,Nigeria,Gombe,Kaltungo,150,72,104,1.7,29.7,False
+2025-10-06,Nigeria,Jigawa,Dutse,547,154,314,5.1,30.9,False
+2025-10-06,Nigeria,Jigawa,Hadejia,143,40,81,0.3,31.2,False
+2025-10-06,Nigeria,Kaduna,Chikun,444,126,278,1.4,30.6,False
+2025-10-06,Nigeria,Kaduna,Zaria,489,266,315,1.0,31.7,False
+2025-10-06,Nigeria,Kano,Gwale,1481,602,833,0.4,29.0,False
+2025-10-06,Nigeria,Katsina,Dutsin-Ma,460,128,143,4.6,27.9,False
+2025-10-06,Nigeria,Katsina,Kafur,533,223,260,2.1,31.1,False
+2025-10-06,Nigeria,Kebbi,Argungu,135,31,80,7.6,25.1,False
+2025-10-06,Nigeria,Kebbi,Birnin Kebbi,277,167,249,18.2,32.1,True
+2025-10-06,Nigeria,Kogi,Idah,73,18,39,5.5,32.5,False
+2025-10-06,Nigeria,Kogi,Lokoja,254,95,179,1.2,25.8,False
+2025-10-06,Nigeria,Kwara,Ilorin West,173,63,83,6.3,30.0,False
+2025-10-06,Nigeria,Kwara,Offa,42,8,20,15.3,31.2,False
+2025-10-06,Nigeria,Lagos,Alimosho,812,237,461,2.1,27.3,False
+2025-10-06,Nigeria,Lagos,Ikorodu,206,61,140,6.7,26.4,False
+2025-10-06,Nigeria,Lagos,Surulere,157,60,91,5.1,24.1,False
+2025-10-06,Nigeria,Niger,Bida,446,202,166,7.0,24.7,False
+2025-10-06,Nigeria,Niger,Chanchaga,293,47,193,10.5,23.9,True
+2025-10-06,Nigeria,Ogun,Abeokuta South,67,31,60,3.7,28.5,False
+2025-10-06,Nigeria,Ogun,Ifo,528,216,300,0.7,30.5,False
+2025-10-06,Nigeria,Ondo,Akure South,410,89,198,10.8,28.6,True
+2025-10-06,Nigeria,Ondo,Owo,194,36,90,2.0,30.7,False
+2025-10-06,Nigeria,Osun,Ife Central,302,90,142,1.2,28.4,False
+2025-10-06,Nigeria,Osun,Osogbo,188,71,84,1.1,24.3,False
+2025-10-06,Nigeria,Oyo,Ibadan North,366,99,157,1.5,28.7,False
+2025-10-06,Nigeria,Oyo,Ogbomosho North,454,148,264,0.9,31.9,False
+2025-10-06,Nigeria,Plateau,Jos North,316,124,174,1.6,30.5,False
+2025-10-06,Nigeria,Plateau,Shendam,169,40,120,23.6,27.3,False
+2025-10-06,Nigeria,Rivers,Obio-Akpor,381,123,234,2.6,26.7,False
+2025-10-06,Nigeria,Rivers,Port Harcourt,307,57,152,6.2,29.8,False
+2025-10-06,Nigeria,Sokoto,Sokoto North,398,98,260,0.5,31.6,False
+2025-10-06,Nigeria,Sokoto,Sokoto South,323,58,127,2.1,26.8,False
+2025-10-06,Nigeria,Taraba,Jalingo,112,46,69,3.0,32.6,False
+2025-10-06,Nigeria,Taraba,Wukari,171,41,152,3.9,26.5,False
+2025-10-06,Nigeria,Yobe,Damaturu,172,88,63,0.2,27.7,False
+2025-10-06,Nigeria,Yobe,Potiskum,167,44,88,2.1,30.5,False
+2025-10-06,Nigeria,Zamfara,Gusau,370,200,289,7.2,29.3,False
+2025-10-06,Nigeria,Zamfara,Talata Mafara,224,78,130,1.6,33.3,False
+2025-10-07,Nigeria,Abia,Aba South,227,79,173,2.3,29.5,False
+2025-10-07,Nigeria,Abia,Umuahia North,104,25,68,6.0,31.1,False
+2025-10-07,Nigeria,Adamawa,Mubi North,170,40,92,3.2,30.3,False
+2025-10-07,Nigeria,Adamawa,Yola North,292,122,194,7.5,30.5,False
+2025-10-07,Nigeria,Akwa Ibom,Eket,286,77,117,1.0,30.3,False
+2025-10-07,Nigeria,Akwa Ibom,Uyo,244,120,175,1.5,28.7,False
+2025-10-07,Nigeria,Anambra,Awka South,319,96,188,3.6,28.6,False
+2025-10-07,Nigeria,Anambra,Onitsha North,342,186,209,0.8,31.3,False
+2025-10-07,Nigeria,Bauchi,Bauchi,472,246,304,1.8,25.7,False
+2025-10-07,Nigeria,Bauchi,Katagum,247,90,223,7.6,30.2,False
+2025-10-07,Nigeria,Benue,Gboko,198,109,146,7.3,27.4,False
+2025-10-07,Nigeria,Benue,Makurdi,177,59,74,4.8,30.6,False
+2025-10-07,Nigeria,Borno,Jere,155,45,78,6.5,30.5,False
+2025-10-07,Nigeria,Borno,Maiduguri,514,181,221,1.8,28.5,False
+2025-10-07,Nigeria,Cross River,Ikom,321,150,165,6.3,29.0,False
+2025-10-07,Nigeria,Delta,Ughelli North,253,133,139,2.8,27.5,False
+2025-10-07,Nigeria,Delta,Warri South,277,79,139,4.9,30.0,False
+2025-10-07,Nigeria,Edo,Etsako West,182,46,79,2.1,26.5,False
+2025-10-07,Nigeria,Edo,Oredo,252,96,129,6.2,27.2,False
+2025-10-07,Nigeria,Ekiti,Ado Ekiti,256,44,145,6.8,28.7,False
+2025-10-07,Nigeria,Ekiti,Ikole,85,24,50,2.1,26.4,False
+2025-10-07,Nigeria,Enugu,Enugu North,256,75,140,5.9,32.2,False
+2025-10-07,Nigeria,Enugu,Nsukka,180,57,150,2.6,29.3,False
+2025-10-07,Nigeria,FCT,AMAC,225,89,146,7.9,32.8,False
+2025-10-07,Nigeria,FCT,Bwari,277,106,128,6.8,31.3,False
+2025-10-07,Nigeria,Gombe,Gombe,236,101,161,0.7,29.1,False
+2025-10-07,Nigeria,Gombe,Kaltungo,157,33,92,0.4,29.1,False
+2025-10-07,Nigeria,Jigawa,Dutse,537,155,411,10.1,27.1,True
+2025-10-07,Nigeria,Jigawa,Hadejia,216,69,123,7.2,30.3,False
+2025-10-07,Nigeria,Kaduna,Chikun,331,157,195,2.9,30.0,False
+2025-10-07,Nigeria,Kaduna,Zaria,452,177,351,0.8,30.8,False
+2025-10-07,Nigeria,Kano,Gwale,1244,529,737,5.4,29.3,False
+2025-10-07,Nigeria,Katsina,Dutsin-Ma,421,189,295,2.8,35.5,False
+2025-10-07,Nigeria,Katsina,Kafur,693,231,249,6.6,30.7,False
+2025-10-07,Nigeria,Kebbi,Argungu,153,33,109,4.6,27.6,False
+2025-10-07,Nigeria,Kebbi,Birnin Kebbi,321,93,153,6.8,32.8,False
+2025-10-07,Nigeria,Kogi,Idah,81,5,63,8.1,25.2,False
+2025-10-07,Nigeria,Kogi,Lokoja,283,63,122,7.0,28.8,False
+2025-10-07,Nigeria,Kwara,Ilorin West,235,95,179,5.6,23.6,False
+2025-10-07,Nigeria,Kwara,Offa,76,14,54,7.5,24.6,False
+2025-10-07,Nigeria,Lagos,Alimosho,746,163,478,8.8,24.8,False
+2025-10-07,Nigeria,Lagos,Ikorodu,270,86,211,8.2,26.4,False
+2025-10-07,Nigeria,Lagos,Surulere,161,55,106,8.1,28.9,False
+2025-10-07,Nigeria,Niger,Bida,335,155,158,0.6,31.0,False
+2025-10-07,Nigeria,Niger,Chanchaga,248,72,128,5.6,29.8,False
+2025-10-07,Nigeria,Ogun,Abeokuta South,67,28,38,0.2,29.1,False
+2025-10-07,Nigeria,Ogun,Ifo,432,112,339,0.1,28.4,False
+2025-10-07,Nigeria,Ondo,Akure South,237,123,168,13.7,30.4,True
+2025-10-07,Nigeria,Ondo,Owo,122,65,75,1.3,28.3,False
+2025-10-07,Nigeria,Osun,Ife Central,220,134,124,4.1,31.3,False
+2025-10-07,Nigeria,Osun,Osogbo,172,94,69,9.1,30.9,False
+2025-10-07,Nigeria,Oyo,Ibadan North,260,104,179,2.4,26.8,False
+2025-10-07,Nigeria,Oyo,Ogbomosho North,551,139,193,2.4,31.7,False
+2025-10-07,Nigeria,Plateau,Jos North,349,92,195,7.1,26.3,False
+2025-10-07,Nigeria,Plateau,Shendam,158,30,89,4.0,29.1,False
+2025-10-07,Nigeria,Rivers,Obio-Akpor,396,138,230,33.1,29.9,True
+2025-10-07,Nigeria,Rivers,Port Harcourt,228,72,122,11.9,30.8,True
+2025-10-07,Nigeria,Sokoto,Sokoto North,255,80,229,5.0,31.1,False
+2025-10-07,Nigeria,Sokoto,Sokoto South,248,72,115,10.0,26.8,True
+2025-10-07,Nigeria,Taraba,Jalingo,92,55,57,1.1,32.7,False
+2025-10-07,Nigeria,Taraba,Wukari,219,35,132,6.9,31.6,False
+2025-10-07,Nigeria,Yobe,Damaturu,199,44,143,4.4,33.0,False
+2025-10-07,Nigeria,Yobe,Potiskum,155,86,83,6.3,30.9,False
+2025-10-07,Nigeria,Zamfara,Gusau,456,206,171,0.7,23.7,False
+2025-10-07,Nigeria,Zamfara,Talata Mafara,232,102,167,4.8,27.9,False
+2025-10-08,Nigeria,Abia,Aba South,186,67,91,14.4,28.8,True
+2025-10-08,Nigeria,Abia,Umuahia North,104,66,84,1.5,31.0,False
+2025-10-08,Nigeria,Adamawa,Mubi North,107,42,85,1.6,31.1,False
+2025-10-08,Nigeria,Adamawa,Yola North,289,122,146,17.1,27.1,True
+2025-10-08,Nigeria,Akwa Ibom,Eket,264,67,128,2.8,26.1,False
+2025-10-08,Nigeria,Akwa Ibom,Uyo,243,127,174,1.6,30.3,False
+2025-10-08,Nigeria,Anambra,Awka South,355,154,197,4.6,28.0,False
+2025-10-08,Nigeria,Anambra,Onitsha North,405,135,253,0.6,32.5,False
+2025-10-08,Nigeria,Bauchi,Bauchi,431,223,358,1.7,27.3,False
+2025-10-08,Nigeria,Bauchi,Katagum,276,177,226,1.9,29.4,False
+2025-10-08,Nigeria,Benue,Gboko,275,90,161,5.5,29.2,False
+2025-10-08,Nigeria,Benue,Makurdi,184,51,130,12.8,26.7,True
+2025-10-08,Nigeria,Borno,Jere,178,71,122,6.6,32.0,False
+2025-10-08,Nigeria,Borno,Maiduguri,355,165,261,4.5,27.7,False
+2025-10-08,Nigeria,Cross River,Ikom,385,168,269,7.2,33.5,False
+2025-10-08,Nigeria,Delta,Ughelli North,294,105,179,4.1,24.0,False
+2025-10-08,Nigeria,Delta,Warri South,227,98,100,3.4,31.7,False
+2025-10-08,Nigeria,Edo,Etsako West,126,38,98,6.0,24.5,False
+2025-10-08,Nigeria,Edo,Oredo,253,62,189,2.7,30.5,False
+2025-10-08,Nigeria,Ekiti,Ado Ekiti,242,78,147,1.0,34.4,False
+2025-10-08,Nigeria,Ekiti,Ikole,81,38,49,5.1,27.7,False
+2025-10-08,Nigeria,Enugu,Enugu North,217,99,124,6.7,27.1,False
+2025-10-08,Nigeria,Enugu,Nsukka,166,49,114,9.4,27.4,False
+2025-10-08,Nigeria,FCT,AMAC,303,113,172,5.4,23.1,False
+2025-10-08,Nigeria,FCT,Bwari,262,107,154,4.6,28.1,False
+2025-10-08,Nigeria,Gombe,Gombe,143,50,99,11.6,27.8,True
+2025-10-08,Nigeria,Gombe,Kaltungo,141,62,95,1.9,29.0,False
+2025-10-08,Nigeria,Jigawa,Dutse,386,189,390,0.7,27.9,False
+2025-10-08,Nigeria,Jigawa,Hadejia,184,88,86,11.2,27.5,True
+2025-10-08,Nigeria,Kaduna,Chikun,371,99,255,6.5,25.5,False
+2025-10-08,Nigeria,Kaduna,Zaria,479,191,289,2.1,28.7,False
+2025-10-08,Nigeria,Kano,Gwale,1167,389,798,1.0,26.6,False
+2025-10-08,Nigeria,Katsina,Dutsin-Ma,434,100,274,1.0,31.2,False
+2025-10-08,Nigeria,Katsina,Kafur,620,117,243,6.8,31.5,False
+2025-10-08,Nigeria,Kebbi,Argungu,163,30,93,3.0,30.4,False
+2025-10-08,Nigeria,Kebbi,Birnin Kebbi,305,78,161,2.6,32.1,False
+2025-10-08,Nigeria,Kogi,Idah,89,33,45,5.4,32.7,False
+2025-10-08,Nigeria,Kogi,Lokoja,276,91,192,11.1,25.7,True
+2025-10-08,Nigeria,Kwara,Ilorin West,201,81,99,2.6,27.5,False
+2025-10-08,Nigeria,Kwara,Offa,44,13,25,6.9,31.1,False
+2025-10-08,Nigeria,Lagos,Alimosho,857,294,595,1.6,25.2,False
+2025-10-08,Nigeria,Lagos,Ikorodu,305,93,190,5.4,27.7,False
+2025-10-08,Nigeria,Lagos,Surulere,138,46,72,10.8,28.6,True
+2025-10-08,Nigeria,Niger,Bida,522,125,255,3.1,29.6,False
+2025-10-08,Nigeria,Niger,Chanchaga,290,125,141,6.3,29.7,False
+2025-10-08,Nigeria,Ogun,Abeokuta South,57,19,27,2.2,30.0,False
+2025-10-08,Nigeria,Ogun,Ifo,608,157,381,4.7,28.6,False
+2025-10-08,Nigeria,Ondo,Akure South,289,64,143,5.5,27.9,False
+2025-10-08,Nigeria,Ondo,Owo,126,46,72,1.4,29.9,False
+2025-10-08,Nigeria,Osun,Ife Central,346,74,226,2.4,28.8,False
+2025-10-08,Nigeria,Osun,Osogbo,158,30,126,1.2,27.7,False
+2025-10-08,Nigeria,Oyo,Ibadan North,306,107,272,4.3,30.1,False
+2025-10-08,Nigeria,Oyo,Ogbomosho North,443,158,264,3.7,29.4,False
+2025-10-08,Nigeria,Plateau,Jos North,410,158,169,2.9,29.3,False
+2025-10-08,Nigeria,Plateau,Shendam,168,74,95,4.9,27.9,False
+2025-10-08,Nigeria,Rivers,Obio-Akpor,374,213,213,9.3,25.3,False
+2025-10-08,Nigeria,Rivers,Port Harcourt,268,93,125,0.5,28.2,False
+2025-10-08,Nigeria,Sokoto,Sokoto North,299,63,220,1.7,25.4,False
+2025-10-08,Nigeria,Sokoto,Sokoto South,244,107,79,2.4,28.2,False
+2025-10-08,Nigeria,Taraba,Jalingo,86,53,69,6.9,27.7,False
+2025-10-08,Nigeria,Taraba,Wukari,170,66,119,1.9,27.0,False
+2025-10-08,Nigeria,Yobe,Damaturu,130,48,80,5.2,31.5,False
+2025-10-08,Nigeria,Yobe,Potiskum,218,36,94,2.1,28.6,False
+2025-10-08,Nigeria,Zamfara,Gusau,306,110,255,9.8,27.6,False
+2025-10-08,Nigeria,Zamfara,Talata Mafara,166,70,133,7.0,31.1,False
+2025-10-09,Nigeria,Abia,Aba South,196,56,139,4.6,30.0,False
+2025-10-09,Nigeria,Abia,Umuahia North,146,30,89,6.3,22.8,False
+2025-10-09,Nigeria,Adamawa,Mubi North,160,43,64,2.6,23.5,False
+2025-10-09,Nigeria,Adamawa,Yola North,233,56,116,2.1,31.0,False
+2025-10-09,Nigeria,Akwa Ibom,Eket,271,82,170,6.8,25.9,False
+2025-10-09,Nigeria,Akwa Ibom,Uyo,295,101,211,5.8,33.1,False
+2025-10-09,Nigeria,Anambra,Awka South,294,97,130,6.1,30.6,False
+2025-10-09,Nigeria,Anambra,Onitsha North,350,123,131,3.0,30.3,False
+2025-10-09,Nigeria,Bauchi,Bauchi,540,301,442,6.2,28.6,False
+2025-10-09,Nigeria,Bauchi,Katagum,314,102,213,7.2,29.2,False
+2025-10-09,Nigeria,Benue,Gboko,229,101,150,1.5,27.5,False
+2025-10-09,Nigeria,Benue,Makurdi,229,72,107,11.1,30.1,True
+2025-10-09,Nigeria,Borno,Jere,156,73,104,0.8,30.0,False
+2025-10-09,Nigeria,Borno,Maiduguri,517,114,187,3.9,26.3,False
+2025-10-09,Nigeria,Cross River,Ikom,400,93,191,3.2,29.5,False
+2025-10-09,Nigeria,Delta,Ughelli North,232,85,166,2.2,31.3,False
+2025-10-09,Nigeria,Delta,Warri South,179,66,112,5.0,33.0,False
+2025-10-09,Nigeria,Edo,Etsako West,115,32,96,6.4,31.4,False
+2025-10-09,Nigeria,Edo,Oredo,258,105,148,9.4,26.8,False
+2025-10-09,Nigeria,Ekiti,Ado Ekiti,320,81,205,6.7,29.0,False
+2025-10-09,Nigeria,Ekiti,Ikole,55,12,40,21.1,29.6,False
+2025-10-09,Nigeria,Enugu,Enugu North,199,103,101,4.1,22.6,False
+2025-10-09,Nigeria,Enugu,Nsukka,250,86,108,1.9,30.6,False
+2025-10-09,Nigeria,FCT,AMAC,316,53,171,2.9,27.2,False
+2025-10-09,Nigeria,FCT,Bwari,285,130,161,8.1,29.4,False
+2025-10-09,Nigeria,Gombe,Gombe,187,77,163,3.4,26.8,False
+2025-10-09,Nigeria,Gombe,Kaltungo,94,44,104,14.3,28.2,True
+2025-10-09,Nigeria,Jigawa,Dutse,642,106,279,2.6,32.1,False
+2025-10-09,Nigeria,Jigawa,Hadejia,155,52,105,9.1,27.0,False
+2025-10-09,Nigeria,Kaduna,Chikun,498,129,238,0.3,28.5,False
+2025-10-09,Nigeria,Kaduna,Zaria,585,150,308,3.3,20.2,False
+2025-10-09,Nigeria,Kano,Gwale,1625,462,1048,1.1,29.1,False
+2025-10-09,Nigeria,Katsina,Dutsin-Ma,488,156,229,5.2,27.2,False
+2025-10-09,Nigeria,Katsina,Kafur,575,266,247,9.7,31.8,False
+2025-10-09,Nigeria,Kebbi,Argungu,154,51,70,6.1,25.8,False
+2025-10-09,Nigeria,Kebbi,Birnin Kebbi,299,86,252,4.5,33.2,False
+2025-10-09,Nigeria,Kogi,Idah,43,23,24,7.7,30.5,False
+2025-10-09,Nigeria,Kogi,Lokoja,243,64,183,8.7,31.3,False
+2025-10-09,Nigeria,Kwara,Ilorin West,210,96,159,4.3,28.5,False
+2025-10-09,Nigeria,Kwara,Offa,59,10,49,5.3,29.9,False
+2025-10-09,Nigeria,Lagos,Alimosho,692,295,333,4.7,27.8,False
+2025-10-09,Nigeria,Lagos,Ikorodu,295,122,190,4.1,26.7,False
+2025-10-09,Nigeria,Lagos,Surulere,167,38,87,9.7,32.0,False
+2025-10-09,Nigeria,Niger,Bida,319,97,242,4.9,21.6,False
+2025-10-09,Nigeria,Niger,Chanchaga,286,131,200,3.4,28.8,False
+2025-10-09,Nigeria,Ogun,Abeokuta South,69,33,26,10.6,31.9,False
+2025-10-09,Nigeria,Ogun,Ifo,474,203,375,2.2,28.7,False
+2025-10-09,Nigeria,Ondo,Akure South,421,82,260,2.5,27.7,False
+2025-10-09,Nigeria,Ondo,Owo,151,29,65,2.2,27.9,False
+2025-10-09,Nigeria,Osun,Ife Central,298,83,137,4.5,35.2,False
+2025-10-09,Nigeria,Osun,Osogbo,188,67,109,9.6,31.7,False
+2025-10-09,Nigeria,Oyo,Ibadan North,320,183,254,2.8,27.7,False
+2025-10-09,Nigeria,Oyo,Ogbomosho North,512,196,247,0.4,20.6,False
+2025-10-09,Nigeria,Plateau,Jos North,328,86,259,1.5,31.3,False
+2025-10-09,Nigeria,Plateau,Shendam,185,73,126,1.6,26.9,False
+2025-10-09,Nigeria,Rivers,Obio-Akpor,415,166,322,12.9,27.7,True
+2025-10-09,Nigeria,Rivers,Port Harcourt,227,96,132,4.2,30.1,False
+2025-10-09,Nigeria,Sokoto,Sokoto North,242,90,172,0.6,27.6,False
+2025-10-09,Nigeria,Sokoto,Sokoto South,240,61,126,10.3,35.8,True
+2025-10-09,Nigeria,Taraba,Jalingo,111,36,71,1.7,28.2,False
+2025-10-09,Nigeria,Taraba,Wukari,148,69,78,11.1,29.1,True
+2025-10-09,Nigeria,Yobe,Damaturu,130,34,67,3.3,30.0,False
+2025-10-09,Nigeria,Yobe,Potiskum,177,59,113,0.7,31.8,False
+2025-10-09,Nigeria,Zamfara,Gusau,361,111,189,7.3,26.8,False
+2025-10-09,Nigeria,Zamfara,Talata Mafara,259,89,123,4.8,29.7,False
+2025-10-10,Nigeria,Abia,Aba South,228,102,160,7.7,28.7,False
+2025-10-10,Nigeria,Abia,Umuahia North,92,41,76,0.9,33.9,False
+2025-10-10,Nigeria,Adamawa,Mubi North,159,69,119,5.0,23.8,False
+2025-10-10,Nigeria,Adamawa,Yola North,323,70,155,8.3,29.1,False
+2025-10-10,Nigeria,Akwa Ibom,Eket,238,49,164,0.4,26.4,False
+2025-10-10,Nigeria,Akwa Ibom,Uyo,219,99,133,1.8,29.5,False
+2025-10-10,Nigeria,Anambra,Awka South,309,120,224,2.9,27.2,False
+2025-10-10,Nigeria,Anambra,Onitsha North,318,70,143,0.8,30.7,False
+2025-10-10,Nigeria,Bauchi,Bauchi,546,132,366,10.9,29.0,True
+2025-10-10,Nigeria,Bauchi,Katagum,330,94,256,4.6,29.5,False
+2025-10-10,Nigeria,Benue,Gboko,292,95,122,7.1,30.8,False
+2025-10-10,Nigeria,Benue,Makurdi,216,92,146,2.3,29.0,False
+2025-10-10,Nigeria,Borno,Jere,238,56,138,5.9,28.8,False
+2025-10-10,Nigeria,Borno,Maiduguri,405,104,316,12.4,25.5,True
+2025-10-10,Nigeria,Cross River,Ikom,351,90,131,0.6,31.0,False
+2025-10-10,Nigeria,Delta,Ughelli North,349,83,149,6.0,32.6,False
+2025-10-10,Nigeria,Delta,Warri South,199,112,113,4.5,28.0,False
+2025-10-10,Nigeria,Edo,Etsako West,152,65,84,3.7,29.6,False
+2025-10-10,Nigeria,Edo,Oredo,230,63,160,5.6,26.3,False
+2025-10-10,Nigeria,Ekiti,Ado Ekiti,261,65,113,4.1,29.6,False
+2025-10-10,Nigeria,Ekiti,Ikole,78,23,29,0.2,28.9,False
+2025-10-10,Nigeria,Enugu,Enugu North,256,78,125,4.3,29.1,False
+2025-10-10,Nigeria,Enugu,Nsukka,254,76,160,6.1,31.0,False
+2025-10-10,Nigeria,FCT,AMAC,238,112,145,1.9,28.0,False
+2025-10-10,Nigeria,FCT,Bwari,273,77,131,8.5,25.7,False
+2025-10-10,Nigeria,Gombe,Gombe,263,70,146,4.6,28.6,False
+2025-10-10,Nigeria,Gombe,Kaltungo,106,25,63,7.5,30.6,False
+2025-10-10,Nigeria,Jigawa,Dutse,437,211,286,1.6,27.3,False
+2025-10-10,Nigeria,Jigawa,Hadejia,159,49,98,9.9,30.7,False
+2025-10-10,Nigeria,Kaduna,Chikun,441,138,275,10.8,25.9,True
+2025-10-10,Nigeria,Kaduna,Zaria,400,200,213,2.0,29.6,False
+2025-10-10,Nigeria,Kano,Gwale,1423,638,622,14.0,32.2,True
+2025-10-10,Nigeria,Katsina,Dutsin-Ma,495,164,252,0.7,30.8,False
+2025-10-10,Nigeria,Katsina,Kafur,534,145,253,2.8,28.1,False
+2025-10-10,Nigeria,Kebbi,Argungu,162,64,93,6.7,24.4,False
+2025-10-10,Nigeria,Kebbi,Birnin Kebbi,301,117,185,5.7,29.1,False
+2025-10-10,Nigeria,Kogi,Idah,58,22,51,12.9,27.5,False
+2025-10-10,Nigeria,Kogi,Lokoja,301,74,150,2.2,33.2,False
+2025-10-10,Nigeria,Kwara,Ilorin West,217,101,101,5.1,29.3,False
+2025-10-10,Nigeria,Kwara,Offa,43,9,31,2.4,26.8,False
+2025-10-10,Nigeria,Lagos,Alimosho,850,167,527,7.9,30.7,False
+2025-10-10,Nigeria,Lagos,Ikorodu,310,104,174,1.4,31.5,False
+2025-10-10,Nigeria,Lagos,Surulere,136,33,140,2.6,25.9,False
+2025-10-10,Nigeria,Niger,Bida,496,149,322,6.3,31.9,False
+2025-10-10,Nigeria,Niger,Chanchaga,321,156,202,1.6,26.7,False
+2025-10-10,Nigeria,Ogun,Abeokuta South,102,33,64,5.7,26.1,False
+2025-10-10,Nigeria,Ogun,Ifo,461,239,331,13.6,30.3,True
+2025-10-10,Nigeria,Ondo,Akure South,292,66,189,0.8,24.1,False
+2025-10-10,Nigeria,Ondo,Owo,168,55,91,0.5,25.8,False
+2025-10-10,Nigeria,Osun,Ife Central,217,61,145,4.3,28.7,False
+2025-10-10,Nigeria,Osun,Osogbo,178,81,87,5.3,26.3,False
+2025-10-10,Nigeria,Oyo,Ibadan North,276,127,156,11.5,33.4,True
+2025-10-10,Nigeria,Oyo,Ogbomosho North,368,105,206,2.1,31.9,False
+2025-10-10,Nigeria,Plateau,Jos North,358,123,154,5.3,29.8,False
+2025-10-10,Nigeria,Plateau,Shendam,238,47,110,1.2,24.0,False
+2025-10-10,Nigeria,Rivers,Obio-Akpor,500,218,312,1.4,29.2,False
+2025-10-10,Nigeria,Rivers,Port Harcourt,210,58,130,0.5,29.7,False
+2025-10-10,Nigeria,Sokoto,Sokoto North,314,118,208,7.7,27.1,False
+2025-10-10,Nigeria,Sokoto,Sokoto South,282,65,141,2.2,24.1,False
+2025-10-10,Nigeria,Taraba,Jalingo,102,40,52,3.8,31.7,False
+2025-10-10,Nigeria,Taraba,Wukari,267,116,108,0.8,29.4,False
+2025-10-10,Nigeria,Yobe,Damaturu,199,77,183,6.9,28.6,False
+2025-10-10,Nigeria,Yobe,Potiskum,185,90,94,1.7,25.7,False
+2025-10-10,Nigeria,Zamfara,Gusau,379,185,232,2.6,27.9,False
+2025-10-10,Nigeria,Zamfara,Talata Mafara,180,88,105,4.0,27.4,False

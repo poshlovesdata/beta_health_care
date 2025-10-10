@@ -1,0 +1,9 @@
+medicine_code,name,category,form,unit,is_key_essential
+ACT-ART,Artemisinin-based combo therapy,malaria,tab,tabs,True
+AMX-500,Amoxicillin 500mg,antibiotic,cap,caps,True
+ORS-ZNC,ORS + Zinc co-pack,diarrhea,sachet,packs,True
+RDT-MAL,Malaria RDT kit,diagnostic,test,tests,True
+OXE-10IU,Oxytocin 10 IU,maternal,inj,vials,True
+DMPA-150,Depot Medroxyprogesterone,family_planning,inj,vials,True
+PCM-500,Paracetamol 500mg,analgesic,tab,tabs,True
+HIV-RT,Rapid HIV Test,diagnostic,test,tests,True
