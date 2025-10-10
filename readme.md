@@ -128,6 +128,7 @@ See `API_README.md` for database setup details.
 - Location: `/.github/workflows/daily-simulation.yml`
 - Trigger: daily at `0 0 * * *` (UTC) and manual `workflow_dispatch`
 - Steps: checkout repo, set up Python 3.10, install `requirements.txt`, load CSVs into Postgres
+- Loader gating: runs only if `data/outputs` exists; otherwise logs a skip to avoid failure.
 - Notifications: sends an email on success or failure
 - Required Secrets (Settings → Secrets and variables → Actions):
   - `DATABASE_URL` — cloud Postgres connection string
@@ -140,10 +141,12 @@ See `API_README.md` for database setup details.
 - To run the simulator manually, go to Actions → “BetaHealthCare Daily Simulation” → Run workflow and set:
   - `run_simulation` to `true` (optional)
   - `run_loader` to `true` if you also want to reload Postgres
+  - Recommended: commit baseline CSVs to `data/outputs/` so daily loads always work. Use `run_simulation` when you intend to regenerate datasets.
 
 ## Troubleshooting
 
 - If `data/outputs/` is empty, run the simulator: `python scripts/simulate_phc.py`.
+ - If you prefer consistent daily loads, commit baseline CSVs under `data/outputs/` and regenerate via manual simulator runs when needed.
 - If Postgres isn’t reachable, verify your cloud DB host/port/firewall and credentials. Use pgAdmin (`docker compose up -d`) to test connectivity.
 - Verify `DATABASE_URL` matches your environment or `.env`.
 
