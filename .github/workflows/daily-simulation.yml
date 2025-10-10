@@ -35,12 +35,12 @@ jobs:
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
-          server_port: ${{ secrets.SMTP_PORT }}
+          server_port: 587
+          secure: false
           username: ${{ secrets.SMTP_USERNAME }}
-          password: ${{ secrets.SMTP_PASSWORD }} fdhf equm zrxz gfaz
+          password: ${{ secrets.SMTP_PASSWORD }}
           from: ${{ secrets.NOTIFY_EMAIL_FROM }}
           to: ${{ secrets.NOTIFY_EMAIL_TO }}
-          secure: true
           subject: "BetaHealthCare Daily Simulation: ${{ job.status }}"
           body: |
             Workflow: ${{ github.workflow }}
