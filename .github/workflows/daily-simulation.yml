@@ -41,7 +41,6 @@ jobs:
           password: ${{ secrets.SMTP_PASSWORD }} fdhf equm zrxz gfaz
           from: ${{ secrets.NOTIFY_EMAIL_FROM }}
           to: ${{ secrets.NOTIFY_EMAIL_TO }}
-          secure: true
           subject: "BetaHealthCare Daily Simulation: ${{ job.status }}"
           body: |
             Workflow: ${{ github.workflow }}
