@@ -112,6 +112,18 @@ See `API_README.md` for database setup details.
 - `scripts/simulate_phc.py` — generates all simulated datasets
 - `scripts/db_loader_pg.py` — loads all datasets into Postgres
 
+## CI Workflow
+
+- Location: `/.github/workflows/daily-simulation.yml`
+- Trigger: daily at `0 0 * * *` (UTC) and manual `workflow_dispatch`
+- Steps: checkout repo, set up Python 3.10, install `requirements.txt`, run simulator, load CSVs into Postgres
+- Notifications: sends an email on success or failure
+- Required Secrets (Settings → Secrets and variables → Actions):
+  - `DATABASE_URL` — cloud Postgres connection string
+  - `SMTP_SERVER`, `SMTP_PORT` — SMTP host and port
+  - `SMTP_USERNAME`, `SMTP_PASSWORD` — SMTP credentials (use app password if needed)
+  - `NOTIFY_EMAIL_FROM`, `NOTIFY_EMAIL_TO` — sender and recipient email addresses
+
 ## Troubleshooting
 
 - If `data/outputs/` is empty, run the simulator: `python scripts/simulate_phc.py`.
