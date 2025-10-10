@@ -88,6 +88,8 @@ The simulator writes the following CSVs to `data/outputs/`:
 
 - Start the server: `uvicorn api.main:app --reload --port 8000`
 - Base URL: `http://localhost:8000`
+- Public URL: `https://beta-health-care.onrender.com`
+- Hosted Docs: `https://beta-health-care.onrender.com/docs`
 - Key endpoints:
   - `GET /` — API info and endpoint list
   - `GET /facilities?state=&lga=&facility_type=&ownership=&limit=&offset=`
@@ -104,6 +106,15 @@ See `API_README.md` for database setup details.
   ```
 - Set `DATABASE_URL` in `.env` to your cloud Postgres connection string.
 - pgAdmin is available at `http://localhost:5050` (from Docker Compose) with credentials from `docker-compose.yml`.
+
+## Render Deployment
+
+- Ensure `render.yaml` exists and includes:
+  - `env: python`, `healthCheckPath: /`, and start command `uvicorn api.main:app --host 0.0.0.0 --port $PORT`.
+  - `PYTHON_VERSION` set to `3.11.9` (via environment variable) and `pip` upgraded in `buildCommand`.
+- In Render dashboard → your service → Environment, add `DATABASE_URL` with your cloud Postgres connection string.
+- If startup fails with `ValueError: DATABASE_URL environment variable is not set`, verify the env var is present and correct in Render.
+- Confirm your database allows inbound connections from Render.
 
 ## Scripts
 
