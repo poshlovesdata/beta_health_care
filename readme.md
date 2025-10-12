@@ -2,6 +2,8 @@
 
 BetaHealthCare is a Primary Health Care (PHC) data platform that simulates and models PHC operations, including facility allocation, service delivery, and resource management.
 
+Link to drive: [documentation](http://drive.google.com/drive/u/0/folders/1NaIPYqP3Tz9o6F5ACTL5sgQcKuZEsuMx)
+
 ## Quick Start
 
 - Install dependencies:
