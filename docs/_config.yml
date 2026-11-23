@@ -1,0 +1,12 @@
+title: BetaHealthCare Docs
+description: Documentation for data engineering process, workflows, and decisions
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+search_enabled: true
+color_scheme: light
+markdown: kramdown
+exclude:
+  - venv
+  - .github
+  - .git

@@ -139,6 +139,7 @@ See `API_README.md` for database setup details.
   - `NOTIFY_EMAIL_FROM`, `NOTIFY_EMAIL_TO` — sender and recipient email addresses
 
 ### Manual simulation runs
+
 - The daily workflow skips the simulator by default to keep data stable.
 - To run the simulator manually, go to Actions → “BetaHealthCare Daily Simulation” → Run workflow and set:
   - `run_simulation` to `true` (optional)
@@ -148,10 +149,32 @@ See `API_README.md` for database setup details.
 ## Troubleshooting
 
 - If `data/outputs/` is empty, run the simulator: `python scripts/simulate_phc.py`.
- - If you prefer consistent daily loads, commit baseline CSVs under `data/outputs/` and regenerate via manual simulator runs when needed.
+- If you prefer consistent daily loads, commit baseline CSVs under `data/outputs/` and regenerate via manual simulator runs when needed.
 - If Postgres isn’t reachable, verify your cloud DB host/port/firewall and credentials. Use pgAdmin (`docker compose up -d`) to test connectivity.
 - Verify `DATABASE_URL` matches your environment or `.env`.
 
 ## About
 
 BetaHealthCare is designed to help teams prototype PHC data workflows quickly, with realistic datasets, clear documentation, and a simple API for queries and dashboards.
+
+## WonderCare Integration
+
+- Purpose: Integrate the WonderCare Africa Streamlit apps (Bot and Manager Dashboard) to consume data produced by this pipeline.
+- Deploy flow: after the daily workflow completes successfully, a separate workflow triggers Render deploy hooks for WonderCare services.
+- Required Secrets (Settings → Secrets and variables → Actions):
+  - `RENDER_DEPLOY_HOOK_MANAGER` — Render deploy hook URL for Manager Dashboard service
+  - `RENDER_DEPLOY_HOOK_BOT` — Render deploy hook URL for WonderCare Bot service
+- Configure WonderCare services (in Render or their repo env):
+  - `DATABASE_URL` — point to the same Postgres used by this project, or
+  - `API_BASE_URL` — `https://beta-health-care.onrender.com` if consuming via API instead of direct DB
+- Manual triggers: use Actions → “WonderCare Integration Deploy” → Run workflow to redeploy either service (`deploy_manager`, `deploy_bot`).
+
+## Documentation (GitHub Pages)
+
+Comprehensive documentation for the data engineering process, architecture, workflows, decisions, and deployment is published via GitHub Pages.
+
+- Source: `docs/`
+- Deploy: GitHub Actions workflow `Deploy Docs (GitHub Pages)` builds with Jekyll and publishes to the Pages environment.
+- View: Open the repository’s “Environments → github-pages” deployment for the site URL. Once published, the site is available at the repository’s GitHub Pages URL.
+
+If you update or add docs, push to `main` (or run the workflow manually) to redeploy the site.
